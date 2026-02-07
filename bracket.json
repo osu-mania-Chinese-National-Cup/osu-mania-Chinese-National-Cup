@@ -4,7 +4,6 @@
     "OnlineID": 3,
     "Name": "osu!mania",
     "InstantiationInfo": "osu.Game.Rulesets.Mania.ManiaRuleset, osu.Game.Rulesets.Mania",
-    "LastAppliedDifficultyVersion": 20241007,
     "Available": true
   },
   "Matches": [
@@ -101,19 +100,64 @@
     {
       "ID": 9,
       "Team1Acronym": "reviv",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "YuuOoo",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503814
+        }
+      ],
       "Current": false,
       "Date": "2026-02-07T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 220
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -212,19 +256,59 @@
     {
       "ID": 3,
       "Team1Acronym": "SilentParleHorn",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "6XvX7",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503814
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503814
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-07T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 360
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -249,12 +333,63 @@
     {
       "ID": 11,
       "Team1Acronym": "quailty",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "rainwindy",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503833
+        }
+      ],
       "Current": false,
       "Date": "2026-02-07T19:00:00+08:00",
       "ConditionalMatches": [],
@@ -262,7 +397,6 @@
         "X": 360,
         "Y": 220
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -384,13 +518,12 @@
           "BeatmapID": 5503689
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-07T17:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 540
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -415,12 +548,63 @@
     {
       "ID": 12,
       "Team1Acronym": "WhiteArrow3",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "Plus_QwQ",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503814
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503689
+        }
+      ],
       "Current": false,
       "Date": "2026-02-07T18:00:00+08:00",
       "ConditionalMatches": [],
@@ -428,7 +612,6 @@
         "X": 540,
         "Y": 220
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -27965,7 +28148,7 @@
     }
   ],
   "ChromaKeyWidth": 1366,
-  "FrameRate": 60,
+  "FrameRate": 220,
   "PlayersPerTeam": 1,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
