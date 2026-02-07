@@ -4,6 +4,7 @@
     "OnlineID": 3,
     "Name": "osu!mania",
     "InstantiationInfo": "osu.Game.Rulesets.Mania.ManiaRuleset, osu.Game.Rulesets.Mania",
+    "LastAppliedDifficultyVersion": 20241007,
     "Available": true
   },
   "Matches": [
@@ -187,13 +188,12 @@
       "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-07T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -320,7 +320,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-07T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -529,12 +529,63 @@
     {
       "ID": 8,
       "Team1Acronym": "Nice_life",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "Ist1na",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503833
+        }
+      ],
       "Current": false,
       "Date": "2026-02-07T22:00:00+08:00",
       "ConditionalMatches": [],
@@ -542,7 +593,6 @@
         "X": 540,
         "Y": 110
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -28052,7 +28102,7 @@
     }
   ],
   "ChromaKeyWidth": 1366,
-  "FrameRate": 120,
+  "FrameRate": 123,
   "PlayersPerTeam": 1,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
