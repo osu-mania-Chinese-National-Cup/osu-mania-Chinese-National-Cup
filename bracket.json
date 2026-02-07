@@ -390,7 +390,6 @@
       "Position": {
         "X": 540
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -1924,102 +1923,6 @@
               "cover@2x": "https://assets.ppy.sh/beatmaps/2501586/covers/cover@2x.jpg?1769956290",
               "card@2x": "https://assets.ppy.sh/beatmaps/2501586/covers/card@2x.jpg?1769956290",
               "list@2x": "https://assets.ppy.sh/beatmaps/2501586/covers/list@2x.jpg?1769956290"
-            },
-            "Ruleset": {
-              "OnlineID": 3,
-              "Name": "APIRuleset (ID: 3)",
-              "InstantiationInfo": ""
-            }
-          }
-        },
-        {
-          "ID": 5503689,
-          "Mods": "HB",
-          "BeatmapInfo": {
-            "OnlineID": 5503689,
-            "DifficultyName": "[7K] flying to your heart (MCNC edit.)",
-            "BPM": 128.0,
-            "Length": 136000.0,
-            "StarRating": 4.45948,
-            "EndTimeObjectCount": 714,
-            "TotalObjectCount": 1913,
-            "Metadata": {
-              "Title": "Catch You Catch Me",
-              "title_unicode": "Catch You Catch Me",
-              "Artist": "Gumi",
-              "artist_unicode": "Gumi",
-              "Author": {
-                "OnlineID": 8900975,
-                "Username": "BKwind",
-                "CountryString": "Unknown"
-              },
-              "Source": "カードキャプターさくら",
-              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
-              "UserTags": [],
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 7.0,
-              "CircleSize": 7.0,
-              "OverallDifficulty": 6.5,
-              "ApproachRate": 7.0,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/2501531/covers/cover@2x.jpg?1769954714",
-              "card@2x": "https://assets.ppy.sh/beatmaps/2501531/covers/card@2x.jpg?1769954714",
-              "list@2x": "https://assets.ppy.sh/beatmaps/2501531/covers/list@2x.jpg?1769954714"
-            },
-            "Ruleset": {
-              "OnlineID": 3,
-              "Name": "APIRuleset (ID: 3)",
-              "InstantiationInfo": ""
-            }
-          }
-        },
-        {
-          "ID": 5503787,
-          "Mods": "HB",
-          "BeatmapInfo": {
-            "OnlineID": 5503787,
-            "DifficultyName": "[7K] Insane (edit)",
-            "BPM": 185.0,
-            "Length": 120000.0,
-            "StarRating": 4.35328,
-            "EndTimeObjectCount": 520,
-            "TotalObjectCount": 1790,
-            "Metadata": {
-              "Title": "Letter to the Black World",
-              "title_unicode": "黒塗り世界宛て書簡",
-              "Artist": "Frog96",
-              "artist_unicode": "フロクロ",
-              "Author": {
-                "OnlineID": 13026904,
-                "Username": "tyrcs",
-                "CountryString": "Unknown"
-              },
-              "Source": "",
-              "tags": "重音テト kasane teto osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
-              "UserTags": [],
-              "PreviewTime": -1,
-              "AudioFile": "",
-              "BackgroundFile": ""
-            },
-            "Difficulty": {
-              "DrainRate": 8.0,
-              "CircleSize": 7.0,
-              "OverallDifficulty": 6.0,
-              "ApproachRate": 5.0,
-              "SliderMultiplier": 1.4,
-              "SliderTickRate": 1.0
-            },
-            "Covers": {
-              "cover@2x": "https://assets.ppy.sh/beatmaps/2501555/covers/cover@2x.jpg?1769955182",
-              "card@2x": "https://assets.ppy.sh/beatmaps/2501555/covers/card@2x.jpg?1769955182",
-              "list@2x": "https://assets.ppy.sh/beatmaps/2501555/covers/list@2x.jpg?1769955182"
             },
             "Ruleset": {
               "OnlineID": 3,
