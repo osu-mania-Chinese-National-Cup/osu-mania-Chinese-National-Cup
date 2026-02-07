@@ -248,10 +248,10 @@
     {
       "ID": 11,
       "Team1Acronym": "quailty",
-      "Team1Score": 0,
+      "Team1Score": 4,
       "Team2Acronym": "rainwindy",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [
         {
@@ -278,6 +278,31 @@
           "Team": "Blue",
           "Type": "Pick",
           "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503833
         }
       ],
       "Current": true,
@@ -287,7 +312,6 @@
         "X": 360,
         "Y": 220
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
