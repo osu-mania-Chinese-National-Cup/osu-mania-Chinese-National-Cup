@@ -100,19 +100,64 @@
     {
       "ID": 9,
       "Team1Acronym": "reviv",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "YuuOoo",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503814
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-07T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 220
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -305,7 +350,7 @@
           "BeatmapID": 5503833
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-07T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
