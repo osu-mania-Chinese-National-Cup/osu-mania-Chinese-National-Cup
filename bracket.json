@@ -10,9 +10,9 @@
     {
       "ID": 1,
       "Team1Acronym": "AKlevenseven",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "036js",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
