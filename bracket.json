@@ -181,13 +181,13 @@
     {
       "ID": 2,
       "Team1Acronym": "-Challenger-",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "purakon",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-07T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
