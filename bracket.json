@@ -27,13 +27,69 @@
     {
       "ID": 5,
       "Team1Acronym": "91sNake",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "BlueHaze",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503814
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503833
+        }
+      ],
+      "Current": false,
       "Date": "2026-02-07T14:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -212,12 +268,63 @@
     {
       "ID": 15,
       "Team1Acronym": "AWMRone",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Myon_299792458",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503814
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503833
+        }
+      ],
       "Current": false,
       "Date": "2026-02-07T16:00:00+08:00",
       "ConditionalMatches": [],
@@ -225,7 +332,6 @@
         "X": 360,
         "Y": 330
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -27722,7 +27828,7 @@
     }
   ],
   "ChromaKeyWidth": 1366,
-  "FrameRate": 360,
+  "FrameRate": 60,
   "PlayersPerTeam": 1,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
