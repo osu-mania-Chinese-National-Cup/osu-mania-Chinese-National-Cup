@@ -209,19 +209,69 @@
     {
       "ID": 13,
       "Team1Acronym": "vvvxx",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "hatanako",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503814
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503833
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-08T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 330
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -366,7 +416,7 @@
           "BeatmapID": 5503797
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-08T17:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -375,7 +425,7 @@
       },
       "PointsToWin": 4
     },
-
+    {
       "ID": 14,
       "Team1Acronym": "Ulazis",
       "Team1Score": 4,
@@ -28338,7 +28388,7 @@
     }
   ],
   "ChromaKeyWidth": 1366,
-  "FrameRate": 120,
+  "FrameRate": 190,
   "PlayersPerTeam": 1,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
