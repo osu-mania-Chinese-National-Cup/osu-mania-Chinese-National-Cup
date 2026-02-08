@@ -303,7 +303,7 @@
           "BeatmapID": 5503710
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-07T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -320,7 +320,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-07T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
