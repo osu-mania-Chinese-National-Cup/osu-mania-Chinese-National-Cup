@@ -319,12 +319,53 @@
     {
       "ID": 10,
       "Team1Acronym": "Randumbs",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "-fm777-",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503711
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503814
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503797
+        }
+      ],
       "Current": true,
       "Date": "2026-02-08T17:00:00+08:00",
       "ConditionalMatches": [],
@@ -332,7 +373,6 @@
         "X": 180,
         "Y": 220
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
