@@ -375,15 +375,71 @@
       },
       "PointsToWin": 4
     },
-    {
+
       "ID": 14,
       "Team1Acronym": "Ulazis",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "Civilian",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5503814
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5503778
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503779
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503877
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503797
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503710
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5503689
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5503833
+        }
+      ],
       "Current": false,
       "Date": "2026-02-08T20:00:00+08:00",
       "ConditionalMatches": [],
@@ -391,7 +447,6 @@
         "X": 180,
         "Y": 330
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
