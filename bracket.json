@@ -214,59 +214,8 @@
       "Team2Score": 1,
       "Completed": true,
       "Losers": false,
-      "PicksBans": [
-        {
-          "Team": "Red",
-          "Type": "Protected",
-          "BeatmapID": 5503778
-        },
-        {
-          "Team": "Blue",
-          "Type": "Protected",
-          "BeatmapID": 5503779
-        },
-        {
-          "Team": "Blue",
-          "Type": "Ban",
-          "BeatmapID": 5503797
-        },
-        {
-          "Team": "Red",
-          "Type": "Ban",
-          "BeatmapID": 5503877
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 5503710
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 5503814
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 5503779
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 5503778
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 5503787
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 5503833
-        }
-      ],
-      "Current": true,
+      "PicksBans": [],
+      "Current": false,
       "Date": "2026-02-08T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1016,255 +965,290 @@
     },
     {
       "ID": 17,
-      "Team1Acronym": "Watch01",
-      "Team1Score": null,
-      "Team2Acronym": "SnowySummer",
-      "Team2Score": null,
+      "Team1Acronym": "QingJiDing",
+      "Team1Score": 0,
+      "Team2Acronym": "BlueHaze",
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Current": true,
+      "Date": "2026-02-14T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 660
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 19,
+      "Team1Acronym": "kevoleener",
       "Team1Score": null,
+      "Team2Acronym": "AKlevenseven",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-14T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 760
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 21,
-      "Team1Acronym": "Shenzouz",
+      "Team1Acronym": "_Yiiiii",
       "Team1Score": null,
+      "Team2Acronym": "vvvxx",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-14T08:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 860
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 23,
+      "Team1Acronym": "tangjinxi",
       "Team1Score": null,
-      "Team2Acronym": "Fate_Yakumo",
+      "Team2Acronym": "reviv",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-15T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 960
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 24,
+      "Team1Acronym": "VanWilder",
       "Team1Score": null,
-      "Team2Acronym": "Just A GRJ",
+      "Team2Acronym": "-ShiRoTsz_Dx",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-15T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1060
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 26,
+      "Team1Acronym": "Zengzengyyds",
       "Team1Score": null,
+      "Team2Acronym": "-Challenger-",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-15T06:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1160
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 28,
+      "Team1Acronym": "L5645453",
       "Team1Score": null,
+      "Team2Acronym": "Ulazis",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-14T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1260
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 30,
-      "Team1Acronym": "[GB]hej_067",
+      "Team1Acronym": "hero_jeff",
       "Team1Score": null,
-      "Team2Acronym": "1405512654",
+      "Team2Acronym": "Randumbs",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-15T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1360
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 31,
+      "Team1Acronym": "af-",
       "Team1Score": null,
-      "Team2Acronym": "AsahinaMikuru",
+      "Team2Acronym": "Ayachinene0721",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-15T08:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1460
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 33,
+      "Team1Acronym": "fishbone2445",
       "Team1Score": null,
-      "Team2Acronym": "[AR]aLEKdexter",
+      "Team2Acronym": "SilentParleHorn",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-14T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1560
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 35,
-      "Team1Acronym": "YuLiangSSS",
+      "Team1Acronym": "Sensegs",
       "Team1Score": null,
-      "Team2Acronym": "-[Ulazis]-",
+      "Team2Acronym": "AWMRone",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-14T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1660
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 37,
+      "Team1Acronym": "DannyXLee",
       "Team1Score": null,
+      "Team2Acronym": "quailty",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-15T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1760
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 38,
+      "Team1Acronym": "zec",
       "Team1Score": null,
+      "Team2Acronym": "Nice_life",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-14T06:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1860
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 40,
+      "Team1Acronym": "[LS]Maftaliv",
       "Team1Score": null,
-      "Team2Acronym": "Mito Van",
+      "Team2Acronym": "HxcQ777",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-14T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1960
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 44,
+      "Team1Acronym": "[Crz]Reimu",
       "Team1Score": null,
-      "Team2Acronym": "80zero",
+      "Team2Acronym": "idqoos123",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-13T12:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2060
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 48,
+      "Team1Acronym": "9eater",
       "Team1Score": null,
+      "Team2Acronym": "WhiteArrow3",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T08:00:00+08:00",
+      "Date": "2026-02-15T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2160
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1913,7 +1897,7 @@
       "ConditionalMatches": [],
       "Position": {
         "X": 900,
-        "Y": 2110
+        "Y": 2130
       },
       "PointsToWin": 6
     },
@@ -2005,7 +1989,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T08:00:00+08:00",
+      "Date": "2026-03-18T08:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1620,
@@ -2525,7 +2509,580 @@
       "Description": "BO 9",
       "BestOf": 9,
       "BanCount": 1,
-      "Beatmaps": [],
+      "Beatmaps": [
+        {
+          "ID": 5515468,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5515468,
+            "DifficultyName": "[7K] Lumina",
+            "BPM": 235.0,
+            "Length": 138000.0,
+            "StarRating": 4.19111,
+            "TotalObjectCount": 2114,
+            "Metadata": {
+              "Title": "Recross Fate",
+              "title_unicode": "リクロスフェイト",
+              "Artist": "Atos",
+              "artist_unicode": "あとぅす",
+              "Author": {
+                "OnlineID": 8900975,
+                "Username": "BKwind",
+                "CountryString": "Unknown"
+              },
+              "Source": "BMSをたくさん作るぜ'23",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.5,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505141/covers/cover@2x.jpg?1770566405",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505141/covers/card@2x.jpg?1770566405",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505141/covers/list@2x.jpg?1770566405"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515436,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5515436,
+            "DifficultyName": "[7K] Obscurity",
+            "BPM": 152.0,
+            "Length": 189000.0,
+            "StarRating": 5.52832,
+            "TotalObjectCount": 3411,
+            "Metadata": {
+              "Title": "The Ruby of Twilight",
+              "title_unicode": "The Ruby of Twilight",
+              "Artist": "cygnus",
+              "artist_unicode": "cygnus",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu! World Cup 2025",
+              "tags": "owc2025 original featured artist fa matrix heaven punisher electronic instrumental piano trance osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505124/covers/cover@2x.jpg?1770565278",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505124/covers/card@2x.jpg?1770565278",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505124/covers/list@2x.jpg?1770565278"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515464,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5515464,
+            "DifficultyName": "[7K] glo-up",
+            "BPM": 106.0,
+            "Length": 131000.0,
+            "StarRating": 4.68036,
+            "TotalObjectCount": 2316,
+            "Metadata": {
+              "Title": "edamame",
+              "title_unicode": "edamame",
+              "Artist": "bbno$ & Rich Brian",
+              "artist_unicode": "bbno$ & Rich Brian",
+              "Author": {
+                "OnlineID": 1653229,
+                "Username": "_Stan",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mcnc chordjack cj 2026 ro16 english pop rap hip hop hip-hop hiphop",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505137/covers/cover@2x.jpg?1770566283",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505137/covers/card@2x.jpg?1770566283",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505137/covers/list@2x.jpg?1770566283"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5415855,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5415855,
+            "DifficultyName": "[7K] 10 gift subs",
+            "BPM": 160.0,
+            "Length": 192000.0,
+            "StarRating": 3.8618,
+            "EndTimeObjectCount": 2,
+            "TotalObjectCount": 2138,
+            "Metadata": {
+              "Title": "TTV",
+              "title_unicode": "TTV",
+              "Artist": "Telefon Tel Aviv",
+              "artist_unicode": "Telefon Tel Aviv",
+              "Author": {
+                "OnlineID": 5314573,
+                "Username": "lenpai",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2471857/covers/cover@2x.jpg?1766937721",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2471857/covers/card@2x.jpg?1766937721",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2471857/covers/list@2x.jpg?1766937721"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515465,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5515465,
+            "DifficultyName": "[7K] Ask to Wind",
+            "BPM": 150.0,
+            "Length": 121000.0,
+            "StarRating": 4.98955,
+            "TotalObjectCount": 2401,
+            "Metadata": {
+              "Title": "Wind Tales",
+              "title_unicode": "Wind Tales",
+              "Artist": "yak_won",
+              "artist_unicode": "yak_won",
+              "Author": {
+                "OnlineID": 8900975,
+                "Username": "BKwind",
+                "CountryString": "Unknown"
+              },
+              "Source": "EZ2DJ",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505138/covers/cover@2x.jpg?1770566296",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505138/covers/card@2x.jpg?1770566296",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505138/covers/list@2x.jpg?1770566296"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515469,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5515469,
+            "DifficultyName": "[7K] Please, Give Me A Mapper",
+            "BPM": 146.0,
+            "Length": 148000.0,
+            "StarRating": 4.79681,
+            "EndTimeObjectCount": 861,
+            "TotalObjectCount": 2329,
+            "Metadata": {
+              "Title": "Please, Give Me A Lover",
+              "title_unicode": "애인을 내려주세요",
+              "Artist": "Warak",
+              "artist_unicode": "Warak",
+              "Author": {
+                "OnlineID": 8900975,
+                "Username": "BKwind",
+                "CountryString": "Unknown"
+              },
+              "Source": "O2Jam U",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505142/covers/cover@2x.jpg?1770566451",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505142/covers/card@2x.jpg?1770566451",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505142/covers/list@2x.jpg?1770566451"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 2835613,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 2835613,
+            "DifficultyName": "[7K] WaterFlow",
+            "BPM": 140.0,
+            "Length": 158000.0,
+            "StarRating": 4.95884,
+            "EndTimeObjectCount": 624,
+            "TotalObjectCount": 1925,
+            "Metadata": {
+              "Title": "PURE SILVER",
+              "title_unicode": "PURE SILVER",
+              "Artist": "Camellia",
+              "artist_unicode": "かめりあ",
+              "Author": {
+                "OnlineID": 15526127,
+                "Username": "JuHaa",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "かめるかめりあ cametek kamelcamellia masaya oya 大箭将也 electronic instrumental youtube 100k subscribers special featured artist fa",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 5.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1371480/covers/cover@2x.jpg?1641013274",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1371480/covers/card@2x.jpg?1641013274",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1371480/covers/list@2x.jpg?1641013274"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515437,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5515437,
+            "DifficultyName": "[7K] Vanitas",
+            "BPM": 194.0,
+            "Length": 124000.0,
+            "StarRating": 5.87602,
+            "EndTimeObjectCount": 957,
+            "TotalObjectCount": 2158,
+            "Metadata": {
+              "Title": "At the edge of dreams",
+              "title_unicode": "At the edge of dreams",
+              "Artist": "Alpha-2",
+              "artist_unicode": "α-2",
+              "Author": {
+                "OnlineID": 10210497,
+                "Username": "Telzzxs",
+                "CountryString": "Unknown"
+              },
+              "Source": "大血戦 - THE BMS OF FIGHTERS ULTIMATE",
+              "tags": "α-125 influx bms abe_yuta abe3 instrumental electronic osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505125/covers/cover@2x.jpg?1770565298",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505125/covers/card@2x.jpg?1770565298",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505125/covers/list@2x.jpg?1770565298"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515413,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5515413,
+            "DifficultyName": "[7K] Myriad Stars",
+            "BPM": 67.93,
+            "Length": 117000.0,
+            "StarRating": 3.05185,
+            "EndTimeObjectCount": 482,
+            "TotalObjectCount": 774,
+            "Metadata": {
+              "Title": "Thousands of Songs",
+              "title_unicode": "千千阙歌",
+              "Artist": "Priscilla Chan",
+              "artist_unicode": "陈慧娴",
+              "Author": {
+                "OnlineID": 7590894,
+                "Username": "ExNeko",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc round of 32 ro32 ln coordination control",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505111/covers/cover@2x.jpg?1770564129",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505111/covers/card@2x.jpg?1770564129",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505111/covers/list@2x.jpg?1770564129"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515438,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5515438,
+            "DifficultyName": "[7K] ranman",
+            "BPM": 140.0,
+            "Length": 152000.0,
+            "StarRating": 5.45759,
+            "EndTimeObjectCount": 1959,
+            "TotalObjectCount": 2666,
+            "Metadata": {
+              "Title": "Shun-ran",
+              "title_unicode": "春嵐",
+              "Artist": "john",
+              "artist_unicode": "john",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "hatsune miku 初音ミク vocaloid osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505126/covers/cover@2x.jpg?1770565327",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505126/covers/card@2x.jpg?1770565327",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505126/covers/list@2x.jpg?1770565327"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515439,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5515439,
+            "DifficultyName": "[7K] Inspirational Melody",
+            "BPM": 120.0,
+            "Length": 186000.0,
+            "StarRating": 5.69104,
+            "EndTimeObjectCount": 1500,
+            "TotalObjectCount": 2300,
+            "Metadata": {
+              "Title": "Tataeshi Tatakai no Uta",
+              "title_unicode": "贊えし闘いの詩",
+              "Artist": "Ito Kanako",
+              "artist_unicode": "いとうかなこ",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "Lamento",
+              "tags": "video game japanese vocal osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505127/covers/cover@2x.jpg?1770565359",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505127/covers/card@2x.jpg?1770565359",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505127/covers/list@2x.jpg?1770565359"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5515463,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 5515463,
+            "DifficultyName": "[7K] Reverberant Collab",
+            "BPM": 150.0,
+            "Length": 361000.0,
+            "StarRating": 6.72744,
+            "EndTimeObjectCount": 1888,
+            "TotalObjectCount": 6420,
+            "Metadata": {
+              "Title": "resonance feat. KOCHO (KARUT Remix)",
+              "title_unicode": "resonance feat. KOCHO (KARUT Remix)",
+              "Artist": "Aiobahn",
+              "artist_unicode": "Aiobahn",
+              "Author": {
+                "OnlineID": 1653229,
+                "Username": "_Stan",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc round 32 ro32 tb tiebreaker tyrcs u1d exneko exneri j-trance all connected electronic japanese trance atmospheric marathon",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2505136/covers/cover@2x.jpg?1770566184",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2505136/covers/card@2x.jpg?1770566184",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2505136/covers/list@2x.jpg?1770566184"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        }
+      ],
       "StartDate": "2026-02-11T08:00:00+08:00",
       "Matches": [
         17,
