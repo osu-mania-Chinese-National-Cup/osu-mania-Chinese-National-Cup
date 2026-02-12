@@ -972,8 +972,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2026-02-12T12:00:00+00:00",
+      "Current": false,
+      "Date": "2026-02-14T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 660
@@ -991,7 +991,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T14:00:00+00:00",
+      "Date": "2026-02-14T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 760
@@ -1009,7 +1009,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-13T13:00:00+00:00",
+      "Date": "2026-02-14T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 860
@@ -1045,7 +1045,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-13T13:00:00+00:00",
+      "Date": "2026-02-15T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1060
@@ -1063,7 +1063,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-13T12:00:00+00:00",
+      "Date": "2026-02-15T14:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1160
@@ -1081,7 +1081,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-13T11:30:00+00:00",
+      "Date": "2026-02-14T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1260
@@ -1110,14 +1110,14 @@
     {
       "ID": 31,
       "Team1Acronym": "af-",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "Ayachinene0721",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-13T11:00:00+00:00",
+      "Date": "2026-02-15T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1460
@@ -1171,7 +1171,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-13T12:00:00+00:00",
+      "Date": "2026-02-15T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1760
@@ -1182,19 +1182,64 @@
     {
       "ID": 38,
       "Team1Acronym": "zec",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Nice_life",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        }
+      ],
       "Current": false,
       "Date": "2026-02-12T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1860
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1207,7 +1252,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-15T13:00:00+00:00",
+      "Date": "2026-02-14T23:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1960
@@ -1224,7 +1269,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-13T20:30:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1349,6 +1394,7 @@
     },
     {
       "ID": 39,
+      "Team1Acronym": "zec",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1361,6 +1407,7 @@
         "X": 180,
         "Y": 1910
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1471,6 +1518,7 @@
     },
     {
       "ID": 76,
+      "Team1Acronym": "Nice_life",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1482,6 +1530,7 @@
       "Position": {
         "Y": 2900
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -28945,7 +28994,7 @@
     }
   ],
   "ChromaKeyWidth": 1366,
-  "FrameRate": 190,
+  "FrameRate": 240,
   "PlayersPerTeam": 1,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
