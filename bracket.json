@@ -374,7 +374,7 @@
       },
       "PointsToWin": 4
     },
-    {
+
       "ID": 14,
       "Team1Acronym": "Ulazis",
       "Team1Score": 4,
@@ -28945,7 +28945,7 @@
     }
   ],
   "ChromaKeyWidth": 1366,
-  "FrameRate": 190,
+  "FrameRate": 120,
   "PlayersPerTeam": 1,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
