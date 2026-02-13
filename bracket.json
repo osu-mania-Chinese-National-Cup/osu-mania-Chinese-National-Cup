@@ -966,19 +966,64 @@
     {
       "ID": 17,
       "Team1Acronym": "QingJiDing",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "BlueHaze",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        }
+      ],
       "Current": false,
-      "Date": "2026-02-14T20:00:00+08:00",
+      "Date": "2026-02-12T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 660
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -991,7 +1036,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T15:00:00+08:00",
+      "Date": "2026-02-14T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 760
@@ -1009,7 +1054,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T16:00:00+08:00",
+      "Date": "2026-02-13T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 860
@@ -1045,7 +1090,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-15T15:00:00+08:00",
+      "Date": "2026-02-13T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1060
@@ -1063,7 +1108,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-15T14:00:00+08:00",
+      "Date": "2026-02-13T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1160
@@ -1081,7 +1126,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T21:00:00+08:00",
+      "Date": "2026-02-13T11:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1260
@@ -1116,8 +1161,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-02-15T16:00:00+08:00",
+      "Current": true,
+      "Date": "2026-02-13T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1460
@@ -1135,7 +1180,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T19:00:00+08:00",
+      "Date": "2026-02-13T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1560
@@ -1171,7 +1216,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-15T21:00:00+08:00",
+      "Date": "2026-02-13T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1760
@@ -1235,7 +1280,7 @@
         }
       ],
       "Current": false,
-      "Date": "2026-02-12T13:00:00+00:00",
+      "Date": "2026-02-12T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1860
@@ -1252,7 +1297,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-14T23:00:00+08:00",
+      "Date": "2026-02-15T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1960
@@ -1269,7 +1314,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-13T20:30:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1298,6 +1343,7 @@
     },
     {
       "ID": 18,
+      "Team1Acronym": "QingJiDing",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1310,6 +1356,7 @@
         "X": 180,
         "Y": 710
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1428,6 +1475,7 @@
     },
     {
       "ID": 54,
+      "Team1Acronym": "BlueHaze",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1439,6 +1487,7 @@
       "Position": {
         "Y": 2300
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
