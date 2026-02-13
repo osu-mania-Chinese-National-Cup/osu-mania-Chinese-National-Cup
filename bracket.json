@@ -1015,13 +1015,13 @@
     {
       "ID": 19,
       "Team1Acronym": "kevoleener",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "AKlevenseven",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-14T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
