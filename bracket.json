@@ -1047,19 +1047,69 @@
     {
       "ID": 21,
       "Team1Acronym": "_Yiiiii",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "vvvxx",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5415855
+        }
+      ],
       "Current": false,
       "Date": "2026-02-13T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 860
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1271,7 +1321,7 @@
           "BeatmapID": 5515463
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-13T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1416,6 +1466,7 @@
     },
     {
       "ID": 22,
+      "Team1Acronym": "_Yiiiii",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1428,6 +1479,7 @@
         "X": 180,
         "Y": 910
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1548,6 +1600,7 @@
     },
     {
       "ID": 60,
+      "Team1Acronym": "vvvxx",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1559,6 +1612,7 @@
       "Position": {
         "Y": 2400
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
