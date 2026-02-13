@@ -1434,19 +1434,84 @@
     {
       "ID": 33,
       "Team1Acronym": "fishbone2445",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "SilentParleHorn",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515463
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-13T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1560
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1784,6 +1849,7 @@
       "ID": 32,
       "Team1Acronym": "af-",
       "Team1Score": null,
+      "Team2Acronym": "fishbone2445",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -1924,6 +1990,7 @@
       "ID": 69,
       "Team1Acronym": "Ayachinene0721",
       "Team1Score": null,
+      "Team2Acronym": "SilentParleHorn",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
