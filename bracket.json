@@ -1015,13 +1015,74 @@
     {
       "ID": 19,
       "Team1Acronym": "kevoleener",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "AKlevenseven",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515463
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-14T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
