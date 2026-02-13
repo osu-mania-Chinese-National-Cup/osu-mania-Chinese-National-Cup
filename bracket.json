@@ -1133,30 +1133,141 @@
     {
       "ID": 24,
       "Team1Acronym": "VanWilder",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "-ShiRoTsz_Dx",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        }
+      ],
       "Current": false,
       "Date": "2026-02-13T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1060
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 26,
       "Team1Acronym": "Zengzengyyds",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "-Challenger-",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515463
+        }
+      ],
       "Current": false,
       "Date": "2026-02-13T20:00:00+08:00",
       "ConditionalMatches": [],
@@ -1169,19 +1280,64 @@
     {
       "ID": 28,
       "Team1Acronym": "L5645453",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Ulazis",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5415855
+        }
+      ],
       "Current": false,
       "Date": "2026-02-13T19:30:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1260
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1205,19 +1361,69 @@
     {
       "ID": 31,
       "Team1Acronym": "af-",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "Ayachinene0721",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        }
+      ],
       "Current": false,
       "Date": "2026-02-13T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 1460
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1413,19 +1619,69 @@
     {
       "ID": 44,
       "Team1Acronym": "[Crz]Reimu",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "idqoos123",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        }
+      ],
       "Current": false,
       "Date": "2026-02-13T20:30:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2060
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1484,7 +1740,9 @@
     },
     {
       "ID": 25,
+      "Team1Acronym": "VanWilder",
       "Team1Score": null,
+      "Team2Acronym": "-Challenger-",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -1496,10 +1754,12 @@
         "X": 180,
         "Y": 1110
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 29,
+      "Team1Acronym": "L5645453",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1512,10 +1772,12 @@
         "X": 180,
         "Y": 1310
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 32,
+      "Team1Acronym": "af-",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1528,6 +1790,7 @@
         "X": 180,
         "Y": 1510
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1567,6 +1830,7 @@
     },
     {
       "ID": 45,
+      "Team1Acronym": "[Crz]Reimu",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1579,6 +1843,7 @@
         "X": 180,
         "Y": 2110
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1617,7 +1882,9 @@
     },
     {
       "ID": 63,
+      "Team1Acronym": "Zengzengyyds",
       "Team1Score": null,
+      "Team2Acronym": "-ShiRoTsz_Dx",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1628,10 +1895,12 @@
       "Position": {
         "Y": 2500
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 66,
+      "Team1Acronym": "Ulazis",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1643,10 +1912,12 @@
       "Position": {
         "Y": 2600
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 69,
+      "Team1Acronym": "Ayachinene0721",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1658,6 +1929,7 @@
       "Position": {
         "Y": 2700
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -1696,6 +1968,7 @@
     },
     {
       "ID": 79,
+      "Team1Acronym": "idqoos123",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1707,6 +1980,7 @@
       "Position": {
         "Y": 3000
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
