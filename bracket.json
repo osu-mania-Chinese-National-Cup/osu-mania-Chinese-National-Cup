@@ -1016,6 +1016,11 @@
           "Team": "Red",
           "Type": "Pick",
           "BeatmapID": 5515437
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515463
         }
       ],
       "Current": false,
