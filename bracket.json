@@ -1087,7 +1087,7 @@
           "BeatmapID": 5515463
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-14T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1170,7 +1170,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-15T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1541,7 +1541,7 @@
           "BeatmapID": 5515463
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-13T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1551,10 +1551,10 @@
     {
       "ID": 35,
       "Team1Acronym": "Sensegs",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "AWMRone",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -1801,6 +1801,7 @@
       "ID": 18,
       "Team1Acronym": "QingJiDing",
       "Team1Score": null,
+      "Team2Acronym": "kevoleener",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -1881,6 +1882,7 @@
     },
     {
       "ID": 36,
+      "Team1Acronym": "Sensegs",
       "Team1Score": null,
       "Team2Acronym": "DannyXLee",
       "Team2Score": null,
@@ -1931,6 +1933,7 @@
       "ID": 54,
       "Team1Acronym": "BlueHaze",
       "Team1Score": null,
+      "Team2Acronym": "AKlevenseven",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2008,6 +2011,7 @@
       "ID": 73,
       "Team1Acronym": "quailty",
       "Team1Score": null,
+      "Team2Acronym": "AWMRone",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
