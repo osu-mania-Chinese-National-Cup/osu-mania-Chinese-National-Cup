@@ -1437,13 +1437,64 @@
     {
       "ID": 30,
       "Team1Acronym": "hero_jeff",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Randumbs",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-15T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1752,13 +1803,79 @@
     {
       "ID": 40,
       "Team1Acronym": "[LS]Maftaliv",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "HxcQ777",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515469
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515468
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515465
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515463
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-15T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1952,6 +2069,7 @@
       "ID": 39,
       "Team1Acronym": "zec",
       "Team1Score": null,
+      "Team2Acronym": "HxcQ777",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2078,6 +2196,7 @@
       "ID": 76,
       "Team1Acronym": "Nice_life",
       "Team1Score": null,
+      "Team2Acronym": "[LS]Maftaliv",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
