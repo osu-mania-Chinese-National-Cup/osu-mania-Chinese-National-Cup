@@ -1386,13 +1386,64 @@
     {
       "ID": 30,
       "Team1Acronym": "hero_jeff",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Randumbs",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515437
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-15T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
