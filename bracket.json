@@ -1952,12 +1952,63 @@
     {
       "ID": 48,
       "Team1Acronym": "9eater",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "WhiteArrow3",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5515469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5515436
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5515439
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515413
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5415855
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5515464
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2835613
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5515469
+        }
+      ],
       "Current": false,
       "Date": "2026-02-15T23:00:00+08:00",
       "ConditionalMatches": [],
