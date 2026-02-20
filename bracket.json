@@ -2026,7 +2026,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T12:00:00+00:00",
+      "Date": "2026-02-22T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2043,7 +2043,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T11:00:00+00:00",
+      "Date": "2026-02-22T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2060,7 +2060,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T06:00:00+00:00",
+      "Date": "2026-02-22T14:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2077,7 +2077,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T13:00:00+00:00",
+      "Date": "2026-02-22T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2087,14 +2087,14 @@
     {
       "ID": 32,
       "Team1Acronym": "af-",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "fishbone2445",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2026-02-20T12:00:00+00:00",
+      "Current": false,
+      "Date": "2026-02-20T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2111,7 +2111,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T10:00:00+00:00",
+      "Date": "2026-02-22T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2128,7 +2128,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T14:00:00+00:00",
+      "Date": "2026-02-21T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2145,7 +2145,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T13:00:00+00:00",
+      "Date": "2026-02-22T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2162,7 +2162,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-20T13:00:00+00:00",
+      "Date": "2026-02-20T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2300
@@ -2178,7 +2178,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T07:00:00+00:00",
+      "Date": "2026-02-21T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2400
@@ -2194,7 +2194,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+00:00",
+      "Date": "2026-02-21T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2500
@@ -2209,8 +2209,8 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-02-21T13:00:00+00:00",
+      "Current": true,
+      "Date": "2026-02-21T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2600
@@ -2226,7 +2226,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T08:00:00+00:00",
+      "Date": "2026-02-22T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2700
@@ -2242,7 +2242,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T07:00:00+00:00",
+      "Date": "2026-02-22T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2800
@@ -2258,7 +2258,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T12:00:00+00:00",
+      "Date": "2026-02-21T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2900
@@ -2274,7 +2274,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-22T13:30:00+00:00",
+      "Date": "2026-02-22T21:30:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 3000
@@ -2327,6 +2327,7 @@
     },
     {
       "ID": 65,
+      "Team1Acronym": "fishbone2445",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2434,6 +2435,7 @@
     },
     {
       "ID": 34,
+      "Team1Acronym": "af-",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
