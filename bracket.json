@@ -1221,7 +1221,7 @@
           "BeatmapID": 5515464
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-15T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1494,7 +1494,7 @@
           "BeatmapID": 5515469
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-15T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1875,7 +1875,7 @@
           "BeatmapID": 5515463
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-15T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2019,14 +2019,14 @@
     {
       "ID": 18,
       "Team1Acronym": "QingJiDing",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "kevoleener",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2037,12 +2037,13 @@
       "ID": 22,
       "Team1Acronym": "_Yiiiii",
       "Team1Score": null,
+      "Team2Acronym": "tangjinxi",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2059,7 +2060,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T06:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2070,12 +2071,13 @@
       "ID": 29,
       "Team1Acronym": "L5645453",
       "Team1Score": null,
+      "Team2Acronym": "hero_jeff",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2091,8 +2093,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Current": true,
+      "Date": "2026-02-20T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2109,7 +2111,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T10:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2126,7 +2128,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-21T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2137,12 +2139,13 @@
       "ID": 45,
       "Team1Acronym": "[Crz]Reimu",
       "Team1Score": null,
+      "Team2Acronym": "9eater",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2159,7 +2162,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-20T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2300
@@ -2169,12 +2172,13 @@
       "ID": 60,
       "Team1Acronym": "vvvxx",
       "Team1Score": null,
+      "Team2Acronym": "reviv",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-21T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2400
@@ -2182,15 +2186,15 @@
     },
     {
       "ID": 63,
-      "Team1Acronym": "Zengzengyyds",
+      "Team1Acronym": "-ShiRoTsz_Dx",
       "Team1Score": null,
-      "Team2Acronym": "-ShiRoTsz_Dx",
+      "Team2Acronym": "Zengzengyyds",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-21T08:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2500
@@ -2200,12 +2204,13 @@
       "ID": 66,
       "Team1Acronym": "Ulazis",
       "Team1Score": null,
+      "Team2Acronym": "Randumbs",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-21T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2600
@@ -2221,7 +2226,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T08:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2700
@@ -2229,15 +2234,15 @@
     },
     {
       "ID": 73,
-      "Team1Acronym": "quailty",
+      "Team1Acronym": "AWMRone",
       "Team1Score": null,
-      "Team2Acronym": "AWMRone",
+      "Team2Acronym": "quailty",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2800
@@ -2253,7 +2258,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-21T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2900
@@ -2263,12 +2268,13 @@
       "ID": 79,
       "Team1Acronym": "idqoos123",
       "Team1Score": null,
+      "Team2Acronym": "WhiteArrow3",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-21T08:00:00+08:00",
+      "Date": "2026-02-22T13:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 3000
@@ -3852,7 +3858,579 @@
       "Description": "BO 9",
       "BestOf": 9,
       "BanCount": 1,
-      "Beatmaps": [],
+      "Beatmaps": [
+        {
+          "ID": 5525799,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5525799,
+            "DifficultyName": "[7K] yakiniku (MCNC edit.)",
+            "BPM": 260.0,
+            "Length": 148000.0,
+            "StarRating": 4.72607,
+            "TotalObjectCount": 2769,
+            "Metadata": {
+              "Title": "Airengokuka (Cut Ver.)",
+              "title_unicode": "哀煉獄歌 (Cut Ver.)",
+              "Artist": "Sakamirito",
+              "artist_unicode": "さかみりと",
+              "Author": {
+                "OnlineID": 8900975,
+                "Username": "BKwind",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.5,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508693/covers/cover@2x.jpg?1771174678",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508693/covers/card@2x.jpg?1771174678",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508693/covers/list@2x.jpg?1771174678"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525787,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5525787,
+            "DifficultyName": "[7K] Insane",
+            "BPM": 160.0,
+            "Length": 131000.0,
+            "StarRating": 5.89191,
+            "TotalObjectCount": 3293,
+            "Metadata": {
+              "Title": "Kegarenaki Euphoria (Cut Ver.)",
+              "title_unicode": "穢れなきユーフォリア (Cut Ver.)",
+              "Artist": "senya",
+              "artist_unicode": "senya",
+              "Author": {
+                "OnlineID": 7082178,
+                "Username": "[Crz]Satori",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方鬼形獣　～ Wily Beast and Weakest Creature.",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508685/covers/cover@2x.jpg?1771174502",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508685/covers/card@2x.jpg?1771174502",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508685/covers/list@2x.jpg?1771174502"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525731,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5525731,
+            "DifficultyName": "[7K] Citywalk",
+            "BPM": 115.0,
+            "Length": 142000.0,
+            "StarRating": 5.51157,
+            "TotalObjectCount": 2888,
+            "Metadata": {
+              "Title": "Chit-Chat",
+              "title_unicode": "Chit-Chat",
+              "Artist": "KB_Ondin",
+              "artist_unicode": "KB_Ondin",
+              "Author": {
+                "OnlineID": 10210497,
+                "Username": "Telzzxs",
+                "CountryString": "Unknown"
+              },
+              "Source": "THE BMS OF FIGHTERS ULTIMATE 2016 -Legendary Again-",
+              "tags": "bms bofu2016 code:regeneration pianopop light pop instrumental chordjack cj osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 9.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508656/covers/cover@2x.jpg?1771172696",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508656/covers/card@2x.jpg?1771172696",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508656/covers/list@2x.jpg?1771172696"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525744,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5525744,
+            "DifficultyName": "[7K] Refraction",
+            "BPM": 145.0,
+            "Length": 122000.0,
+            "StarRating": 4.07462,
+            "TotalObjectCount": 1756,
+            "Metadata": {
+              "Title": "Spectrum",
+              "title_unicode": "Spectrum",
+              "Artist": "kou",
+              "artist_unicode": "kou",
+              "Author": {
+                "OnlineID": 1653229,
+                "Username": "_Stan",
+                "CountryString": "Unknown"
+              },
+              "Source": "cavoe's osu! event Global Taiko Showdown",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc electronic instrumental coegts2023 coegts 2023",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508663/covers/cover@2x.jpg?1771172913",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508663/covers/card@2x.jpg?1771172913",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508663/covers/list@2x.jpg?1771172913"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525792,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5525792,
+            "DifficultyName": "[7K] Revenge",
+            "BPM": 160.0,
+            "Length": 138000.0,
+            "StarRating": 5.4564,
+            "TotalObjectCount": 3075,
+            "Metadata": {
+              "Title": "Oriental Shade",
+              "title_unicode": "Oriental Shade",
+              "Artist": "seibin",
+              "artist_unicode": "seibin",
+              "Author": {
+                "OnlineID": 8900975,
+                "Username": "BKwind",
+                "CountryString": "Unknown"
+              },
+              "Source": "EZ2DJ",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.5,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508687/covers/cover@2x.jpg?1771174569",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508687/covers/card@2x.jpg?1771174569",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508687/covers/list@2x.jpg?1771174569"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525796,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5525796,
+            "DifficultyName": "[7K] TET[]RIS",
+            "BPM": 170.0,
+            "Length": 140000.0,
+            "StarRating": 6.04705,
+            "EndTimeObjectCount": 1500,
+            "TotalObjectCount": 3000,
+            "Metadata": {
+              "Title": "Tetoris",
+              "title_unicode": "テトリス",
+              "Artist": "Hiiragi Magnetite",
+              "artist_unicode": "柊マグネタイト",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "Tetris",
+              "tags": "kensuke ascended kasane teto sv utauloid utau vocaloid synthesizer v 重音テト tetorisu tetris a-type 田中宏和 tanaka hirokazu japanese pop electronic jpop j-pop korobeiniki Коробейники traditional russian folk song remix video game theme osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508691/covers/cover@2x.jpg?1771174697",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508691/covers/card@2x.jpg?1771174697",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508691/covers/list@2x.jpg?1771174697"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525801,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5525801,
+            "DifficultyName": "[7K] Silent Sky (edit)",
+            "BPM": 160.0,
+            "Length": 119000.0,
+            "StarRating": 5.85759,
+            "EndTimeObjectCount": 910,
+            "TotalObjectCount": 2144,
+            "Metadata": {
+              "Title": "Strange Night",
+              "title_unicode": "Strange Night",
+              "Artist": "Heinz Schweers feat. Jessica O'Donoghue",
+              "artist_unicode": "Heinz Schweers feat. Jessica O'Donoghue",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "THE BMS OF FIGHTERS : ET -Summer Dream Traveler-",
+              "tags": "bofet bof:et bms euphoria guru chill-out techno osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508694/covers/cover@2x.jpg?1771174860",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508694/covers/card@2x.jpg?1771174860",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508694/covers/list@2x.jpg?1771174860"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 4092862,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 4092862,
+            "DifficultyName": "[7K] Petmalu Collab",
+            "BPM": 220.0,
+            "Length": 143000.0,
+            "StarRating": 5.50375,
+            "EndTimeObjectCount": 978,
+            "TotalObjectCount": 2458,
+            "Metadata": {
+              "Title": "Shiba Paradise",
+              "title_unicode": "Shiba Paradise",
+              "Artist": "James Landino",
+              "artist_unicode": "James Landino",
+              "Author": {
+                "OnlineID": 5314573,
+                "Username": "lenpai",
+                "CountryString": "Unknown"
+              },
+              "Source": "Twin Trials",
+              "tags": "maplesyrup- lenfried- electronic instrumental ln long note speed chord stream chordstream community vote winner fa featured artist remix island mg mpg mappers' guild osu! originals",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1972411/covers/cover@2x.jpg?1711292208",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1972411/covers/card@2x.jpg?1711292208",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1972411/covers/list@2x.jpg?1711292208"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525337,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5525337,
+            "DifficultyName": "[7K] Challenge",
+            "BPM": 120.0,
+            "Length": 162000.0,
+            "StarRating": 5.4017,
+            "EndTimeObjectCount": 1331,
+            "TotalObjectCount": 2078,
+            "Metadata": {
+              "Title": "eight",
+              "title_unicode": "eight",
+              "Artist": "JINGBURGER x Secretto",
+              "artist_unicode": "징버거 x 비밀소녀",
+              "Author": {
+                "OnlineID": 7240849,
+                "Username": "-dreamy witch-",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "iu prod suga bts waktaverse gomem isegye idol 이세계 아이돌",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2073687/covers/cover@2x.jpg?1771159595",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2073687/covers/card@2x.jpg?1771159595",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2073687/covers/list@2x.jpg?1771159595"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525758,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5525758,
+            "DifficultyName": "[7K] Interment",
+            "BPM": 164.0,
+            "Length": 163000.0,
+            "StarRating": 6.40153,
+            "EndTimeObjectCount": 2700,
+            "TotalObjectCount": 3333,
+            "Metadata": {
+              "Title": "A Maiden's Illusionary Funeral ~ Necro-Fantasy",
+              "title_unicode": "少女幻葬　～ Necro-Fantasy",
+              "Artist": "IWA",
+              "artist_unicode": "IWA",
+              "Author": {
+                "OnlineID": 9705896,
+                "Username": "Muses",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方妖々夢　～ Perfect Cherry Blossom",
+              "tags": "東方project touhou project touhou youyoumu comiket 69 c69 蓮台野夜行　～ ghostly field club rendaino yakou 東方音聞録 来夢緑 lime green zun 上海アリス幻樂団 team shanghai alice osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508672/covers/cover@2x.jpg?1771173391",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508672/covers/card@2x.jpg?1771173391",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508672/covers/list@2x.jpg?1771173391"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525791,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5525791,
+            "DifficultyName": "[7K] :D",
+            "BPM": 144.0,
+            "Length": 181000.0,
+            "StarRating": 5.84826,
+            "EndTimeObjectCount": 2170,
+            "TotalObjectCount": 3392,
+            "Metadata": {
+              "Title": "UNDEAD",
+              "title_unicode": "UNDEAD",
+              "Artist": "YOASOBI",
+              "artist_unicode": "YOASOBI",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "〈物語〉シリーズ オフ&モンスターシーズン",
+              "tags": "monogatari series off and & monster season ending ed ikura ayase jpop japanese pop anime osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508686/covers/cover@2x.jpg?1771174629",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508686/covers/card@2x.jpg?1771174629",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508686/covers/list@2x.jpg?1771174629"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5525786,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 5525786,
+            "DifficultyName": "[7K] Oxalis.",
+            "BPM": 236.0,
+            "Length": 323000.0,
+            "StarRating": 7.01899,
+            "EndTimeObjectCount": 2767,
+            "TotalObjectCount": 6504,
+            "Metadata": {
+              "Title": "Espiazione",
+              "title_unicode": "Espiazione",
+              "Artist": "Wolpis Carter",
+              "artist_unicode": "ウォルピスカーター",
+              "Author": {
+                "OnlineID": 10125072,
+                "Username": "U1d",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc kater キョーヘイ nishizaka kyohei hatsune miku 初音ミク vocaloid vocals utaite cover japanese jrock j-rock rock male vocalist tyrcs bkwind xixi2333",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2508684/covers/cover@2x.jpg?1771174489",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2508684/covers/card@2x.jpg?1771174489",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2508684/covers/list@2x.jpg?1771174489"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        }
+      ],
       "StartDate": "2026-02-18T08:00:00+08:00",
       "Matches": [
         18,
