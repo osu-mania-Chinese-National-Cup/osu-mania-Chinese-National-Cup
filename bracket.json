@@ -2161,7 +2161,7 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-20T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2209,8 +2209,8 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2026-02-21T07:00:00+00:00",
+      "Current": false,
+      "Date": "2026-02-21T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 2600
