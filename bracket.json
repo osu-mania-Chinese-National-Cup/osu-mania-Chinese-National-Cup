@@ -2111,7 +2111,7 @@
         }
       ],
       "Current": false,
-      "Date": "2026-02-22T08:00:00+00:00",
+      "Date": "2026-02-22T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2189,13 +2189,64 @@
     {
       "ID": 45,
       "Team1Acronym": "[Crz]Reimu",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "9eater",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5525787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5525337
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5525731
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4092862
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525791
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525801
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525796
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525799
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525337
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525787
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-22T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
