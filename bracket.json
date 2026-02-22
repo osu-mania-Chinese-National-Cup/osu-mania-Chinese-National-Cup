@@ -2053,14 +2053,65 @@
     {
       "ID": 25,
       "Team1Acronym": "VanWilder",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "-Challenger-",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5525337
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5525744
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5525731
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5525799
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525337
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525744
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525792
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525796
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4092862
+        }
+      ],
       "Current": false,
-      "Date": "2026-02-22T14:00:00+08:00",
+      "Date": "2026-02-22T08:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
