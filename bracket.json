@@ -2111,7 +2111,7 @@
         }
       ],
       "Current": false,
-      "Date": "2026-02-22T08:00:00+00:00",
+      "Date": "2026-02-22T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2486,13 +2486,74 @@
     {
       "ID": 79,
       "Team1Acronym": "idqoos123",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "WhiteArrow3",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5525791
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5525731
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5525787
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5525758
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525792
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525337
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525731
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525791
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525744
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525796
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4092862
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525799
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-22T21:30:00+08:00",
       "ConditionalMatches": [],
       "Position": {
