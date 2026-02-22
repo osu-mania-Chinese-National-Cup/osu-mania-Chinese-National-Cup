@@ -2281,13 +2281,74 @@
     {
       "ID": 73,
       "Team1Acronym": "AWMRone",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "quailty",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5525787
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5525796
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5525731
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5525758
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525801
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525792
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525796
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525799
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4092862
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525744
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525791
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525786
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-22T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2364,7 +2425,7 @@
           "BeatmapID": 5525731
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-21T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2470,7 +2531,9 @@
     },
     {
       "ID": 71,
+      "Team1Acronym": "quailty",
       "Team1Score": null,
+      "Team2Acronym": "AWMRone",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2487,6 +2550,7 @@
       "ID": 74,
       "Team1Acronym": "Shenzouz",
       "Team1Score": null,
+      "Team2Acronym": "[LS]Maftaliv",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
