@@ -2121,13 +2121,13 @@
     {
       "ID": 39,
       "Team1Acronym": "zec",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "HxcQ777",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-21T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
