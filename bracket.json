@@ -2019,13 +2019,64 @@
     {
       "ID": 18,
       "Team1Acronym": "QingJiDing",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "kevoleener",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5525801
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5525758
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5525731
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5525337
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525758
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4092862
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525796
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525801
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525787
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525786
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-22T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2244,7 +2295,7 @@
       "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-21T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2521,7 +2572,7 @@
           "BeatmapID": 5525786
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-22T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2639,6 +2690,7 @@
     },
     {
       "ID": 58,
+      "Team1Acronym": "HxcQ777",
       "Team1Score": null,
       "Team2Acronym": "reviv",
       "Team2Score": null,
@@ -2706,7 +2758,7 @@
       "ID": 71,
       "Team1Acronym": "quailty",
       "Team1Score": null,
-      "Team2Acronym": "AWMRone",
+      "Team2Acronym": "-Challenger-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2738,6 +2790,7 @@
     },
     {
       "ID": 78,
+      "Team1Acronym": "kevoleener",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2753,6 +2806,7 @@
     },
     {
       "ID": 20,
+      "Team1Acronym": "QingJiDing",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2768,6 +2822,7 @@
     },
     {
       "ID": 27,
+      "Team1Acronym": "VanWilder",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2799,6 +2854,7 @@
     },
     {
       "ID": 42,
+      "Team1Acronym": "zec",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
