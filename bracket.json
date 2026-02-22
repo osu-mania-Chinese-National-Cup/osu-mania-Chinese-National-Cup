@@ -2111,7 +2111,7 @@
         }
       ],
       "Current": false,
-      "Date": "2026-02-22T08:00:00+00:00",
+      "Date": "2026-02-22T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2316,13 +2316,69 @@
     {
       "ID": 69,
       "Team1Acronym": "Ayachinene0721",
-      "Team1Score": null,
+      "Team1Score": 1,
       "Team2Acronym": "SilentParleHorn",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5525337
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5525787
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5525731
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5525791
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525799
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525744
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525792
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525801
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525787
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5525337
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5525786
+        }
+      ],
+      "Current": true,
       "Date": "2026-02-22T16:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
