@@ -2901,7 +2901,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T15:00:00+00:00",
+      "Date": "2026-02-28T23:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2918,7 +2918,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T09:00:00+00:00",
+      "Date": "2026-02-28T17:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2935,7 +2935,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T12:00:00+00:00",
+      "Date": "2026-02-28T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2952,7 +2952,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T14:00:00+00:00",
+      "Date": "2026-02-28T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2969,7 +2969,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T12:00:00+00:00",
+      "Date": "2026-02-28T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2986,7 +2986,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T12:00:00+00:00",
+      "Date": "2026-02-28T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -2996,14 +2996,65 @@
     {
       "ID": 74,
       "Team1Acronym": "_Yiiiii",
-      "Team1Score": 0,
+      "Team1Score": 6,
       "Team2Acronym": "[LS]Maftaliv",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": true,
-      "Date": "2026-02-27T12:00:00+00:00",
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 3448230
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4140927
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4964411
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3448230
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538173
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538265
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538171
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538416
+        }
+      ],
+      "Current": false,
+      "Date": "2026-02-27T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -3020,7 +3071,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T03:00:00+00:00",
+      "Date": "2026-02-28T11:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
@@ -3037,7 +3088,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-28T14:00:00+00:00",
+      "Date": "2026-02-28T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 540,
@@ -3054,7 +3105,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-01T13:00:00+00:00",
+      "Date": "2026-03-01T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 540,
@@ -3071,7 +3122,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-01T11:00:00+00:00",
+      "Date": "2026-03-01T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 540,
@@ -3088,7 +3139,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-02-27T13:00:00+00:00",
+      "Date": "2026-02-27T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 540,
@@ -3103,7 +3154,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-01T14:00:00+00:00",
+      "Date": "2026-03-01T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 360,
@@ -3118,7 +3169,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-01T13:00:00+00:00",
+      "Date": "2026-03-01T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 360,
@@ -3133,7 +3184,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-01T12:00:00+00:00",
+      "Date": "2026-03-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 360,
@@ -3149,7 +3200,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-01T13:00:00+00:00",
+      "Date": "2026-03-01T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 360,
