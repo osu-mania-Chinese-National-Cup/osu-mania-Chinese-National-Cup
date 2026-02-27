@@ -2977,23 +2977,6 @@
       }
     },
     {
-      "ID": 71,
-      "Team1Acronym": "quailty",
-      "Team1Score": null,
-      "Team2Acronym": "AWMRone",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": true,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2026-02-28T20:00:00+08:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 180,
-        "Y": 2750
-      }
-    },
-    {
       "ID": 74,
       "Team1Acronym": "_Yiiiii",
       "Team1Score": 6,
@@ -3064,9 +3047,9 @@
     {
       "ID": 78,
       "Team1Acronym": "kevoleener",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "idqoos123",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
@@ -3493,6 +3476,23 @@
       "Position": {
         "X": 1620,
         "Y": 2190
+      }
+    },
+    {
+      "ID": 71,
+      "Team1Acronym": "-Challenger-",
+      "Team1Score": null,
+      "Team2Acronym": "AWMRone",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2026-02-28T20:00:00+08:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 180,
+        "Y": 2750
       }
     }
   ],
@@ -5883,7 +5883,6 @@
         61,
         65,
         67,
-        71,
         74,
         78,
         20,
@@ -5894,7 +5893,8 @@
         64,
         70,
         77,
-        49
+        49,
+        71
       ]
     },
     {
@@ -31420,10 +31420,6 @@
       "TargetID": 70
     },
     {
-      "SourceID": 71,
-      "TargetID": 70
-    },
-    {
       "SourceID": 74,
       "TargetID": 77
     },
@@ -31518,6 +31514,10 @@
     {
       "SourceID": 47,
       "TargetID": 49
+    },
+    {
+      "SourceID": 71,
+      "TargetID": 70
     },
     {
       "SourceID": 17,
@@ -31637,11 +31637,6 @@
     {
       "SourceID": 45,
       "TargetID": 50,
-      "Losers": true
-    },
-    {
-      "SourceID": 73,
-      "TargetID": 71,
       "Losers": true
     },
     {
