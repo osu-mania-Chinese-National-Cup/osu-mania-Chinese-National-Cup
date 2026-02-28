@@ -2917,7 +2917,7 @@
       "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-28T17:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2934,7 +2934,7 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-28T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2962,10 +2962,10 @@
     {
       "ID": 67,
       "Team1Acronym": "hero_jeff",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "SilentParleHorn",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -3109,7 +3109,7 @@
           "BeatmapID": 5538173
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-28T11:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3249,6 +3249,7 @@
     {
       "ID": 55,
       "Team1Score": null,
+      "Team2Acronym": "HxcQ777",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3278,7 +3279,9 @@
     },
     {
       "ID": 70,
+      "Team1Acronym": "hero_jeff",
       "Team1Score": null,
+      "Team2Acronym": "-Challenger-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3538,10 +3541,10 @@
     {
       "ID": 71,
       "Team1Acronym": "-Challenger-",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "AWMRone",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
