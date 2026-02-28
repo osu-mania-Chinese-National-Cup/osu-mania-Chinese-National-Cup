@@ -2928,12 +2928,83 @@
     {
       "ID": 61,
       "Team1Acronym": "DannyXLee",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Zengzengyyds",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5538172
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5538253
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4140927
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5538226
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538253
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538173
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4964411
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538265
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538174
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538171
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538228
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538172
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3448230
+        }
+      ],
       "Current": true,
       "Date": "2026-02-28T20:00:00+08:00",
       "ConditionalMatches": [],
