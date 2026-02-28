@@ -2928,10 +2928,10 @@
     {
       "ID": 61,
       "Team1Acronym": "DannyXLee",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Zengzengyyds",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": true,
