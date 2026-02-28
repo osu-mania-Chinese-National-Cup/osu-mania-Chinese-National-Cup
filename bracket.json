@@ -3541,13 +3541,13 @@
     {
       "ID": 71,
       "Team1Acronym": "-Challenger-",
-      "Team1Score": 6,
+      "Team1Score": 2,
       "Team2Acronym": "AWMRone",
-      "Team2Score": 0,
+      "Team2Score": 6,
       "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-02-28T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
