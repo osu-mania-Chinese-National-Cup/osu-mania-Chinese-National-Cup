@@ -4,7 +4,6 @@
     "OnlineID": 3,
     "Name": "osu!mania",
     "InstantiationInfo": "osu.Game.Rulesets.Mania.ManiaRuleset, osu.Game.Rulesets.Mania",
-    "LastAppliedDifficultyVersion": 20241007,
     "Available": true
   },
   "Matches": [
@@ -2928,10 +2927,10 @@
     {
       "ID": 61,
       "Team1Acronym": "DannyXLee",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Zengzengyyds",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": true,
@@ -3264,6 +3263,7 @@
     },
     {
       "ID": 64,
+      "Team1Acronym": "DannyXLee",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
