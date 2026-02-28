@@ -2956,7 +2956,7 @@
           "BeatmapID": 5538171
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-28T23:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3061,7 +3061,7 @@
           "BeatmapID": 3448230
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-28T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3441,6 +3441,7 @@
     },
     {
       "ID": 55,
+      "Team1Acronym": "9eater",
       "Team1Score": null,
       "Team2Acronym": "HxcQ777",
       "Team2Score": null,
@@ -3457,7 +3458,9 @@
     },
     {
       "ID": 64,
+      "Team1Acronym": "DannyXLee",
       "Team1Score": null,
+      "Team2Acronym": "fishbone2445",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3468,23 +3471,6 @@
       "Position": {
         "X": 360,
         "Y": 2500
-      }
-    },
-    {
-      "ID": 70,
-      "Team1Acronym": "hero_jeff",
-      "Team1Score": null,
-      "Team2Acronym": "-Challenger-",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": true,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2026-03-01T20:00:00+08:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 360,
-        "Y": 2700
       }
     },
     {
@@ -3521,6 +3507,7 @@
     },
     {
       "ID": 62,
+      "Team1Acronym": "tangjinxi",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -3643,6 +3630,7 @@
     },
     {
       "ID": 41,
+      "Team1Acronym": "QingJiDing",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -3801,12 +3789,29 @@
           "BeatmapID": 5538173
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-02-28T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 180,
         "Y": 2750
+      }
+    },
+    {
+      "ID": 70,
+      "Team1Acronym": "hero_jeff",
+      "Team1Score": null,
+      "Team2Acronym": "AWMRone",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2026-03-01T12:00:00+00:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 360,
+        "Y": 2700
       }
     }
   ],
@@ -6205,10 +6210,10 @@
         42,
         55,
         64,
-        70,
         77,
         49,
-        71
+        71,
+        70
       ]
     },
     {
@@ -31730,10 +31735,6 @@
       "TargetID": 64
     },
     {
-      "SourceID": 67,
-      "TargetID": 70
-    },
-    {
       "SourceID": 74,
       "TargetID": 77
     },
@@ -31764,10 +31765,6 @@
     {
       "SourceID": 64,
       "TargetID": 62
-    },
-    {
-      "SourceID": 70,
-      "TargetID": 68
     },
     {
       "SourceID": 77,
@@ -31832,6 +31829,10 @@
     {
       "SourceID": 71,
       "TargetID": 70
+    },
+    {
+      "SourceID": 70,
+      "TargetID": 68
     },
     {
       "SourceID": 17,
@@ -31930,7 +31931,7 @@
     },
     {
       "SourceID": 29,
-      "TargetID": 67,
+      "TargetID": 70,
       "Losers": true
     },
     {
