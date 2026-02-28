@@ -3191,12 +3191,78 @@
     {
       "ID": 20,
       "Team1Acronym": "QingJiDing",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "tangjinxi",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5538416
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5538172
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3448230
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538174
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538173
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538265
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538226
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538171
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538253
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4964411
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538251
+        }
+      ],
       "Current": false,
       "Date": "2026-02-28T22:00:00+08:00",
       "ConditionalMatches": [],
