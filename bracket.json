@@ -3072,10 +3072,10 @@
     {
       "ID": 65,
       "Team1Acronym": "fishbone2445",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "Randumbs",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
