@@ -2894,9 +2894,9 @@
     {
       "ID": 50,
       "Team1Acronym": "9eater",
-      "Team1Score": 0,
+      "Team1Score": null,
       "Team2Acronym": "BlueHaze",
-      "Team2Score": 0,
+      "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
@@ -3047,12 +3047,68 @@
     {
       "ID": 78,
       "Team1Acronym": "kevoleener",
-      "Team1Score": 0,
+      "Team1Score": 6,
       "Team2Acronym": "idqoos123",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5538172
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3448230
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5538265
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538172
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538171
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538174
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4140927
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4964411
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538173
+        }
+      ],
       "Current": true,
       "Date": "2026-02-28T11:00:00+08:00",
       "ConditionalMatches": [],
@@ -3239,6 +3295,7 @@
       "ID": 77,
       "Team1Acronym": "_Yiiiii",
       "Team1Score": null,
+      "Team2Acronym": "kevoleener",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
