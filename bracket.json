@@ -3330,12 +3330,88 @@
     {
       "ID": 27,
       "Team1Acronym": "VanWilder",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "L5645453",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5538226
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5538265
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5538253
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5538416
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538173
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538174
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538265
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538228
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538171
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3448230
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4140927
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538226
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538172
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538251
+        }
+      ],
       "Current": false,
       "Date": "2026-03-01T21:00:00+08:00",
       "ConditionalMatches": [],
@@ -3442,13 +3518,69 @@
     {
       "ID": 55,
       "Team1Acronym": "9eater",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "HxcQ777",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5538253
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 4964411
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5538265
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538226
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3448230
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4964411
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538228
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538172
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538416
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538253
+        }
+      ],
+      "Current": true,
       "Date": "2026-03-01T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3492,7 +3624,9 @@
     },
     {
       "ID": 51,
+      "Team1Acronym": "L5645453",
       "Team1Score": null,
+      "Team2Acronym": "9eater",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3525,7 +3659,6 @@
       "ID": 68,
       "Team1Acronym": "[Crz]Reimu",
       "Team1Score": null,
-      "Team2Acronym": "hero_jeff",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3633,6 +3766,7 @@
       "ID": 41,
       "Team1Acronym": "QingJiDing",
       "Team1Score": null,
+      "Team2Acronym": "VanWilder",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -3801,69 +3935,13 @@
     {
       "ID": 70,
       "Team1Acronym": "hero_jeff",
-      "Team1Score": 6,
+      "Team1Score": null,
       "Team2Acronym": "AWMRone",
-      "Team2Score": 0,
-      "Completed": true,
+      "Team2Score": null,
+      "Completed": false,
       "Losers": true,
-      "PicksBans": [
-        {
-          "Team": "Blue",
-          "Type": "Protected",
-          "BeatmapID": 5538228
-        },
-        {
-          "Team": "Red",
-          "Type": "Protected",
-          "BeatmapID": 5538416
-        },
-        {
-          "Team": "Red",
-          "Type": "Ban",
-          "BeatmapID": 3448230
-        },
-        {
-          "Team": "Blue",
-          "Type": "Ban",
-          "BeatmapID": 5538417
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 5538174
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 5538416
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 5538226
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 5538228
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 5538171
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 4140927
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 5538251
-        }
-      ],
-      "Current": true,
+      "PicksBans": [],
+      "Current": false,
       "Date": "2026-03-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
