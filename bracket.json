@@ -3347,13 +3347,89 @@
     {
       "ID": 34,
       "Team1Acronym": "af-",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "Sensegs",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4964411
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5538253
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5538416
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5538172
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4140927
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538173
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538174
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4964411
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3448230
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538265
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538171
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538253
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538228
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538251
+        }
+      ],
+      "Current": true,
       "Date": "2026-03-01T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3596,6 +3672,7 @@
       "ID": 68,
       "Team1Acronym": "[Crz]Reimu",
       "Team1Score": null,
+      "Team2Acronym": "hero_jeff",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3871,13 +3948,69 @@
     {
       "ID": 70,
       "Team1Acronym": "hero_jeff",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "AWMRone",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5538228
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5538416
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3448230
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5538417
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538174
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538416
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538226
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5538228
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538171
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4140927
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5538251
+        }
+      ],
+      "Current": true,
       "Date": "2026-03-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
