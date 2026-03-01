@@ -1,0 +1,140 @@
+name: bot-mergeconflict-rebase
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, ready_for_review]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  MAIN_BRANCH: main
+  BOT_BRANCH_PREFIX: bot/
+
+jobs:
+  force_rebase_splice_match:
+    if: |
+      github.event_name == 'issue_comment' &&
+      github.event.issue.pull_request &&
+      startsWith(github.event.comment.body, '/bot rebase')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check commenter permission (fail if unauthorized)
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const allowed = new Set(["OWNER", "MEMBER", "COLLABORATOR"]);
+            const assoc = context.payload.comment.author_association;
+            if (!allowed.has(assoc)) core.setFailed(`unauthorized: ${assoc}`);
+
+      - name: Load PR metadata
+        id: pr
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prUrl = context.payload.issue.pull_request.url;
+            const prResp = await github.request(prUrl);
+            const pr = prResp.data;
+
+            core.setOutput("number", pr.number);
+            core.setOutput("title", pr.title);
+            core.setOutput("head_ref", pr.head.ref);
+            core.setOutput("is_fork", String(pr.head.repo.fork));
+
+      - name: Reject fork PRs
+        if: steps.pr.outputs.is_fork == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              ...context.repo,
+              issue_number: Number("${{ steps.pr.outputs.number }}"),
+              body: "无法处理Fork"
+            });
+            core.setFailed("fork PR not supported");
+
+      - name: Guard bot branch prefix
+        run: |
+          BRANCH="${{ steps.pr.outputs.head_ref }}"
+          PREFIX="${{ env.BOT_BRANCH_PREFIX }}"
+          if [ -n "$PREFIX" ] && [[ "$BRANCH" != "$PREFIX"* ]]; then
+            echo "Not a bot-managed branch: $BRANCH"
+            exit 1
+          fi
+
+      - name: Ensure PR is merge-conflicted (dirty)
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = Number("${{ steps.pr.outputs.number }}");
+            let pr = null;
+            for (let i = 0; i < 10; i++) {
+              const resp = await github.rest.pulls.get({ ...context.repo, pull_number: prNumber });
+              pr = resp.data;
+              if (pr.mergeable_state && pr.mergeable_state !== "unknown") break;
+              await new Promise(r => setTimeout(r, 1500));
+            }
+            if (pr.mergeable_state !== "dirty") core.setFailed(`mergeable_state=${pr.mergeable_state} (only dirty allowed)`);
+
+      - name: Checkout (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set git identity
+        run: |
+          git config user.name "rebase-bot"
+          git config user.email "rebase-bot@users.noreply.github.com"
+
+      - name: Extract match id from PR title
+        id: mid
+        run: |
+          MATCH_ID="$(python scripts/extract_match_id.py "${{ steps.pr.outputs.title }}")"
+          echo "match_id=$MATCH_ID" >> "$GITHUB_OUTPUT"
+
+      - name: Fetch branches
+        run: |
+          git fetch origin "${{ env.MAIN_BRANCH }}"
+          git fetch origin "${{ steps.pr.outputs.head_ref }}"
+
+      - name: Reset branch to latest main
+        run: |
+          git checkout -B "${{ steps.pr.outputs.head_ref }}" "origin/${{ steps.pr.outputs.head_ref }}"
+          git reset --hard "origin/${{ env.MAIN_BRANCH }}"
+
+      - name: Splice only Match ID into bracket.json
+        run: |
+          git show "origin/${{ steps.pr.outputs.head_ref }}:bracket.json" > /tmp/bracket_pr.json
+          python scripts/splice_match.py "${{ steps.mid.outputs.match_id }}" "bracket.json" "/tmp/bracket_pr.json"
+
+      - name: Commit and force-push
+        run: |
+          git add bracket.json
+          git diff --cached --quiet || git commit -m "chore: update Match ${{ steps.mid.outputs.match_id }} only"
+          git push origin "${{ steps.pr.outputs.head_ref }}" --force-with-lease
+
+      - name: Comment success
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              ...context.repo,
+              issue_number: Number("${{ steps.pr.outputs.number }}"),
+              body: "✅ 已基于最新 main 重建分支，并仅保留目标 Match 的修改（其余误改已丢弃），已 force-push。"
+            });
+
+      - name: Comment failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              ...context.repo,
+              issue_number: Number("${{ steps.pr.outputs.number }}"),
+              body: "❌ `/bot rebase` 执行失败：可能无法解析 Match ID、bracket.json 结构不符合预期，或目标 ID 在文件中不存在。请查看 Actions 日志。"
+            });
