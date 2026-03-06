@@ -3330,9 +3330,9 @@
     {
       "ID": 27,
       "Team1Acronym": "VanWilder",
-      "Team1Score": null,
+      "Team1Score": 100,
       "Team2Acronym": "L5645453",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
