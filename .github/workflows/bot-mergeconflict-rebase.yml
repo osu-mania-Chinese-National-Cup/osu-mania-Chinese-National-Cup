@@ -1,8 +1,6 @@
 name: bot-mergeconflict-rebase
 
 on:
-  pull_request:
-    types: [opened, reopened, synchronize, ready_for_review]
   issue_comment:
     types: [created]
 
@@ -15,73 +13,22 @@ env:
   BOT_BRANCH_PREFIX: bot/
 
 jobs:
-  notify_on_merge_conflict:
-    if: github.event_name == 'pull_request'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check mergeable_state and comment if dirty
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const pr = context.payload.pull_request;
-
-            // Fork PR 无法安全 force-push，跳过
-            if (pr.head.repo.fork) return;
-
-            // 只处理 bot 分支
-            const prefix = process.env.BOT_BRANCH_PREFIX || "";
-            if (prefix && !pr.head.ref.startsWith(prefix)) return;
-            
-            // 只处理单独比赛上传的pr
-            if (!pr.title.startsWith("Match:")) {
-                core.setFailed("PR title does not start with 'Match:'");
-            }
-
-            // mergeable_state 可能一开始是 unknown/null，轮询等 GitHub 算完
-            let data = null;
-            for (let i = 0; i < 10; i++) {
-              const resp = await github.rest.pulls.get({
-                ...context.repo,
-                pull_number: pr.number,
-              });
-              data = resp.data;
-              if (data.mergeable_state && data.mergeable_state !== "unknown") break;
-              await new Promise(r => setTimeout(r, 1500));
-            }
-
-            // 仅在 merge 冲突时提示（dirty）
-            if (data && data.mergeable_state === "dirty") {
-            const body =
-            "⚠️ 检测到该 PR 存在 **merge 冲突**。\n\n" +
-            "如需让 CI 将该分支 **基于最新 `" + main + "` 重新应用改动**，并 **force-push** 更新分支，请评论：\n\n" +
-            "`/bot rebase`\n\n" +
-            "限制：\n" +
-            "- 仅仓库成员/协作者（OWNER/MEMBER/COLLABORATOR）可触发。\n" +
-            "- 会改写分支历史（force push）。\n" +
-            "- 如果补丁应用仍失败，需要人工介入。";
-
-            await github.rest.issues.createComment({
-                ...context.repo,
-                issue_number: pr.number,
-                body,
-              });
-            }
-
   force_rebase_splice_match:
     if: |
-      github.event_name == 'issue_comment' &&
       github.event.issue.pull_request &&
       startsWith(github.event.comment.body, '/bot rebase')
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check commenter permission (fail if unauthorized)
+      - name: Check commenter permission
         uses: actions/github-script@v7
         with:
           script: |
             const allowed = new Set(["OWNER", "MEMBER", "COLLABORATOR"]);
             const assoc = context.payload.comment.author_association;
-            if (!allowed.has(assoc)) core.setFailed(`unauthorized: ${assoc}`);
+            if (!allowed.has(assoc)) {
+              core.setFailed(`unauthorized: ${assoc}`);
+            }
 
       - name: Load PR metadata
         id: pr
@@ -92,9 +39,10 @@ jobs:
             const prResp = await github.request(prUrl);
             const pr = prResp.data;
 
-            core.setOutput("number", pr.number);
+            core.setOutput("number", String(pr.number));
             core.setOutput("title", pr.title);
             core.setOutput("head_ref", pr.head.ref);
+            core.setOutput("head_sha", pr.head.sha);
             core.setOutput("is_fork", String(pr.head.repo.fork));
 
       - name: Reject fork PRs
@@ -105,7 +53,7 @@ jobs:
             await github.rest.issues.createComment({
               ...context.repo,
               issue_number: Number("${{ steps.pr.outputs.number }}"),
-              body: "无法处理Fork"
+              body: "❌ 无法处理 fork PR。"
             });
             core.setFailed("fork PR not supported");
 
@@ -118,24 +66,40 @@ jobs:
             exit 1
           fi
 
+      - name: Guard PR title
+        run: |
+          TITLE="${{ steps.pr.outputs.title }}"
+          if [[ "$TITLE" != Match:* ]]; then
+            echo "PR title does not start with 'Match:'"
+            exit 1
+          fi
+
       - name: Ensure PR is merge-conflicted (dirty)
         uses: actions/github-script@v7
         with:
           script: |
             const prNumber = Number("${{ steps.pr.outputs.number }}");
             let pr = null;
+
             for (let i = 0; i < 10; i++) {
-              const resp = await github.rest.pulls.get({ ...context.repo, pull_number: prNumber });
+              const resp = await github.rest.pulls.get({
+                ...context.repo,
+                pull_number: prNumber,
+              });
               pr = resp.data;
               if (pr.mergeable_state && pr.mergeable_state !== "unknown") break;
               await new Promise(r => setTimeout(r, 1500));
             }
-            if (pr.mergeable_state !== "dirty") core.setFailed(`mergeable_state=${pr.mergeable_state} (only dirty allowed)`);
 
-      - name: Checkout (full history)
+            if (!pr || pr.mergeable_state !== "dirty") {
+              core.setFailed(`mergeable_state=${pr?.mergeable_state ?? "null"} (only dirty allowed)`);
+            }
+
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ env.MAIN_BRANCH }}
 
       - name: Set git identity
         run: |
@@ -177,7 +141,7 @@ jobs:
             await github.rest.issues.createComment({
               ...context.repo,
               issue_number: Number("${{ steps.pr.outputs.number }}"),
-              body: "✅ 已基于最新 main 重建分支，并仅保留目标 Match 的修改（其余误改已丢弃），已 force-push。"
+              body: "✅ 已基于最新 main 重建分支，并仅保留目标 Match 的修改，已 force-push。"
             });
 
       - name: Comment failure
@@ -188,5 +152,5 @@ jobs:
             await github.rest.issues.createComment({
               ...context.repo,
               issue_number: Number("${{ steps.pr.outputs.number }}"),
-              body: "❌ `/bot rebase` 执行失败：可能无法解析 Match ID、bracket.json 结构不符合预期，或目标 ID 在文件中不存在。请查看 Actions 日志。"
+              body: "❌ `/bot rebase` 执行失败：可能不是冲突状态、无法解析 Match ID、bracket.json 结构不符合预期，或目标 ID 不存在。请查看 Actions 日志。"
             });
