@@ -127,6 +127,16 @@ jobs:
           git show "origin/${{ steps.pr.outputs.head_ref }}:bracket.json" > /tmp/bracket_pr.json
           python scripts/splice_match.py "${{ steps.mid.outputs.match_id }}" "bracket.json" "/tmp/bracket_pr.json"
 
+      - name: Force bracket.json to CRLF
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path("bracket.json")
+          text = p.read_text(encoding="utf-8")
+          text = text.replace("\r\n", "\n").replace("\r", "\n")
+          p.write_text(text.replace("\n", "\r\n"), encoding="utf-8", newline="")
+          PY
+
       - name: Commit and force-push
         run: |
           git add bracket.json
