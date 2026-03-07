@@ -4001,14 +4001,80 @@
     },
     {
       "ID": 46,
-      "Team1Acronym": "zec",
-      "Team1Score": null,
-      "Team2Acronym": "Sensegs",
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "Sensegs",
+      "Team1Score": 3,
+      "Team2Acronym": "zec",
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5548429
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5548310
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5548521
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5548552
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548523
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548427
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548526
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4799373
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548310
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548429
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2559402
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548559
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548474
+        }
+      ],
+      "Current": true,
       "Date": "2026-03-07T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
