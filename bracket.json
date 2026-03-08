@@ -4274,12 +4274,78 @@
     {
       "ID": 41,
       "Team1Acronym": "QingJiDing",
-      "Team1Score": null,
+      "Team1Score": 2,
       "Team2Acronym": "VanWilder",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5548474
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5548559
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5548526
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5548429
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548559
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548552
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548427
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548523
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4799373
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548474
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548521
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5549560
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548557
+        }
+      ],
       "Current": false,
       "Date": "2026-03-08T20:00:00+08:00",
       "ConditionalMatches": [],
