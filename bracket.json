@@ -3975,7 +3975,7 @@
           "BeatmapID": 5548474
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-03-07T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4058,12 +4058,80 @@
     },
     {
       "ID": 56,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "L5645453",
+      "Team1Score": 7,
+      "Team2Acronym": "tangjinxi",
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5548521
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5548523
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5548429
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5548552
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548526
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548237
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548310
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548559
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548523
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5548521
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548474
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5549560
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5548557
+        }
+      ],
+      "Current": true,
       "Date": "2026-03-08T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4073,7 +4141,9 @@
     },
     {
       "ID": 72,
+      "Team1Acronym": "[Crz]Reimu",
       "Team1Score": null,
+      "Team2Acronym": "af-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -4088,7 +4158,9 @@
     },
     {
       "ID": 52,
+      "Team1Acronym": "Sensegs",
       "Team1Score": null,
+      "Team2Acronym": "L5645453",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -4191,7 +4263,7 @@
           "BeatmapID": 5548474
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-03-07T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4249,6 +4321,7 @@
     {
       "ID": 43,
       "Team1Score": null,
+      "Team2Acronym": "zec",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
