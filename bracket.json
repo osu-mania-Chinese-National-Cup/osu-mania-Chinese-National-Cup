@@ -4232,7 +4232,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-14T14:00:00+00:00",
+      "Date": "2026-03-14T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 900,
@@ -4242,14 +4242,95 @@
     {
       "ID": 59,
       "Team1Acronym": "QingJiDing",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "af-",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 7,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5563406
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4000086
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5563333
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4000157
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5562883
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5563408
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5563434
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5563406
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5563374
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5563345
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5563614
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5563498
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4000086
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5563404
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5563428
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5563348
+        }
+      ],
       "Current": true,
-      "Date": "2026-03-14T13:00:00+00:00",
+      "Date": "2026-03-14T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 900,
@@ -4425,12 +4506,13 @@
     {
       "ID": 57,
       "Team1Score": null,
+      "Team2Acronym": "af-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-15T12:00:00+00:00",
+      "Date": "2026-03-15T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1080,
@@ -4462,7 +4544,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-15T14:00:00+00:00",
+      "Date": "2026-03-15T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1260,
