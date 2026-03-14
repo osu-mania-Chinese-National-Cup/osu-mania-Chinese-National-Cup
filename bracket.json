@@ -4232,7 +4232,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-14T14:00:00+00:00",
+      "Date": "2026-03-14T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 900,
@@ -4506,12 +4506,13 @@
     {
       "ID": 57,
       "Team1Score": null,
+      "Team2Acronym": "af-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-15T12:00:00+00:00",
+      "Date": "2026-03-15T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1080,
@@ -4543,7 +4544,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-15T14:00:00+00:00",
+      "Date": "2026-03-15T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1260,
