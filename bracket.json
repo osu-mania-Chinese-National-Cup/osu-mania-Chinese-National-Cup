@@ -4385,7 +4385,7 @@
           "BeatmapID": 5563348
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-03-14T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4561,14 +4561,15 @@
     },
     {
       "ID": 57,
+      "Team1Acronym": "L5645453",
       "Team1Score": null,
       "Team2Acronym": "af-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-03-15T20:00:00+08:00",
+      "Current": true,
+      "Date": "2026-03-15T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1080,
