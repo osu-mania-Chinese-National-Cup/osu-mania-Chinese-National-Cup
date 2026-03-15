@@ -4675,13 +4675,74 @@
     {
       "ID": 43,
       "Team1Acronym": "VanWilder",
-      "Team1Score": null,
+      "Team1Score": 7,
       "Team2Acronym": "zec",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 4000157
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5563428
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5563348
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5563404
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4000086
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5563435
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5563428
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5563333
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5563374
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4000157
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5562883
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5563345
+        }
+      ],
+      "Current": true,
       "Date": "2026-03-15T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
