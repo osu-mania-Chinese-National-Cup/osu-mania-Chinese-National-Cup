@@ -4649,7 +4649,7 @@
           "BeatmapID": 5563614
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-03-15T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4659,13 +4659,15 @@
     },
     {
       "ID": 53,
+      "Team1Acronym": "af-",
       "Team1Score": null,
+      "Team2Acronym": "zec",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-03-18T08:00:00+08:00",
+      "Current": true,
+      "Date": "2026-03-21T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1260,
@@ -4742,7 +4744,7 @@
           "BeatmapID": 5563345
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-03-15T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4752,13 +4754,14 @@
     },
     {
       "ID": 47,
+      "Team1Acronym": "VanWilder",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-18T08:00:00+08:00",
+      "Date": "2026-03-22T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1440,
@@ -4768,12 +4771,13 @@
     {
       "ID": 49,
       "Team1Score": null,
+      "Team2Acronym": "VanWilder",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-18T08:00:00+08:00",
+      "Date": "2026-03-22T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1620,
@@ -7328,7 +7332,6 @@
         55,
         64,
         77,
-        49,
         71,
         70
       ]
@@ -8812,11 +8815,780 @@
       "Description": "BO 13",
       "BestOf": 13,
       "BanCount": 1,
-      "Beatmaps": [],
+      "Beatmaps": [
+        {
+          "ID": 5574381,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5574381,
+            "DifficultyName": "[7K] Enlightenment",
+            "BPM": 200.0,
+            "Length": 122000.0,
+            "StarRating": 6.79534,
+            "EndTimeObjectCount": 4,
+            "TotalObjectCount": 2940,
+            "Metadata": {
+              "Title": "Garyou Tensei",
+              "title_unicode": "画竜点睛",
+              "Artist": "xi",
+              "artist_unicode": "xi",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524162/covers/cover@2x.jpg?1773761182",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524162/covers/card@2x.jpg?1773761182",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524162/covers/list@2x.jpg?1773761182"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574293,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5574293,
+            "DifficultyName": "[7K] Disillusion",
+            "BPM": 210.0,
+            "Length": 161000.0,
+            "StarRating": 7.84765,
+            "TotalObjectCount": 4700,
+            "Metadata": {
+              "Title": "Whispers of the Deserted",
+              "title_unicode": "Whispers of the Deserted",
+              "Artist": "XenjeS",
+              "artist_unicode": "XenjeS",
+              "Author": {
+                "OnlineID": 1653229,
+                "Username": "_Stan",
+                "CountryString": "Unknown"
+              },
+              "Source": "COE2025",
+              "tags": "nm2 coe2025 coe 2025 cavoe osu event dooe -doodle xootynator electronic dnb drum and bass hi-tech hi tech psytrance trance",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 10.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524116/covers/cover@2x.jpg?1773757731",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524116/covers/card@2x.jpg?1773757731",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524116/covers/list@2x.jpg?1773757731"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574553,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5574553,
+            "DifficultyName": "[7K] Bloom Eternal (Edit ver.)",
+            "BPM": 264.6,
+            "Length": 179000.0,
+            "StarRating": 7.28691,
+            "TotalObjectCount": 5137,
+            "Metadata": {
+              "Title": "Reason For Existence",
+              "title_unicode": "生きるよすが",
+              "Artist": "Tsukuyomi",
+              "artist_unicode": "月詠み",
+              "Author": {
+                "OnlineID": 7590894,
+                "Username": "ExNeko",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "vocaloid ユリイ・カノン yurry canon osu!mania 7k chinese national cup 2026 中国国家杯 grand finals gf rice rc fast chordstream cs",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524243/covers/cover@2x.jpg?1773770932",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524243/covers/card@2x.jpg?1773770932",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524243/covers/list@2x.jpg?1773770932"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574351,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5574351,
+            "DifficultyName": "[7K] Brain-computer interface",
+            "BPM": 142.0,
+            "Length": 140000.0,
+            "StarRating": 7.54101,
+            "TotalObjectCount": 3557,
+            "Metadata": {
+              "Title": "Cervelle Connexion",
+              "title_unicode": "Cervelle Connexion",
+              "Artist": "Warp-E",
+              "artist_unicode": "Warp-E",
+              "Author": {
+                "OnlineID": 9705896,
+                "Username": "Muses",
+                "CountryString": "Unknown"
+              },
+              "Source": "PABAT! 2015",
+              "tags": "sctl epic trance bms k-bms party be-music art! osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524140/covers/cover@2x.jpg?1773759697",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524140/covers/card@2x.jpg?1773759697",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524140/covers/list@2x.jpg?1773759697"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574309,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5574309,
+            "DifficultyName": "[7K] Guernica (MCNC edit.)",
+            "BPM": 200.0,
+            "Length": 151000.0,
+            "StarRating": 7.00305,
+            "EndTimeObjectCount": 7,
+            "TotalObjectCount": 3611,
+            "Metadata": {
+              "Title": "Picasso",
+              "title_unicode": "Picasso",
+              "Artist": "Sakuzyo",
+              "artist_unicode": "Sakuzyo",
+              "Author": {
+                "OnlineID": 10210497,
+                "Username": "Telzzxs",
+                "CountryString": "Unknown"
+              },
+              "Source": "Lanota",
+              "tags": "noxy games video game artstep gallery labyrinth instrumental electronic rc tech osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.5,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524124/covers/cover@2x.jpg?1773758662",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524124/covers/card@2x.jpg?1773758662",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524124/covers/list@2x.jpg?1773758662"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574297,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5574297,
+            "DifficultyName": "[7K] sempiternus (mcnc edit.)",
+            "BPM": 240.0,
+            "Length": 161000.0,
+            "StarRating": 7.72548,
+            "TotalObjectCount": 5252,
+            "Metadata": {
+              "Title": "ephemera",
+              "title_unicode": "ephemera",
+              "Artist": "ABE3",
+              "artist_unicode": "ABE3",
+              "Author": {
+                "OnlineID": 8900975,
+                "Username": "BKwind",
+                "CountryString": "Unknown"
+              },
+              "Source": "THE BMS OF FIGHTERS 2010 - The Evolution of War -",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524120/covers/cover@2x.jpg?1773758329",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524120/covers/card@2x.jpg?1773758329",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524120/covers/list@2x.jpg?1773758329"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          },
+          "Ex": true
+        },
+        {
+          "ID": 5574307,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5574307,
+            "DifficultyName": "[7K] Elegy for Firmament (MCNC edit.)",
+            "BPM": 205.0,
+            "Length": 263000.0,
+            "StarRating": 7.44938,
+            "EndTimeObjectCount": 20,
+            "TotalObjectCount": 6637,
+            "Metadata": {
+              "Title": "World's end loneliness (full ver.)",
+              "title_unicode": "World's end loneliness (full ver.)",
+              "Artist": "D-D-Dice",
+              "artist_unicode": "打打だいず",
+              "Author": {
+                "OnlineID": 10210497,
+                "Username": "Telzzxs",
+                "CountryString": "Unknown"
+              },
+              "Source": "maimai でらっくす UNiVERSE PLUS",
+              "tags": "7srefちほー2 perfect challenge video game instrumental electronic sega dx deluxe grandfinals rc long mix osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524123/covers/cover@2x.jpg?1773758635",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524123/covers/card@2x.jpg?1773758635",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524123/covers/list@2x.jpg?1773758635"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574361,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5574361,
+            "DifficultyName": "[7K] Tada tsukuyomi no naka de, zutto anata o mitsumeru koto shika dekinakatta.",
+            "BPM": 170.0,
+            "Length": 260000.0,
+            "StarRating": 9.65251,
+            "EndTimeObjectCount": 5539,
+            "TotalObjectCount": 5830,
+            "Metadata": {
+              "Title": "Reply",
+              "title_unicode": "Reply",
+              "Artist": "kz & Kaguya (CV: Natsuyoshi Yuko)",
+              "artist_unicode": "kz & かぐや (CV: 夏吉ゆうこ)",
+              "Author": {
+                "OnlineID": 14767969,
+                "Username": "- Inaba Meguru",
+                "CountryString": "Unknown"
+              },
+              "Source": "超かぐや姫！",
+              "tags": "chou kaguya hime cosmic princess kaguya jpop j-pop japanese pop yuri lesbian anime movie kz yachiyo iroha irop osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524146/covers/cover@2x.jpg?1773760139",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524146/covers/card@2x.jpg?1773760139",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524146/covers/list@2x.jpg?1773760139"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574384,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5574384,
+            "DifficultyName": "[7K] Perseverance (edit)",
+            "BPM": 120.0,
+            "Length": 180000.0,
+            "StarRating": 8.34825,
+            "EndTimeObjectCount": 3100,
+            "TotalObjectCount": 4800,
+            "Metadata": {
+              "Title": "BERSERK -Forces- (Cut Ver.)",
+              "title_unicode": "BERSERK -Forces- (Cut Ver.)",
+              "Artist": "Susumu Hirasawa",
+              "artist_unicode": "平沢進",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "剣風伝奇ベルセルク",
+              "tags": "electronic industrial art progressive futurepop pop japanese berzerk kaku p-model 核p-model ステルスマン 救済の技法 kyuusai no gihou 剣風伝奇ベルセルク kenfuu denki 大島満 mitsuru oshima 浦田東公 haruhiro urata 横江川欣也 kinya yokoegawa 原薫太郎 kuntaro hara nippon nipponohphone columbia co. ltd osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524165/covers/cover@2x.jpg?1773761238",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524165/covers/card@2x.jpg?1773761238",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524165/covers/list@2x.jpg?1773761238"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574322,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5574322,
+            "DifficultyName": "[7K] Apocryphal Heresy",
+            "BPM": 205.0,
+            "Length": 141000.0,
+            "StarRating": 9.27227,
+            "EndTimeObjectCount": 2888,
+            "TotalObjectCount": 4221,
+            "Metadata": {
+              "Title": "CERCA/ESOTERICA",
+              "title_unicode": "チエルカ／エソテリカ",
+              "Artist": "Tsumiki x Miyashita Yuu",
+              "artist_unicode": "ツミキ × 宮下遊",
+              "Author": {
+                "OnlineID": 8900975,
+                "Username": "BKwind",
+                "CountryString": "Unknown"
+              },
+              "Source": "maimai でらっくす",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc gf grandfinals ln density ln3 maimai dx maimai deluxe electronic video game japanese j-rock jrock noah ノア sky street スカイストリートちほー2 りゅうせー tyrcs ruka u1d",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524131/covers/cover@2x.jpg?1773759174",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524131/covers/card@2x.jpg?1773759174",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524131/covers/list@2x.jpg?1773759174"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5575173,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5575173,
+            "DifficultyName": "[7K] owo (edit) (215bpm)",
+            "BPM": 215.0,
+            "Length": 200000.0,
+            "StarRating": 9.63892,
+            "EndTimeObjectCount": 3950,
+            "TotalObjectCount": 5620,
+            "Metadata": {
+              "Title": "=/=Virtual Futural",
+              "title_unicode": "≠Virtual Futural",
+              "Artist": "Marmalade butcher",
+              "artist_unicode": "Marmalade butcher",
+              "Author": {
+                "OnlineID": 3503058,
+                "Username": "swlie",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu!taiko World Cup 2025",
+              "tags": "!=virtual maniku マ肉 featured artist fa math rock instrumental twc2025 twc o!twc o!twc2025 osu! original osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 5.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524438/covers/cover@2x.jpg?1773811714",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524438/covers/card@2x.jpg?1773811714",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524438/covers/list@2x.jpg?1773811714"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          },
+          "Ex": true
+        },
+        {
+          "ID": 5574344,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5574344,
+            "DifficultyName": "[7K] Unshackled (MCNC Edit)",
+            "BPM": 195.0,
+            "Length": 241000.0,
+            "StarRating": 9.39022,
+            "EndTimeObjectCount": 4600,
+            "TotalObjectCount": 6650,
+            "Metadata": {
+              "Title": "Vivarium",
+              "title_unicode": "ビバリウム",
+              "Artist": "Ado",
+              "artist_unicode": "Ado",
+              "Author": {
+                "OnlineID": 9705896,
+                "Username": "Muses",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "inaba meguru osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 5.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524138/covers/cover@2x.jpg?1773759686",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524138/covers/card@2x.jpg?1773759686",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524138/covers/list@2x.jpg?1773759686"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574382,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5574382,
+            "DifficultyName": "[7K] Three Men",
+            "BPM": 201.0,
+            "Length": 159000.0,
+            "StarRating": 8.48099,
+            "EndTimeObjectCount": 1700,
+            "TotalObjectCount": 3800,
+            "Metadata": {
+              "Title": "Latent Kingdom",
+              "title_unicode": "Latent Kingdom",
+              "Artist": "Laur vs. Kanon Oguni",
+              "artist_unicode": "Laur vs 大国奏音",
+              "Author": {
+                "OnlineID": 7082178,
+                "Username": "[Crz]Satori",
+                "CountryString": "Unknown"
+              },
+              "Source": "maimai でらっくす BUDDiES",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524163/covers/cover@2x.jpg?1773761108",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524163/covers/card@2x.jpg?1773761108",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524163/covers/list@2x.jpg?1773761108"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574380,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5574380,
+            "DifficultyName": "[7K] Metamorphosis",
+            "BPM": 184.0,
+            "Length": 180000.0,
+            "StarRating": 9.85482,
+            "EndTimeObjectCount": 1934,
+            "TotalObjectCount": 4510,
+            "Metadata": {
+              "Title": "Tempestroph",
+              "title_unicode": "Tempestroph",
+              "Artist": "SeyriN",
+              "artist_unicode": "SeyriN",
+              "Author": {
+                "OnlineID": 10125072,
+                "Username": "U1d",
+                "CountryString": "Unknown"
+              },
+              "Source": "THE BMS OF FIGHTERS : NineTeen -Twinkle Dream Traveler-",
+              "tags": "osu!mania 7k chinese national cup 2026 中国国家杯 mcnc gf grandfinals hb2 hybrid tech instrumental electronic drum & bass neurofunk technical 留声唱片 phono records frenz2024 bof:nt scattering nature tyrcs",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 5.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524161/covers/cover@2x.jpg?1773761099",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524161/covers/card@2x.jpg?1773761099",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524161/covers/list@2x.jpg?1773761099"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5574387,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5574387,
+            "DifficultyName": "[7K] XX. Judgement",
+            "BPM": 250.0,
+            "Length": 390000.0,
+            "StarRating": 10.869,
+            "EndTimeObjectCount": 3600,
+            "TotalObjectCount": 8950,
+            "Metadata": {
+              "Title": "Fallen Symphony (they's \"Apocalypse\" Bootleg)",
+              "title_unicode": "Fallen Symphony (they's \"啓示\" Bootleg)",
+              "Artist": "Ludicin",
+              "artist_unicode": "Ludicin",
+              "Author": {
+                "OnlineID": 13026904,
+                "Username": "tyrcs",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "electronic instrumental 彼ら k4rera karera keiji osu!mania 7k chinese national cup 2026 中国国家杯 mcnc",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.7,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524167/covers/cover@2x.jpg?1773761286",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524167/covers/card@2x.jpg?1773761286",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524167/covers/list@2x.jpg?1773761286"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          },
+          "Ex": true
+        },
+        {
+          "ID": 5574376,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 5574376,
+            "DifficultyName": "[7K] Dum spiro,",
+            "BPM": 222.0,
+            "Length": 335000.0,
+            "StarRating": 11.4452,
+            "EndTimeObjectCount": 3593,
+            "TotalObjectCount": 8634,
+            "Metadata": {
+              "Title": "Counting Breaths feat. eili",
+              "title_unicode": "Counting Breaths feat. eili",
+              "Artist": "Gardens",
+              "artist_unicode": "Gardens",
+              "Author": {
+                "OnlineID": 8900975,
+                "Username": "BKwind",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu!mania 7K Chinese National Cup 2026",
+              "tags": "electronic english mcnc gftb gf tb tiebreaker marathon saturn_illus alexdunk sakura006 [crz]alleyne [crz]satori exneko ruka tyrcs u1d",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 7.0,
+              "OverallDifficulty": 6.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2524160/covers/cover@2x.jpg?1773761388",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2524160/covers/card@2x.jpg?1773761388",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2524160/covers/list@2x.jpg?1773761388"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        }
+      ],
       "StartDate": "2026-03-18T08:00:00+08:00",
       "Matches": [
         53,
-        47
+        47,
+        49
       ]
     }
   ],
