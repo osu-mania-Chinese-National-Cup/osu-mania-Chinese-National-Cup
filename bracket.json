@@ -4223,7 +4223,7 @@
       }
     },
     {
-      "ID": 52,
+      "ID": 53,
       "Team1Acronym": "Sensegs",
       "Team1Score": 0,
       "Team2Acronym": "L5645453",
@@ -4658,23 +4658,6 @@
       }
     },
     {
-      "ID": 53,
-      "Team1Acronym": "af-",
-      "Team1Score": null,
-      "Team2Acronym": "zec",
-      "Team2Score": null,
-      "Completed": false,
-      "Losers": true,
-      "PicksBans": [],
-      "Current": true,
-      "Date": "2026-03-21T14:00:00+00:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 1260,
-        "Y": 2290
-      }
-    },
-    {
       "ID": 43,
       "Team1Acronym": "VanWilder",
       "Team1Score": 7,
@@ -4755,13 +4738,14 @@
     {
       "ID": 47,
       "Team1Acronym": "VanWilder",
-      "Team1Score": null,
-      "Team2Score": null,
+      "Team1Score": 0,
+      "Team2Acronym": "L5645453",
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-03-22T11:00:00+00:00",
+      "Current": true,
+      "Date": "2026-03-22T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1440,
@@ -4777,7 +4761,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-03-22T13:00:00+00:00",
+      "Date": "2026-03-22T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1620,
@@ -4933,6 +4917,79 @@
       "Position": {
         "X": 360,
         "Y": 2700
+      }
+    },
+    {
+      "ID": 52,
+      "Team1Acronym": "zec",
+      "Team1Score": 0,
+      "Team2Acronym": "L5645453",
+      "Team2Score": 7,
+      "Completed": true,
+      "Losers": true,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5574297
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5574382
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5574351
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5574361
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5574384
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5574381
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5574322
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5574293
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5574382
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5574553
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5574380
+        }
+      ],
+      "Current": false,
+      "Date": "2026-03-21T14:00:00+00:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1260,
+        "Y": 2280
       }
     }
   ],
@@ -8804,7 +8861,7 @@
       ],
       "StartDate": "2026-03-11T08:00:00+08:00",
       "Matches": [
-        52,
+        53,
         59,
         57,
         43
@@ -9586,9 +9643,9 @@
       ],
       "StartDate": "2026-03-18T08:00:00+08:00",
       "Matches": [
-        53,
         47,
-        49
+        49,
+        52
       ]
     }
   ],
@@ -35119,14 +35176,14 @@
     },
     {
       "SourceID": 56,
-      "TargetID": 52
+      "TargetID": 53
     },
     {
       "SourceID": 72,
       "TargetID": 59
     },
     {
-      "SourceID": 52,
+      "SourceID": 53,
       "TargetID": 57
     },
     {
@@ -35143,11 +35200,7 @@
     },
     {
       "SourceID": 57,
-      "TargetID": 53
-    },
-    {
-      "SourceID": 53,
-      "TargetID": 47
+      "TargetID": 52
     },
     {
       "SourceID": 43,
@@ -35164,6 +35217,10 @@
     {
       "SourceID": 70,
       "TargetID": 68
+    },
+    {
+      "SourceID": 52,
+      "TargetID": 47
     },
     {
       "SourceID": 17,
@@ -35307,7 +35364,7 @@
     },
     {
       "SourceID": 46,
-      "TargetID": 52,
+      "TargetID": 53,
       "Losers": true
     },
     {
@@ -35316,13 +35373,8 @@
       "Losers": true
     },
     {
-      "SourceID": 57,
-      "TargetID": 53,
-      "Losers": true
-    },
-    {
       "SourceID": 43,
-      "TargetID": 53,
+      "TargetID": 52,
       "Losers": true
     }
   ],
