@@ -4,7 +4,6 @@
     "OnlineID": 3,
     "Name": "osu!mania",
     "InstantiationInfo": "osu.Game.Rulesets.Mania.ManiaRuleset, osu.Game.Rulesets.Mania",
-    "LastAppliedDifficultyVersion": 20241007,
     "Available": true
   },
   "Matches": [
@@ -4985,7 +4984,7 @@
         }
       ],
       "Current": false,
-      "Date": "2026-03-21T14:00:00+00:00",
+      "Date": "2026-03-21T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1260,
