@@ -446,7 +446,7 @@
             ]
           },
           "TeamAcronym": "Lexpo",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -879,7 +879,7 @@
             ]
           },
           "TeamAcronym": "HowToPlaySV",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -1312,7 +1312,7 @@
             ]
           },
           "TeamAcronym": "2632264491",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -1745,7 +1745,7 @@
             ]
           },
           "TeamAcronym": "Tomor1n",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -5256,7 +5256,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-06-26T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -9206,7 +9206,7 @@
             ]
           },
           "TeamAcronym": "[GB]ParasolTree",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -9639,7 +9639,7 @@
             ]
           },
           "TeamAcronym": "F4ntast1stOwO",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -10072,7 +10072,7 @@
             ]
           },
           "TeamAcronym": "Arisu Tendou",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -10505,7 +10505,7 @@
             ]
           },
           "TeamAcronym": "waterwater8787",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -10958,7 +10958,7 @@
             ]
           },
           "TeamAcronym": "LiangFenFan",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -11391,7 +11391,7 @@
             ]
           },
           "TeamAcronym": "[Crz]Riko",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -11824,7 +11824,7 @@
             ]
           },
           "TeamAcronym": "-Sheena-",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -12257,7 +12257,7 @@
             ]
           },
           "TeamAcronym": "Leaper",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -17538,22 +17538,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28072,7 +28072,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-06-27T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -28210,22 +28210,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
