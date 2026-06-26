@@ -5256,7 +5256,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-06-26T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -17538,30 +17538,30 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-07-10T18:00:00+08:00",
+      "Current": true,
+      "Date": "2026-07-11T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 820,
@@ -28090,22 +28090,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28130,22 +28130,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28210,22 +28210,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28250,22 +28250,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28370,22 +28370,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28410,22 +28410,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28530,22 +28530,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28610,22 +28610,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
