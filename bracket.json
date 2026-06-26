@@ -5256,7 +5256,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-06-26T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -17538,22 +17538,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28072,7 +28072,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-06-27T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -28210,22 +28210,22 @@
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
