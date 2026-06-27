@@ -11,16 +11,16 @@
     {
       "ID": 1,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-A",
+      "Team2Acronym": "A",
       "Team2Score": null,
       "TeamSlots": [
         {
           "Team": {
-            "FullName": "Lexpo",
-            "FlagName": "20277428",
-            "Acronym": "Lexpo",
+            "FullName": "Vain_",
+            "FlagName": "38363768",
+            "Acronym": "Vain_",
             "SeedingResults": [
               {
                 "Beatmaps": [
@@ -70,8 +70,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 993640,
-                    "Seed": 20
+                    "Score": 997246,
+                    "Seed": 2
                   },
                   {
                     "ID": 5718151,
@@ -119,8 +119,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 989815,
-                    "Seed": 11
+                    "Score": 986217,
+                    "Seed": 15
                   },
                   {
                     "ID": 5718770,
@@ -167,8 +167,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 997394,
-                    "Seed": 12
+                    "Score": 998764,
+                    "Seed": 2
                   },
                   {
                     "ID": 5718130,
@@ -216,12 +216,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 992553,
-                    "Seed": 5
+                    "Score": 992406,
+                    "Seed": 6
                   }
                 ],
                 "Mod": "RC",
-                "Seed": 7
+                "Seed": 6
               },
               {
                 "Beatmaps": [
@@ -271,8 +271,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 990893,
-                    "Seed": 5
+                    "Score": 989806,
+                    "Seed": 6
                   },
                   {
                     "ID": 5718137,
@@ -320,12 +320,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 994253,
-                    "Seed": 8
+                    "Score": 995062,
+                    "Seed": 5
                   }
                 ],
                 "Mod": "HB",
-                "Seed": 7
+                "Seed": 6
               },
               {
                 "Beatmaps": [
@@ -375,8 +375,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 989846,
-                    "Seed": 7
+                    "Score": 989866,
+                    "Seed": 6
                   },
                   {
                     "ID": 5718126,
@@ -424,36 +424,36 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 990741,
-                    "Seed": 3
+                    "Score": 983425,
+                    "Seed": 11
                   }
                 ],
                 "Mod": "LN",
-                "Seed": 7
+                "Seed": 6
               }
             ],
-            "Seed": "7",
+            "Seed": "6",
             "LastYearPlacing": "N/A",
-            "AverageRank": 383.0,
+            "AverageRank": 787.0,
             "Players": [
               {
-                "id": 20277428,
-                "Username": "Lexpo",
+                "id": 38363768,
+                "Username": "Vain_",
                 "country_code": "CN",
-                "Rank": 383,
-                "CoverUrl": "https://assets.ppy.sh/user-cover-presets/42/1cf249a672a6ac86dcc565172af242b8d03a69cd3ae81cc256e3bce31f30f40f.jpeg"
+                "Rank": 787,
+                "CoverUrl": "https://assets.ppy.sh/user-cover-presets/15/8ddd8423001f11dc5b57508720413b22001a0f62acb91cea14219f27fab481f5.png"
               }
             ]
           },
-          "TeamAcronym": "Lexpo",
+          "TeamAcronym": "Vain_",
           "Score": null,
           "Colour": "Red"
         },
         {
           "Team": {
-            "FullName": "HowToPlaySV",
-            "FlagName": "32494511",
-            "Acronym": "HowToPlaySV",
+            "FullName": "mitsuseann",
+            "FlagName": "8883576",
+            "Acronym": "mitsuseann",
             "SeedingResults": [
               {
                 "Beatmaps": [
@@ -503,8 +503,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 988264,
-                    "Seed": 37
+                    "Score": 987904,
+                    "Seed": 39
                   },
                   {
                     "ID": 5718151,
@@ -552,8 +552,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 991978,
-                    "Seed": 8
+                    "Score": 951259,
+                    "Seed": 39
                   },
                   {
                     "ID": 5718770,
@@ -600,8 +600,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 997191,
-                    "Seed": 14
+                    "Score": 982188,
+                    "Seed": 37
                   },
                   {
                     "ID": 5718130,
@@ -649,12 +649,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 972606,
-                    "Seed": 21
+                    "Score": 955522,
+                    "Seed": 34
                   }
                 ],
                 "Mod": "RC",
-                "Seed": 20
+                "Seed": 30
               },
               {
                 "Beatmaps": [
@@ -704,8 +704,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 963453,
-                    "Seed": 28
+                    "Score": 957517,
+                    "Seed": 38
                   },
                   {
                     "ID": 5718137,
@@ -753,12 +753,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 985683,
-                    "Seed": 23
+                    "Score": 984213,
+                    "Seed": 25
                   }
                 ],
                 "Mod": "HB",
-                "Seed": 20
+                "Seed": 30
               },
               {
                 "Beatmaps": [
@@ -808,8 +808,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 973472,
-                    "Seed": 27
+                    "Score": 978405,
+                    "Seed": 22
                   },
                   {
                     "ID": 5718126,
@@ -857,36 +857,36 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 976032,
-                    "Seed": 22
+                    "Score": 978294,
+                    "Seed": 19
                   }
                 ],
                 "Mod": "LN",
-                "Seed": 20
+                "Seed": 30
               }
             ],
-            "Seed": "20",
+            "Seed": "30",
             "LastYearPlacing": "N/A",
-            "AverageRank": 1973.0,
+            "AverageRank": 3329.0,
             "Players": [
               {
-                "id": 32494511,
-                "Username": "HowToPlaySV",
+                "id": 8883576,
+                "Username": "mitsuseann",
                 "country_code": "CN",
-                "Rank": 1973,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/32494511/a7ee3427026ab89e9dbd7983ddcd3e1522280455565afe08098e370067e525e9.jpeg"
+                "Rank": 3329,
+                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8883576/9a5e235a80cb91e79e579314eb1fa134748a5abd1617a7bc2d2e5b9557217a27.png"
               }
             ]
           },
-          "TeamAcronym": "HowToPlaySV",
+          "TeamAcronym": "mitsuseann",
           "Score": null,
           "Colour": "Blue"
         },
         {
           "Team": {
-            "FullName": "2632264491",
-            "FlagName": "15582839",
-            "Acronym": "2632264491",
+            "FullName": "6XvX7",
+            "FlagName": "33948486",
+            "Acronym": "6XvX7",
             "SeedingResults": [
               {
                 "Beatmaps": [
@@ -936,8 +936,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 986761,
-                    "Seed": 42
+                    "Score": 971815,
+                    "Seed": 59
                   },
                   {
                     "ID": 5718151,
@@ -985,8 +985,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 970919,
-                    "Seed": 30
+                    "Score": 968032,
+                    "Seed": 31
                   },
                   {
                     "ID": 5718770,
@@ -1033,8 +1033,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 979797,
-                    "Seed": 39
+                    "Score": 984772,
+                    "Seed": 34
                   },
                   {
                     "ID": 5718130,
@@ -1082,12 +1082,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 965950,
-                    "Seed": 26
+                    "Score": 952654,
+                    "Seed": 37
                   }
                 ],
                 "Mod": "RC",
-                "Seed": 36
+                "Seed": 42
               },
               {
                 "Beatmaps": [
@@ -1137,8 +1137,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 957862,
-                    "Seed": 36
+                    "Score": 958727,
+                    "Seed": 34
                   },
                   {
                     "ID": 5718137,
@@ -1186,12 +1186,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 987169,
-                    "Seed": 18
+                    "Score": 971526,
+                    "Seed": 49
                   }
                 ],
                 "Mod": "HB",
-                "Seed": 36
+                "Seed": 42
               },
               {
                 "Beatmaps": [
@@ -1241,8 +1241,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 954390,
-                    "Seed": 47
+                    "Score": 962031,
+                    "Seed": 42
                   },
                   {
                     "ID": 5718126,
@@ -1290,36 +1290,36 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 962580,
-                    "Seed": 40
+                    "Score": 971766,
+                    "Seed": 27
                   }
                 ],
                 "Mod": "LN",
-                "Seed": 36
+                "Seed": 42
               }
             ],
-            "Seed": "36",
+            "Seed": "42",
             "LastYearPlacing": "N/A",
-            "AverageRank": 1423.0,
+            "AverageRank": 2937.0,
             "Players": [
               {
-                "id": 15582839,
-                "Username": "2632264491",
+                "id": 33948486,
+                "Username": "6XvX7",
                 "country_code": "CN",
-                "Rank": 1423,
-                "CoverUrl": "https://assets.ppy.sh/user-cover-presets/7/4a0ccb7b7fdd5c4238b11f0e7c686760fe2c99c6472b19400e82d1a8ff503e31.jpeg"
+                "Rank": 2937,
+                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/33948486/d78b088758d0722ae8724f2f42c9d210fe9517b386d559d876d5ee7faa0b3d41.jpeg"
               }
             ]
           },
-          "TeamAcronym": "2632264491",
+          "TeamAcronym": "6XvX7",
           "Score": null,
           "Colour": "Yellow"
         },
         {
           "Team": {
-            "FullName": "Tomor1n",
-            "FlagName": "16626025",
-            "Acronym": "Tomor1n",
+            "FullName": "Kalzii",
+            "FlagName": "36570363",
+            "Acronym": "Kalzii",
             "SeedingResults": [
               {
                 "Beatmaps": [
@@ -1369,8 +1369,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 978434,
-                    "Seed": 49
+                    "Score": 978848,
+                    "Seed": 48
                   },
                   {
                     "ID": 5718151,
@@ -1418,8 +1418,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 874666,
-                    "Seed": 61
+                    "Score": 922945,
+                    "Seed": 51
                   },
                   {
                     "ID": 5718770,
@@ -1466,8 +1466,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 915485,
-                    "Seed": 66
+                    "Score": 962452,
+                    "Seed": 53
                   },
                   {
                     "ID": 5718130,
@@ -1515,12 +1515,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 885730,
-                    "Seed": 60
+                    "Score": 912492,
+                    "Seed": 52
                   }
                 ],
                 "Mod": "RC",
-                "Seed": 52
+                "Seed": 57
               },
               {
                 "Beatmaps": [
@@ -1570,8 +1570,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 886287,
-                    "Seed": 62
+                    "Score": 902107,
+                    "Seed": 59
                   },
                   {
                     "ID": 5718137,
@@ -1619,12 +1619,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 982034,
-                    "Seed": 31
+                    "Score": 944888,
+                    "Seed": 66
                   }
                 ],
                 "Mod": "HB",
-                "Seed": 52
+                "Seed": 57
               },
               {
                 "Beatmaps": [
@@ -1674,8 +1674,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 966512,
-                    "Seed": 33
+                    "Score": 906368,
+                    "Seed": 66
                   },
                   {
                     "ID": 5718126,
@@ -1723,28 +1723,28 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 939281,
-                    "Seed": 50
+                    "Score": 902458,
+                    "Seed": 60
                   }
                 ],
                 "Mod": "LN",
-                "Seed": 52
+                "Seed": 57
               }
             ],
-            "Seed": "52",
+            "Seed": "57",
             "LastYearPlacing": "N/A",
-            "AverageRank": 5317.0,
+            "AverageRank": 4035.0,
             "Players": [
               {
-                "id": 16626025,
-                "Username": "Tomor1n",
+                "id": 36570363,
+                "Username": "Kalzii",
                 "country_code": "CN",
-                "Rank": 5317,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/16626025/0b28add29815e15d16a08e3fdd14ddf65da58a27ac2a1d3410d9ced31d65f873.png"
+                "Rank": 4035,
+                "CoverUrl": "https://assets.ppy.sh/user-cover-presets/24/5a5264eff92d34688b237087c355ca0e57dab4e6f66305660cca1a0c4f2405c9.jpeg"
               }
             ]
           },
-          "TeamAcronym": "Tomor1n",
+          "TeamAcronym": "Kalzii",
           "Score": null,
           "Colour": "Green"
         }
@@ -1763,9 +1763,9 @@
     {
       "ID": 9,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-E",
+      "Team2Acronym": "E",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -3504,7 +3504,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-06-27T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3515,9 +3515,9 @@
     {
       "ID": 17,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-I",
+      "Team2Acronym": "I",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -5267,9 +5267,9 @@
     {
       "ID": 25,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-M",
+      "Team2Acronym": "M",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -7019,9 +7019,9 @@
     {
       "ID": 10,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-F",
+      "Team2Acronym": "F",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -8771,9 +8771,9 @@
     {
       "ID": 3,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-C",
+      "Team2Acronym": "C",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -10523,9 +10523,9 @@
     {
       "ID": 4,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-D",
+      "Team2Acronym": "D",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -12275,9 +12275,9 @@
     {
       "ID": 18,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-J",
+      "Team2Acronym": "J",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -14027,9 +14027,9 @@
     {
       "ID": 11,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-G",
+      "Team2Acronym": "G",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -15779,9 +15779,9 @@
     {
       "ID": 12,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-H",
+      "Team2Acronym": "H",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -17571,9 +17571,9 @@
     {
       "ID": 19,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-K",
+      "Team2Acronym": "K",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -19323,9 +19323,9 @@
     {
       "ID": 20,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-L",
+      "Team2Acronym": "L",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -21075,9 +21075,9 @@
     {
       "ID": 26,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-N",
+      "Team2Acronym": "N",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -22827,9 +22827,9 @@
     {
       "ID": 27,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-O",
+      "Team2Acronym": "O",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -24579,9 +24579,9 @@
     {
       "ID": 28,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-P",
+      "Team2Acronym": "P",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -26331,9 +26331,9 @@
     {
       "ID": 2,
       "StructureType": 4,
-      "Team1Acronym": "GRO",
+      "Team1Acronym": "GRP",
       "Team1Score": null,
-      "Team2Acronym": "1-B",
+      "Team2Acronym": "B",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -28679,116 +28679,6 @@
         "X": 1330,
         "Y": 290
       }
-    },
-    {
-      "ID": 33,
-      "StructureType": 4,
-      "Team1Score": null,
-      "Team2Score": null,
-      "TeamSlots": [
-        {
-          "Team": {
-            "FullName": "[GB]LumiereLP",
-            "FlagName": "36578734",
-            "Acronym": "[GB]LumiereLP",
-            "SeedingResults": [],
-            "Seed": "T1",
-            "LastYearPlacing": "N/A",
-            "AverageRank": 15066.0,
-            "Players": [
-              {
-                "id": 36578734,
-                "Username": "[GB]LumiereLP",
-                "country_code": "HK",
-                "Rank": 15066,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/36578734/32abdbf5b29812a1e1421575f76ee62171d07d496b170c880589df292ba48644.png"
-              }
-            ]
-          },
-          "TeamAcronym": "[GB]LumiereLP",
-          "Score": null,
-          "Colour": "Red"
-        },
-        {
-          "Team": {
-            "FullName": "Mafufu",
-            "FlagName": "10884561",
-            "Acronym": "Mafufu",
-            "SeedingResults": [],
-            "Seed": "T2",
-            "LastYearPlacing": "N/A",
-            "AverageRank": 2909.0,
-            "Players": [
-              {
-                "id": 10884561,
-                "Username": "Mafufu",
-                "country_code": "CN",
-                "Rank": 2909,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10884561/027938320e5065b4596accc28d2f496e6a132c384d8998bbadd7c95f289640f0.png"
-              }
-            ]
-          },
-          "TeamAcronym": "Mafufu",
-          "Score": null,
-          "Colour": "Blue"
-        },
-        {
-          "Team": {
-            "FullName": "Hylotl",
-            "FlagName": "18270260",
-            "Acronym": "Hylotl",
-            "SeedingResults": [],
-            "Seed": "T5",
-            "LastYearPlacing": "N/A",
-            "AverageRank": 3620.0,
-            "Players": [
-              {
-                "id": 18270260,
-                "Username": "Hylotl",
-                "country_code": "CN",
-                "Rank": 3620,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18270260/ee8bfcf63018bf3cd296797945d67a3dc186b661bd15551d03dd95609aa57785.jpeg"
-              }
-            ]
-          },
-          "TeamAcronym": "Hylotl",
-          "Score": null,
-          "Colour": "Yellow"
-        },
-        {
-          "Team": {
-            "FullName": "OxalicAcid",
-            "FlagName": "17146433",
-            "Acronym": "oxalicacid",
-            "SeedingResults": [],
-            "Seed": "T6",
-            "LastYearPlacing": "N/A",
-            "AverageRank": 48694.0,
-            "Players": [
-              {
-                "id": 17146433,
-                "Username": "OxalicAcid",
-                "country_code": "CN",
-                "Rank": 48694,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17146433/6a1d6fe1562e5be1176d46e9d93b1897f4b67c264494283c0b0e3659367151f9.png"
-              }
-            ]
-          },
-          "TeamAcronym": "oxalicacid",
-          "Score": null,
-          "Colour": "Green"
-        }
-      ],
-      "Completed": false,
-      "Losers": false,
-      "PicksBans": [],
-      "Current": true,
-      "Date": "2026-06-26T13:00:00+08:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": -10,
-        "Y": 410
-      }
     }
   ],
   "Rounds": [
@@ -29325,7 +29215,7 @@
           }
         }
       ],
-      "StartDate": "2026-06-26T08:00:00+08:00",
+      "StartDate": "2026-06-26T18:00:00+08:00",
       "Matches": [
         1,
         9,
@@ -29342,8 +29232,7 @@
         26,
         27,
         28,
-        2,
-        33
+        2
       ]
     },
     {
@@ -63331,174 +63220,12 @@
       "Seed": "",
       "LastYearPlacing": "N/A",
       "Players": []
-    },
-    {
-      "FullName": "[GB]LumiereLP",
-      "FlagName": "36578734",
-      "Acronym": "[GB]LumiereLP",
-      "SeedingResults": [],
-      "Seed": "T1",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 15066.0,
-      "Players": [
-        {
-          "id": 36578734,
-          "Username": "[GB]LumiereLP",
-          "country_code": "HK",
-          "Rank": 15066,
-          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/36578734/32abdbf5b29812a1e1421575f76ee62171d07d496b170c880589df292ba48644.png"
-        }
-      ]
-    },
-    {
-      "FullName": "Mafufu",
-      "FlagName": "10884561",
-      "Acronym": "Mafufu",
-      "SeedingResults": [],
-      "Seed": "T2",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 2909.0,
-      "Players": [
-        {
-          "id": 10884561,
-          "Username": "Mafufu",
-          "country_code": "CN",
-          "Rank": 2909,
-          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10884561/027938320e5065b4596accc28d2f496e6a132c384d8998bbadd7c95f289640f0.png"
-        }
-      ]
-    },
-    {
-      "FullName": "FenggeTGOB",
-      "FlagName": "35928532",
-      "Acronym": "FenggeTGOB",
-      "SeedingResults": [],
-      "Seed": "T3",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 10309.0,
-      "Players": [
-        {
-          "id": 35928532,
-          "Username": "FenggeTGOB",
-          "country_code": "CN",
-          "Rank": 10309,
-          "CoverUrl": "https://assets.ppy.sh/user-cover-presets/14/af62823c1990a074e038e2ff6aad34aac54b61e48139874f1c8ff46c9d3904a2.png"
-        }
-      ]
-    },
-    {
-      "FullName": "Reisen165543337",
-      "FlagName": "8586018",
-      "Acronym": "Reisen165543337",
-      "SeedingResults": [],
-      "Seed": "T4",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 1227.0,
-      "Players": [
-        {
-          "id": 8586018,
-          "Username": "Reisen165543337",
-          "country_code": "CN",
-          "Rank": 1227,
-          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/8586018/6bceeb6e33698f299bfeaa5cb94a71422bf8cadb996348c9e923b92d7ff7c2ea.png"
-        }
-      ]
-    },
-    {
-      "FullName": "Hylotl",
-      "FlagName": "18270260",
-      "Acronym": "Hylotl",
-      "SeedingResults": [],
-      "Seed": "T5",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 3620.0,
-      "Players": [
-        {
-          "id": 18270260,
-          "Username": "Hylotl",
-          "country_code": "CN",
-          "Rank": 3620,
-          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/18270260/ee8bfcf63018bf3cd296797945d67a3dc186b661bd15551d03dd95609aa57785.jpeg"
-        }
-      ]
-    },
-    {
-      "FullName": "OxalicAcid",
-      "FlagName": "17146433",
-      "Acronym": "oxalicacid",
-      "SeedingResults": [],
-      "Seed": "T6",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 48694.0,
-      "Players": [
-        {
-          "id": 17146433,
-          "Username": "OxalicAcid",
-          "country_code": "CN",
-          "Rank": 48694,
-          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17146433/6a1d6fe1562e5be1176d46e9d93b1897f4b67c264494283c0b0e3659367151f9.png"
-        }
-      ]
-    },
-    {
-      "FullName": "gugugaga_1",
-      "FlagName": "35020659",
-      "Acronym": "gugugaga_1",
-      "SeedingResults": [],
-      "Seed": "T7",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 16732.0,
-      "Players": [
-        {
-          "id": 35020659,
-          "Username": "gugugaga_1",
-          "country_code": "CN",
-          "Rank": 16732,
-          "CoverUrl": "https://assets.ppy.sh/user-cover-presets/7/4a0ccb7b7fdd5c4238b11f0e7c686760fe2c99c6472b19400e82d1a8ff503e31.jpeg"
-        }
-      ]
-    },
-    {
-      "FullName": "[GB]ChickenGold",
-      "FlagName": "16586663 ",
-      "Acronym": "[GB]ChickenGold",
-      "SeedingResults": [],
-      "Seed": "T8",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 18396.0,
-      "Players": [
-        {
-          "id": 16586663,
-          "Username": "[GB]ChickenGold",
-          "country_code": "CN",
-          "Rank": 18396,
-          "CoverUrl": "https://assets.ppy.sh/user-cover-presets/21/4e70615c027f579b2a887ec492857fb342fc0fc7f5586db62a9a67f115638c94.jpeg"
-        }
-      ]
-    },
-    {
-      "FullName": "SadForever",
-      "FlagName": "17392632",
-      "Acronym": "SadForever",
-      "SeedingResults": [],
-      "Seed": "T9",
-      "LastYearPlacing": "N/A",
-      "AverageRank": 4831.0,
-      "Players": [
-        {
-          "id": 17392632,
-          "Username": "SadForever",
-          "country_code": "CN",
-          "Rank": 4831,
-          "CoverUrl": "https://assets.ppy.sh/user-profile-covers/17392632/94d0f07e89738354d1b2c28bd83a7ca7e45f121386ba3e11f90057d4c4c5f28e.png"
-        }
-      ]
     }
   ],
   "Progressions": [],
   "ChromaKeyWidth": 1366,
   "FrameRate": 360,
-  "PlayersPerTeam": 2,
+  "PlayersPerTeam": 1,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
   "DisplayTeamSeeds": false
