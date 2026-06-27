@@ -17532,35 +17532,35 @@
       "ID": 5,
       "StructureType": 4,
       "Team1Acronym": "GRP",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "A",
-      "Team2Score": null,
+      "Team2Score": 0,
       "TeamSlots": [
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
           "Team": null,
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
