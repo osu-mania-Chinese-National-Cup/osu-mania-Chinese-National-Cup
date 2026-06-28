@@ -10958,7 +10958,7 @@
             ]
           },
           "TeamAcronym": "LiangFenFan",
-          "Score": null,
+          "Score": 14,
           "Colour": "Red"
         },
         {
@@ -11391,7 +11391,7 @@
             ]
           },
           "TeamAcronym": "[Crz]Riko",
-          "Score": null,
+          "Score": 7,
           "Colour": "Blue"
         },
         {
@@ -11824,7 +11824,7 @@
             ]
           },
           "TeamAcronym": "-Sheena-",
-          "Score": null,
+          "Score": 8,
           "Colour": "Yellow"
         },
         {
@@ -12257,14 +12257,51 @@
             ]
           },
           "TeamAcronym": "Leaper",
-          "Score": null,
+          "Score": 1,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730855
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730656
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 4994457
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730617
+        },
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730715
+        }
+      ],
+      "Current": true,
       "Date": "2026-06-28T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
