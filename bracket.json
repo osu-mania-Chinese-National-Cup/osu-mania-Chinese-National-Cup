@@ -446,7 +446,7 @@
             ]
           },
           "TeamAcronym": "Lexpo",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -879,7 +879,7 @@
             ]
           },
           "TeamAcronym": "HowToPlaySV",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -1312,7 +1312,7 @@
             ]
           },
           "TeamAcronym": "2632264491",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -1745,7 +1745,7 @@
             ]
           },
           "TeamAcronym": "Tomor1n",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -2198,7 +2198,7 @@
             ]
           },
           "TeamAcronym": "[Crz]anfish1013",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -2631,7 +2631,7 @@
             ]
           },
           "TeamAcronym": "Szak_",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -3064,7 +3064,7 @@
             ]
           },
           "TeamAcronym": "WTFrrrrrrr",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -3497,7 +3497,7 @@
             ]
           },
           "TeamAcronym": "-Kurimu-",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -3950,7 +3950,7 @@
             ]
           },
           "TeamAcronym": "Lexpo",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -4383,7 +4383,7 @@
             ]
           },
           "TeamAcronym": "HowToPlaySV",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -4816,7 +4816,7 @@
             ]
           },
           "TeamAcronym": "2632264491",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -5249,7 +5249,7 @@
             ]
           },
           "TeamAcronym": "Tomor1n",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -5702,7 +5702,7 @@
             ]
           },
           "TeamAcronym": "-Veloce-",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -6135,7 +6135,7 @@
             ]
           },
           "TeamAcronym": "ysls19798385",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -6568,7 +6568,7 @@
             ]
           },
           "TeamAcronym": "Kagari Mimi",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -7001,7 +7001,7 @@
             ]
           },
           "TeamAcronym": "Z37",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -7454,7 +7454,7 @@
             ]
           },
           "TeamAcronym": "ComboPower",
-          "Score": null,
+          "Score": 15,
           "Colour": "Red"
         },
         {
@@ -7887,7 +7887,7 @@
             ]
           },
           "TeamAcronym": "Ayachinene0721",
-          "Score": null,
+          "Score": 8,
           "Colour": "Blue"
         },
         {
@@ -8320,7 +8320,7 @@
             ]
           },
           "TeamAcronym": "My Seele",
-          "Score": null,
+          "Score": 5,
           "Colour": "Yellow"
         },
         {
@@ -8753,14 +8753,51 @@
             ]
           },
           "TeamAcronym": "Majono Shinzo",
-          "Score": null,
+          "Score": 2,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730617
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730658
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730659
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730715
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-04T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -9206,7 +9243,7 @@
             ]
           },
           "TeamAcronym": "[GB]ParasolTree",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -9639,7 +9676,7 @@
             ]
           },
           "TeamAcronym": "F4ntast1stOwO",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -10072,7 +10109,7 @@
             ]
           },
           "TeamAcronym": "Arisu Tendou",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -10505,7 +10542,7 @@
             ]
           },
           "TeamAcronym": "waterwater8787",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -10958,7 +10995,7 @@
             ]
           },
           "TeamAcronym": "LiangFenFan",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -11391,7 +11428,7 @@
             ]
           },
           "TeamAcronym": "[Crz]Riko",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -11824,7 +11861,7 @@
             ]
           },
           "TeamAcronym": "-Sheena-",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -12257,7 +12294,7 @@
             ]
           },
           "TeamAcronym": "Leaper",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -12710,7 +12747,7 @@
             ]
           },
           "TeamAcronym": "eilander",
-          "Score": null,
+          "Score": 9,
           "Colour": "Red"
         },
         {
@@ -13143,7 +13180,7 @@
             ]
           },
           "TeamAcronym": "pmt2018",
-          "Score": null,
+          "Score": 4,
           "Colour": "Blue"
         },
         {
@@ -13576,7 +13613,7 @@
             ]
           },
           "TeamAcronym": "Baihenai",
-          "Score": null,
+          "Score": 5,
           "Colour": "Yellow"
         },
         {
@@ -14009,13 +14046,26 @@
             ]
           },
           "TeamAcronym": "enbyd",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730659
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730715
+        }
+      ],
       "Current": false,
       "Date": "2026-06-26T18:00:00+08:00",
       "ConditionalMatches": [],
@@ -14462,7 +14512,7 @@
             ]
           },
           "TeamAcronym": "shadiaojunshi",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -14895,7 +14945,7 @@
             ]
           },
           "TeamAcronym": "[GB]fanqiu",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -15328,7 +15378,7 @@
             ]
           },
           "TeamAcronym": "Uesugi-Erii",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -15761,13 +15811,32 @@
             ]
           },
           "TeamAcronym": "SilentieLa",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 4994457
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730658
+        }
+      ],
       "Current": false,
       "Date": "2026-07-04T20:00:00+08:00",
       "ConditionalMatches": [],
@@ -16214,7 +16283,7 @@
             ]
           },
           "TeamAcronym": "verysour",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -16647,7 +16716,7 @@
             ]
           },
           "TeamAcronym": "Kirchhoff123",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -17080,7 +17149,7 @@
             ]
           },
           "TeamAcronym": "Redlooh",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -17513,7 +17582,7 @@
             ]
           },
           "TeamAcronym": "[GB]gluefly",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -18006,7 +18075,7 @@
             ]
           },
           "TeamAcronym": "lingR",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -18439,7 +18508,7 @@
             ]
           },
           "TeamAcronym": "26_",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -18872,7 +18941,7 @@
             ]
           },
           "TeamAcronym": "Shenzouz",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -19305,7 +19374,7 @@
             ]
           },
           "TeamAcronym": "ChaoSharkouo",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -19758,7 +19827,7 @@
             ]
           },
           "TeamAcronym": "ashurn",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -20191,7 +20260,7 @@
             ]
           },
           "TeamAcronym": "PaperPlane",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -20624,7 +20693,7 @@
             ]
           },
           "TeamAcronym": "[Crz]bubu",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -21057,7 +21126,7 @@
             ]
           },
           "TeamAcronym": "W1nterSnowf1eld",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -21510,7 +21579,7 @@
             ]
           },
           "TeamAcronym": "ParadigmaticOwl",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -21943,7 +22012,7 @@
             ]
           },
           "TeamAcronym": "elicccc",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -22376,7 +22445,7 @@
             ]
           },
           "TeamAcronym": "poitiox",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -22809,7 +22878,7 @@
             ]
           },
           "TeamAcronym": "kiwibird01",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -23262,7 +23331,7 @@
             ]
           },
           "TeamAcronym": "[Crz]weweqe",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -23695,7 +23764,7 @@
             ]
           },
           "TeamAcronym": "KafuuChino",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -24128,7 +24197,7 @@
             ]
           },
           "TeamAcronym": "NanLx",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -24561,7 +24630,7 @@
             ]
           },
           "TeamAcronym": "ZapHeavenly",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -25014,7 +25083,7 @@
             ]
           },
           "TeamAcronym": "bili_TYL",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -25447,7 +25516,7 @@
             ]
           },
           "TeamAcronym": "[GB]Lingyu",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -25880,7 +25949,7 @@
             ]
           },
           "TeamAcronym": "Watch01",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -26313,7 +26382,7 @@
             ]
           },
           "TeamAcronym": "yszt1",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -26766,7 +26835,7 @@
             ]
           },
           "TeamAcronym": "WOEM2436",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -27199,7 +27268,7 @@
             ]
           },
           "TeamAcronym": "Iroha-",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -27632,7 +27701,7 @@
             ]
           },
           "TeamAcronym": "kpmt",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -28065,7 +28134,7 @@
             ]
           },
           "TeamAcronym": "Plus_QwQ",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -28706,7 +28775,7 @@
             ]
           },
           "TeamAcronym": "[GB]LumiereLP",
-          "Score": null,
+          "Score": 3,
           "Colour": "Red"
         },
         {
@@ -28729,7 +28798,7 @@
             ]
           },
           "TeamAcronym": "Mafufu",
-          "Score": null,
+          "Score": 2,
           "Colour": "Blue"
         },
         {
@@ -28752,7 +28821,7 @@
             ]
           },
           "TeamAcronym": "Hylotl",
-          "Score": null,
+          "Score": 1,
           "Colour": "Yellow"
         },
         {
@@ -28775,14 +28844,27 @@
             ]
           },
           "TeamAcronym": "oxalicacid",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730717
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5731051
+        }
+      ],
+      "Current": false,
       "Date": "2026-06-26T13:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
