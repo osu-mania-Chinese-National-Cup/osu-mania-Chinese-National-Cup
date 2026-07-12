@@ -4,7 +4,6 @@
     "OnlineID": 3,
     "Name": "osu!mania",
     "InstantiationInfo": "osu.Game.Rulesets.Mania.ManiaRuleset, osu.Game.Rulesets.Mania",
-    "LastAppliedDifficultyVersion": 20241007,
     "Available": true
   },
   "Matches": [
@@ -30230,7 +30229,7 @@
             ]
           },
           "TeamAcronym": "26_",
-          "Score": 0,
+          "Score": 4,
           "Colour": "Red"
         },
         {
@@ -30663,7 +30662,7 @@
             ]
           },
           "TeamAcronym": "[GB]fanqiu",
-          "Score": 0,
+          "Score": 8,
           "Colour": "Blue"
         },
         {
@@ -31096,7 +31095,7 @@
             ]
           },
           "TeamAcronym": "[Crz]bubu",
-          "Score": 0,
+          "Score": 18,
           "Colour": "Yellow"
         },
         {
@@ -31529,14 +31528,51 @@
             ]
           },
           "TeamAcronym": "[GB]Lingyu",
-          "Score": 0,
+          "Score": 6,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752439
+        },
+        {
+          "Team": "Yellow",
+          "Type": "Pick",
+          "Winner": "Yellow",
+          "BeatmapID": 5752690
+        },
+        {
+          "Team": "Yellow",
+          "Type": "Pick",
+          "Winner": "Yellow",
+          "BeatmapID": 5752546
+        },
+        {
+          "Team": "Yellow",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752659
+        },
+        {
+          "Team": "Yellow",
+          "Type": "Pick",
+          "Winner": "Yellow",
+          "BeatmapID": 5752267
+        },
+        {
+          "Team": "Yellow",
+          "Type": "Pick",
+          "Winner": "Green",
+          "BeatmapID": 5752377
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -56064,7 +56100,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -91513,7 +91549,7 @@
     }
   ],
   "Progressions": [],
-  "ChromaKeyWidth": 1366,
+  "ChromaKeyWidth": 683,
   "FrameRate": 360,
   "PlayersPerTeam": 2,
   "AutoProgressScreens": true,
