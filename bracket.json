@@ -33734,7 +33734,7 @@
             ]
           },
           "TeamAcronym": "[Crz]weweqe",
-          "Score": 0,
+          "Score": 7,
           "Colour": "Red"
         },
         {
@@ -34167,7 +34167,7 @@
             ]
           },
           "TeamAcronym": "Vain_",
-          "Score": 0,
+          "Score": 18,
           "Colour": "Blue"
         },
         {
@@ -34600,7 +34600,7 @@
             ]
           },
           "TeamAcronym": "kiwibird01",
-          "Score": 0,
+          "Score": 8,
           "Colour": "Yellow"
         },
         {
@@ -35033,14 +35033,57 @@
             ]
           },
           "TeamAcronym": "Kagari Mimi",
-          "Score": 0,
+          "Score": 3,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752659
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752377
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752489
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752690
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752546
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752267
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752499
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
