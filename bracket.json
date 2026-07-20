@@ -37238,7 +37238,7 @@
             ]
           },
           "TeamAcronym": "bili_TYL",
-          "Score": 0,
+          "Score": 17,
           "Colour": "Red"
         },
         {
@@ -37671,7 +37671,7 @@
             ]
           },
           "TeamAcronym": "ashurn",
-          "Score": 0,
+          "Score": 11,
           "Colour": "Blue"
         },
         {
@@ -38104,7 +38104,7 @@
             ]
           },
           "TeamAcronym": "-Sheena-",
-          "Score": 0,
+          "Score": 6,
           "Colour": "Yellow"
         },
         {
@@ -38537,14 +38537,51 @@
             ]
           },
           "TeamAcronym": "6XvX7",
-          "Score": 0,
+          "Score": 2,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752467
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752732
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5201783
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752484
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752465
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752690
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -56064,7 +56101,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -91514,7 +91551,7 @@
   ],
   "Progressions": [],
   "ChromaKeyWidth": 1366,
-  "FrameRate": 360,
+  "FrameRate": 240,
   "PlayersPerTeam": 2,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
