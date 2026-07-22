@@ -2228,7 +2228,7 @@
             ]
           },
           "TeamAcronym": "[Crz]anfish1013",
-          "Score": 14,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -2661,7 +2661,7 @@
             ]
           },
           "TeamAcronym": "Szak_",
-          "Score": 10,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -3094,7 +3094,7 @@
             ]
           },
           "TeamAcronym": "WTFrrrrrrr",
-          "Score": 3,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -3527,7 +3527,7 @@
             ]
           },
           "TeamAcronym": "-Kurimu-",
-          "Score": 3,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -3560,7 +3560,7 @@
           "BeatmapID": 5731051
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-06-27T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -26347,9 +26347,9 @@
     {
       "ID": 28,
       "StructureType": 4,
-      "Team1Acronym": "GRP",
+      "Team1Acronym": "GRO",
       "Team1Score": null,
-      "Team2Acronym": "P",
+      "Team2Acronym": "1-P",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -26782,7 +26782,7 @@
             ]
           },
           "TeamAcronym": "bili_TYL",
-          "Score": null,
+          "Score": 15,
           "Colour": "Red"
         },
         {
@@ -27215,7 +27215,7 @@
             ]
           },
           "TeamAcronym": "[GB]Lingyu",
-          "Score": null,
+          "Score": 14,
           "Colour": "Blue"
         },
         {
@@ -27648,7 +27648,7 @@
             ]
           },
           "TeamAcronym": "Watch01",
-          "Score": null,
+          "Score": 4,
           "Colour": "Yellow"
         },
         {
@@ -28081,14 +28081,40 @@
             ]
           },
           "TeamAcronym": "yszt1",
-          "Score": null,
+          "Score": 3,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5731051
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5730855
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5730717
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5730715
+        }
+      ],
+      "Current": true,
       "Date": "2026-06-26T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
