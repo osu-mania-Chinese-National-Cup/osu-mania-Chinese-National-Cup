@@ -5701,7 +5701,7 @@
             ]
           },
           "TeamAcronym": "-Veloce-",
-          "Score": 0,
+          "Score": 15,
           "Colour": "Red"
         },
         {
@@ -6134,7 +6134,7 @@
             ]
           },
           "TeamAcronym": "ysls19798385",
-          "Score": 0,
+          "Score": 6,
           "Colour": "Blue"
         },
         {
@@ -6567,7 +6567,7 @@
             ]
           },
           "TeamAcronym": "Kagari Mimi",
-          "Score": 0,
+          "Score": 8,
           "Colour": "Yellow"
         },
         {
@@ -7000,13 +7000,44 @@
             ]
           },
           "TeamAcronym": "Z37",
-          "Score": 0,
+          "Score": 1,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730855
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730656
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730659
+        }
+      ],
       "Current": false,
       "Date": "2026-07-04T19:00:00+08:00",
       "ConditionalMatches": [],
@@ -12746,7 +12777,7 @@
             ]
           },
           "TeamAcronym": "eilander",
-          "Score": 9,
+          "Score": 17,
           "Colour": "Red"
         },
         {
@@ -13179,7 +13210,7 @@
             ]
           },
           "TeamAcronym": "pmt2018",
-          "Score": 4,
+          "Score": 11,
           "Colour": "Blue"
         },
         {
@@ -13612,7 +13643,7 @@
             ]
           },
           "TeamAcronym": "Baihenai",
-          "Score": 5,
+          "Score": 8,
           "Colour": "Yellow"
         },
         {
@@ -14055,14 +14086,32 @@
         {
           "Team": "Referee",
           "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5730717
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
           "Winner": "Red",
-          "BeatmapID": 5730659
+          "BeatmapID": 5730617
         },
         {
           "Team": "Red",
           "Type": "Pick",
           "Winner": "Red",
-          "BeatmapID": 5730715
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730658
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730659
         }
       ],
       "Current": false,
@@ -15816,26 +15865,7 @@
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [
-        {
-          "Team": "Referee",
-          "Type": "Pick",
-          "Winner": "Blue",
-          "BeatmapID": 4994457
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5730738
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5730658
-        }
-      ],
+      "PicksBans": [],
       "Current": false,
       "Date": "2026-07-04T20:00:00+08:00",
       "ConditionalMatches": [],
@@ -21538,7 +21568,7 @@
             ]
           },
           "TeamAcronym": "ashurn",
-          "Score": 0,
+          "Score": 15,
           "Colour": "Red"
         },
         {
@@ -21971,7 +22001,7 @@
             ]
           },
           "TeamAcronym": "PaperPlane",
-          "Score": 0,
+          "Score": 5,
           "Colour": "Blue"
         },
         {
@@ -22404,7 +22434,7 @@
             ]
           },
           "TeamAcronym": "[Crz]bubu",
-          "Score": 0,
+          "Score": 7,
           "Colour": "Yellow"
         },
         {
@@ -22837,13 +22867,44 @@
             ]
           },
           "TeamAcronym": "W1nterSnowf1eld",
-          "Score": 0,
+          "Score": 3,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5731051
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730617
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730658
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730717
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730855
+        }
+      ],
       "Current": false,
       "Date": "2026-07-04T17:00:00+08:00",
       "ConditionalMatches": [],
@@ -23290,7 +23351,7 @@
             ]
           },
           "TeamAcronym": "ParadigmaticOwl",
-          "Score": 0,
+          "Score": 16,
           "Colour": "Red"
         },
         {
@@ -23723,7 +23784,7 @@
             ]
           },
           "TeamAcronym": "elicccc",
-          "Score": 0,
+          "Score": 7,
           "Colour": "Blue"
         },
         {
@@ -24156,7 +24217,7 @@
             ]
           },
           "TeamAcronym": "poitiox",
-          "Score": 0,
+          "Score": 4,
           "Colour": "Yellow"
         },
         {
@@ -24589,14 +24650,51 @@
             ]
           },
           "TeamAcronym": "kiwibird01",
-          "Score": 0,
+          "Score": 15,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Green",
+          "BeatmapID": 5730855
+        },
+        {
+          "Team": "Green",
+          "Type": "Pick",
+          "Winner": "Green",
+          "BeatmapID": 5730617
+        },
+        {
+          "Team": "Green",
+          "Type": "Pick",
+          "Winner": "Green",
+          "BeatmapID": 5730656
+        },
+        {
+          "Team": "Green",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730659
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730658
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-04T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
