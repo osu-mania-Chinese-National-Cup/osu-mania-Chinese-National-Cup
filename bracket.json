@@ -51525,7 +51525,7 @@
             ]
           },
           "TeamAcronym": "PaperPlane",
-          "Score": 0,
+          "Score": 21,
           "Colour": "Red"
         },
         {
@@ -51958,7 +51958,7 @@
             ]
           },
           "TeamAcronym": "Redlooh",
-          "Score": 0,
+          "Score": 22,
           "Colour": "Blue"
         },
         {
@@ -52391,7 +52391,7 @@
             ]
           },
           "TeamAcronym": "enbyd",
-          "Score": 0,
+          "Score": 1,
           "Colour": "Yellow"
         },
         {
@@ -52824,14 +52824,63 @@
             ]
           },
           "TeamAcronym": "poitiox",
-          "Score": 0,
+          "Score": 10,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752659
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752484
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752467
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752732
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5201783
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752465
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752499
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
