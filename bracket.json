@@ -2032,7 +2032,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2047,12 +2047,12 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-14T18:00:00+08:00",
+      "Current": true,
+      "Date": "2026-08-15T10:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 3320,
-        "Y": 370
+        "X": 3360,
+        "Y": 350
       }
     }
   ],
@@ -3993,7 +3993,17 @@
       "StartDate": "2026-08-14T18:00:00+08:00",
       "Matches": [
         74,
-        41,
+        41
+      ]
+    },
+    {
+      "Name": "Grand Finals (Bracket Reset)",
+      "Description": "",
+      "BestOf": 9,
+      "BanCount": 1,
+      "Beatmaps": [],
+      "StartDate": "2026-08-15T10:00:00+00:00",
+      "Matches": [
         42
       ]
     }
