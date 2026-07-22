@@ -49773,7 +49773,7 @@
             ]
           },
           "TeamAcronym": "[Crz]Riko",
-          "Score": 0,
+          "Score": 14,
           "Colour": "Red"
         },
         {
@@ -50206,7 +50206,7 @@
             ]
           },
           "TeamAcronym": "mitsuseann",
-          "Score": 0,
+          "Score": 17,
           "Colour": "Blue"
         },
         {
@@ -50639,7 +50639,7 @@
             ]
           },
           "TeamAcronym": "Plus_QwQ",
-          "Score": 0,
+          "Score": 9,
           "Colour": "Yellow"
         },
         {
@@ -51072,14 +51072,63 @@
             ]
           },
           "TeamAcronym": "Kalzii",
-          "Score": 0,
+          "Score": 2,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752267
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Yellow",
+          "BeatmapID": 5752377
+        },
+        {
+          "Team": "Yellow",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752484
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752489
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752659
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752546
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752690
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5201783
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
