@@ -33479,9 +33479,9 @@
       "ID": 8,
       "StructureType": 4,
       "Team1Acronym": "GRP",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "D",
-      "Team2Score": null,
+      "Team2Score": 0,
       "TeamSlots": [
         {
           "Team": {
@@ -33913,7 +33913,7 @@
             ]
           },
           "TeamAcronym": "[Crz]weweqe",
-          "Score": null,
+          "Score": 7,
           "Colour": "Red"
         },
         {
@@ -34346,7 +34346,7 @@
             ]
           },
           "TeamAcronym": "Vain_",
-          "Score": null,
+          "Score": 18,
           "Colour": "Blue"
         },
         {
@@ -34779,7 +34779,7 @@
             ]
           },
           "TeamAcronym": "kiwibird01",
-          "Score": null,
+          "Score": 8,
           "Colour": "Yellow"
         },
         {
@@ -35212,7 +35212,7 @@
             ]
           },
           "TeamAcronym": "Kagari Mimi",
-          "Score": null,
+          "Score": 3,
           "Colour": "Green"
         }
       ],
