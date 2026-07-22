@@ -40921,7 +40921,7 @@
             ]
           },
           "TeamAcronym": "verysour",
-          "Score": 0,
+          "Score": 16,
           "Colour": "Red"
         },
         {
@@ -41354,7 +41354,7 @@
             ]
           },
           "TeamAcronym": "ComboPower",
-          "Score": 0,
+          "Score": 12,
           "Colour": "Blue"
         },
         {
@@ -41787,7 +41787,7 @@
             ]
           },
           "TeamAcronym": "Iroha-",
-          "Score": 0,
+          "Score": 12,
           "Colour": "Yellow"
         },
         {
@@ -42220,14 +42220,69 @@
             ]
           },
           "TeamAcronym": "Szak_",
-          "Score": 0,
+          "Score": 8,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752732
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Green",
+          "BeatmapID": 5752484
+        },
+        {
+          "Team": "Green",
+          "Type": "Pick",
+          "Winner": "Green",
+          "BeatmapID": 5752467
+        },
+        {
+          "Team": "Green",
+          "Type": "Pick",
+          "Winner": "Yellow",
+          "BeatmapID": 5752439
+        },
+        {
+          "Team": "Yellow",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752546
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5752659
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752489
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5201783
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Yellow",
+          "BeatmapID": 5752499
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
