@@ -5325,14 +5325,14 @@
       "StructureType": 4,
       "Team1Acronym": "GRO",
       "Team1Score": null,
-      "Team2Acronym": "1-O",
+      "Team2Acronym": "1-M",
       "Team2Score": null,
       "TeamSlots": [
         {
           "Team": {
-            "FullName": "[Crz]weweqe",
-            "FlagName": "34455976",
-            "Acronym": "[Crz]weweqe",
+            "FullName": "-Veloce-",
+            "FlagName": "23248427",
+            "Acronym": "-Veloce-",
             "SeedingResults": [
               {
                 "Beatmaps": [
@@ -5382,8 +5382,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 995707,
-                    "Seed": 10
+                    "Score": 997129,
+                    "Seed": 3
                   },
                   {
                     "ID": 5718151,
@@ -5431,8 +5431,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 988212,
-                    "Seed": 13
+                    "Score": 995792,
+                    "Seed": 3
                   },
                   {
                     "ID": 5718770,
@@ -5479,8 +5479,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 997693,
-                    "Seed": 9
+                    "Score": 997816,
+                    "Seed": 8
                   },
                   {
                     "ID": 5718130,
@@ -5528,12 +5528,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 988513,
-                    "Seed": 8
+                    "Score": 994700,
+                    "Seed": 2
                   }
                 ],
                 "Mod": "RC",
-                "Seed": 12
+                "Seed": 2
               },
               {
                 "Beatmaps": [
@@ -5583,8 +5583,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 972222,
-                    "Seed": 21
+                    "Score": 994703,
+                    "Seed": 2
                   },
                   {
                     "ID": 5718137,
@@ -5632,12 +5632,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 983576,
-                    "Seed": 26
+                    "Score": 996897,
+                    "Seed": 1
                   }
                 ],
                 "Mod": "HB",
-                "Seed": 12
+                "Seed": 2
               },
               {
                 "Beatmaps": [
@@ -5687,8 +5687,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 969170,
-                    "Seed": 31
+                    "Score": 993678,
+                    "Seed": 1
                   },
                   {
                     "ID": 5718126,
@@ -5736,36 +5736,36 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 976610,
-                    "Seed": 21
+                    "Score": 993911,
+                    "Seed": 1
                   }
                 ],
                 "Mod": "LN",
-                "Seed": 12
+                "Seed": 2
               }
             ],
-            "Seed": "12",
+            "Seed": "2",
             "LastYearPlacing": "N/A",
-            "AverageRank": 889.0,
+            "AverageRank": 228.0,
             "Players": [
               {
-                "id": 34455976,
-                "Username": "[Crz]weweqe",
-                "country_code": "CN",
-                "Rank": 889,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/34455976/ac8e5972bb72676d174b1cad56fe98d975c54dbd43be1b34f0c94850a719a75e.png"
+                "id": 23248427,
+                "Username": "-Veloce-",
+                "country_code": "TW",
+                "Rank": 228,
+                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/23248427/384b1b3c0230c8b6743cc03fe369423e1be137e1512b198b3c12ab80359ecd99.png"
               }
             ]
           },
-          "TeamAcronym": "[Crz]weweqe",
-          "Score": null,
+          "TeamAcronym": "-Veloce-",
+          "Score": 15,
           "Colour": "Red"
         },
         {
           "Team": {
-            "FullName": "KafuuChino",
-            "FlagName": "10817494",
-            "Acronym": "KafuuChino",
+            "FullName": "ysls19798385",
+            "FlagName": "35528667",
+            "Acronym": "ysls19798385",
             "SeedingResults": [
               {
                 "Beatmaps": [
@@ -5815,8 +5815,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 995960,
-                    "Seed": 8
+                    "Score": 995687,
+                    "Seed": 11
                   },
                   {
                     "ID": 5718151,
@@ -5864,8 +5864,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 923687,
-                    "Seed": 49
+                    "Score": 984314,
+                    "Seed": 19
                   },
                   {
                     "ID": 5718770,
@@ -5912,8 +5912,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 997986,
-                    "Seed": 6
+                    "Score": 992290,
+                    "Seed": 28
                   },
                   {
                     "ID": 5718130,
@@ -5961,12 +5961,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 968079,
-                    "Seed": 25
+                    "Score": 988264,
+                    "Seed": 9
                   }
                 ],
                 "Mod": "RC",
-                "Seed": 19
+                "Seed": 24
               },
               {
                 "Beatmaps": [
@@ -6016,8 +6016,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 983892,
-                    "Seed": 15
+                    "Score": 958524,
+                    "Seed": 35
                   },
                   {
                     "ID": 5718137,
@@ -6065,12 +6065,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 993839,
-                    "Seed": 9
+                    "Score": 978733,
+                    "Seed": 38
                   }
                 ],
                 "Mod": "HB",
-                "Seed": 19
+                "Seed": 24
               },
               {
                 "Beatmaps": [
@@ -6120,8 +6120,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 968452,
-                    "Seed": 32
+                    "Score": 954405,
+                    "Seed": 46
                   },
                   {
                     "ID": 5718126,
@@ -6169,36 +6169,36 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 973534,
-                    "Seed": 25
+                    "Score": 977804,
+                    "Seed": 20
                   }
                 ],
                 "Mod": "LN",
-                "Seed": 19
+                "Seed": 24
               }
             ],
-            "Seed": "19",
+            "Seed": "24",
             "LastYearPlacing": "N/A",
-            "AverageRank": 284.0,
+            "AverageRank": 380.0,
             "Players": [
               {
-                "id": 10817494,
-                "Username": "KafuuChino",
+                "id": 35528667,
+                "Username": "ysls19798385",
                 "country_code": "CN",
-                "Rank": 284,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/10817494/71bc17f5f5c80c9e53322e041f0383ef1579ce0d61d4c1405e3d70dc65b6864c.png"
+                "Rank": 380,
+                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/35528667/12936097113512d9c88c03e1828dca7f9f7833335ea37de82cfd65b08490248a.jpeg"
               }
             ]
           },
-          "TeamAcronym": "KafuuChino",
-          "Score": null,
+          "TeamAcronym": "ysls19798385",
+          "Score": 6,
           "Colour": "Blue"
         },
         {
           "Team": {
-            "FullName": "NanLx",
-            "FlagName": "35672322",
-            "Acronym": "NanLx",
+            "FullName": "Kagari Mimi",
+            "FlagName": "36372669",
+            "Acronym": "Kagari Mimi",
             "SeedingResults": [
               {
                 "Beatmaps": [
@@ -6248,8 +6248,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 988147,
-                    "Seed": 38
+                    "Score": 993200,
+                    "Seed": 21
                   },
                   {
                     "ID": 5718151,
@@ -6297,8 +6297,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 949813,
-                    "Seed": 41
+                    "Score": 939457,
+                    "Seed": 45
                   },
                   {
                     "ID": 5718770,
@@ -6345,8 +6345,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 993104,
-                    "Seed": 25
+                    "Score": 992803,
+                    "Seed": 26
                   },
                   {
                     "ID": 5718130,
@@ -6394,12 +6394,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 941990,
-                    "Seed": 43
+                    "Score": 951253,
+                    "Seed": 39
                   }
                 ],
                 "Mod": "RC",
-                "Seed": 47
+                "Seed": 45
               },
               {
                 "Beatmaps": [
@@ -6449,8 +6449,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 940058,
-                    "Seed": 50
+                    "Score": 912081,
+                    "Seed": 56
                   },
                   {
                     "ID": 5718137,
@@ -6498,12 +6498,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 957441,
-                    "Seed": 60
+                    "Score": 960414,
+                    "Seed": 57
                   }
                 ],
                 "Mod": "HB",
-                "Seed": 47
+                "Seed": 45
               },
               {
                 "Beatmaps": [
@@ -6553,8 +6553,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 935798,
-                    "Seed": 58
+                    "Score": 965727,
+                    "Seed": 34
                   },
                   {
                     "ID": 5718126,
@@ -6602,36 +6602,36 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 951893,
-                    "Seed": 44
+                    "Score": 950318,
+                    "Seed": 45
                   }
                 ],
                 "Mod": "LN",
-                "Seed": 47
+                "Seed": 45
               }
             ],
-            "Seed": "47",
+            "Seed": "45",
             "LastYearPlacing": "N/A",
-            "AverageRank": 1651.0,
+            "AverageRank": 3587.0,
             "Players": [
               {
-                "id": 35672322,
-                "Username": "NanLx",
+                "id": 36372669,
+                "Username": "Kagari Mimi",
                 "country_code": "CN",
-                "Rank": 1651,
-                "CoverUrl": "https://assets.ppy.sh/user-cover-presets/47/45219dc25415f5c7dc33272b800eb06f9ca1eecfcc2b483924b30ba71f469189.jpeg"
+                "Rank": 3587,
+                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/36372669/3d0cb9b948809a4a59810eb1c107905193445c276732bacea9b346100a458c1d.jpeg"
               }
             ]
           },
-          "TeamAcronym": "NanLx",
-          "Score": null,
+          "TeamAcronym": "Kagari Mimi",
+          "Score": 8,
           "Colour": "Yellow"
         },
         {
           "Team": {
-            "FullName": "ZapHeavenly",
-            "FlagName": "19348819",
-            "Acronym": "ZapHeavenly",
+            "FullName": "Z37",
+            "FlagName": "32640473",
+            "Acronym": "Z37",
             "SeedingResults": [
               {
                 "Beatmaps": [
@@ -6681,8 +6681,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 973459,
-                    "Seed": 56
+                    "Score": 977062,
+                    "Seed": 51
                   },
                   {
                     "ID": 5718151,
@@ -6730,8 +6730,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 866847,
-                    "Seed": 62
+                    "Score": 895557,
+                    "Seed": 59
                   },
                   {
                     "ID": 5718770,
@@ -6778,8 +6778,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 958777,
-                    "Seed": 54
+                    "Score": 967011,
+                    "Seed": 48
                   },
                   {
                     "ID": 5718130,
@@ -6827,12 +6827,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 889806,
-                    "Seed": 58
+                    "Score": 852865,
+                    "Seed": 69
                   }
                 ],
                 "Mod": "RC",
-                "Seed": 60
+                "Seed": 64
               },
               {
                 "Beatmaps": [
@@ -6882,8 +6882,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 879041,
-                    "Seed": 65
+                    "Score": 877105,
+                    "Seed": 67
                   },
                   {
                     "ID": 5718137,
@@ -6931,12 +6931,12 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 934643,
-                    "Seed": 71
+                    "Score": 948138,
+                    "Seed": 65
                   }
                 ],
                 "Mod": "HB",
-                "Seed": 60
+                "Seed": 64
               },
               {
                 "Beatmaps": [
@@ -6986,8 +6986,8 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 942946,
-                    "Seed": 55
+                    "Score": 886531,
+                    "Seed": 71
                   },
                   {
                     "ID": 5718126,
@@ -7035,41 +7035,72 @@
                         "InstantiationInfo": ""
                       }
                     },
-                    "Score": 884842,
-                    "Seed": 67
+                    "Score": 817470,
+                    "Seed": 75
                   }
                 ],
                 "Mod": "LN",
-                "Seed": 60
+                "Seed": 64
               }
             ],
-            "Seed": "60",
+            "Seed": "64",
             "LastYearPlacing": "N/A",
-            "AverageRank": 3887.0,
+            "AverageRank": 4209.0,
             "Players": [
               {
-                "id": 19348819,
-                "Username": "ZapHeavenly",
+                "id": 32640473,
+                "Username": "Z37",
                 "country_code": "CN",
-                "Rank": 3887,
-                "CoverUrl": "https://assets.ppy.sh/user-profile-covers/19348819/51db99108de64cbb47aefa567d1c60f1fb0558728979195902786c7d67fdc1cc.jpeg"
+                "Rank": 4209,
+                "CoverUrl": "https://assets.ppy.sh/user-cover-presets/41/50d00960f011b60577253f6c530a974cf2bd65d0da83a92f2d02f1cdecc25151.jpeg"
               }
             ]
           },
-          "TeamAcronym": "ZapHeavenly",
-          "Score": null,
+          "TeamAcronym": "Z37",
+          "Score": 1,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730855
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730656
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730659
+        }
+      ],
       "Current": false,
-      "Date": "2026-06-27T21:00:00+08:00",
+      "Date": "2026-07-04T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
-        "X": 150,
-        "Y": 280
+        "X": -10,
+        "Y": 290
       }
     },
     {
@@ -12331,9 +12362,9 @@
     {
       "ID": 18,
       "StructureType": 4,
-      "Team1Acronym": "GRP",
+      "Team1Acronym": "GRO",
       "Team1Score": null,
-      "Team2Acronym": "J",
+      "Team2Acronym": "1-J",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -12766,7 +12797,7 @@
             ]
           },
           "TeamAcronym": "eilander",
-          "Score": null,
+          "Score": 17,
           "Colour": "Red"
         },
         {
@@ -13199,7 +13230,7 @@
             ]
           },
           "TeamAcronym": "pmt2018",
-          "Score": null,
+          "Score": 11,
           "Colour": "Blue"
         },
         {
@@ -13632,7 +13663,7 @@
             ]
           },
           "TeamAcronym": "Baihenai",
-          "Score": null,
+          "Score": 8,
           "Colour": "Yellow"
         },
         {
@@ -14065,14 +14096,45 @@
             ]
           },
           "TeamAcronym": "enbyd",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Blue",
+          "BeatmapID": 5730717
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730617
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730738
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730658
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730659
+        }
+      ],
+      "Current": true,
       "Date": "2026-06-26T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -14083,9 +14145,9 @@
     {
       "ID": 11,
       "StructureType": 4,
-      "Team1Acronym": "GRP",
+      "Team1Acronym": "GRO",
       "Team1Score": null,
-      "Team2Acronym": "G",
+      "Team2Acronym": "1-G",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -14518,7 +14580,7 @@
             ]
           },
           "TeamAcronym": "shadiaojunshi",
-          "Score": null,
+          "Score": 0,
           "Colour": "Red"
         },
         {
@@ -14951,7 +15013,7 @@
             ]
           },
           "TeamAcronym": "[GB]fanqiu",
-          "Score": null,
+          "Score": 0,
           "Colour": "Blue"
         },
         {
@@ -15384,7 +15446,7 @@
             ]
           },
           "TeamAcronym": "Uesugi-Erii",
-          "Score": null,
+          "Score": 0,
           "Colour": "Yellow"
         },
         {
@@ -15817,7 +15879,7 @@
             ]
           },
           "TeamAcronym": "SilentieLa",
-          "Score": null,
+          "Score": 0,
           "Colour": "Green"
         }
       ],
@@ -21091,9 +21153,9 @@
     {
       "ID": 20,
       "StructureType": 4,
-      "Team1Acronym": "GRP",
+      "Team1Acronym": "GRO",
       "Team1Score": null,
-      "Team2Acronym": "L",
+      "Team2Acronym": "1-L",
       "Team2Score": null,
       "TeamSlots": [
         {
@@ -21526,7 +21588,7 @@
             ]
           },
           "TeamAcronym": "ashurn",
-          "Score": null,
+          "Score": 15,
           "Colour": "Red"
         },
         {
@@ -21959,7 +22021,7 @@
             ]
           },
           "TeamAcronym": "PaperPlane",
-          "Score": null,
+          "Score": 5,
           "Colour": "Blue"
         },
         {
@@ -22392,7 +22454,7 @@
             ]
           },
           "TeamAcronym": "[Crz]bubu",
-          "Score": null,
+          "Score": 7,
           "Colour": "Yellow"
         },
         {
@@ -22825,13 +22887,44 @@
             ]
           },
           "TeamAcronym": "W1nterSnowf1eld",
-          "Score": null,
+          "Score": 3,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5731051
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730617
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730658
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730717
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5730855
+        }
+      ],
       "Current": false,
       "Date": "2026-07-04T17:00:00+08:00",
       "ConditionalMatches": [],
