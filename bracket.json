@@ -1517,13 +1517,64 @@
     {
       "ID": 96,
       "Team1Acronym": "[GB]Lingyu",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "Redlooh",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5514626
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5776143
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5776085
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5514626
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5476096
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776143
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776112
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-22T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
