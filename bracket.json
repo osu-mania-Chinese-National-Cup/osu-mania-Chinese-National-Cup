@@ -1775,9 +1775,14 @@
           "Team": "Red",
           "Type": "Pick",
           "BeatmapID": 5731051
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5730715
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-06-27T02:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2223,7 +2228,7 @@
             ]
           },
           "TeamAcronym": "[Crz]anfish1013",
-          "Score": 0,
+          "Score": 14,
           "Colour": "Red"
         },
         {
@@ -2656,7 +2661,7 @@
             ]
           },
           "TeamAcronym": "Szak_",
-          "Score": 0,
+          "Score": 10,
           "Colour": "Blue"
         },
         {
@@ -3089,7 +3094,7 @@
             ]
           },
           "TeamAcronym": "WTFrrrrrrr",
-          "Score": 0,
+          "Score": 3,
           "Colour": "Yellow"
         },
         {
@@ -3522,14 +3527,40 @@
             ]
           },
           "TeamAcronym": "-Kurimu-",
-          "Score": 0,
+          "Score": 3,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5730611
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5730717
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5730617
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4994457
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5731051
+        }
+      ],
+      "Current": true,
       "Date": "2026-06-27T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
