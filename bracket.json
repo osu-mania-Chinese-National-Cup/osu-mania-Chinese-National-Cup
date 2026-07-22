@@ -18108,7 +18108,7 @@
             ]
           },
           "TeamAcronym": "HowToPlaySV",
-          "Score": 0,
+          "Score": 4,
           "Colour": "Red"
         },
         {
@@ -18541,7 +18541,7 @@
             ]
           },
           "TeamAcronym": "[GB]ParasolTree",
-          "Score": 0,
+          "Score": 16,
           "Colour": "Blue"
         },
         {
@@ -18974,7 +18974,7 @@
             ]
           },
           "TeamAcronym": "shadiaojunshi",
-          "Score": 0,
+          "Score": 13,
           "Colour": "Yellow"
         },
         {
@@ -19407,14 +19407,57 @@
             ]
           },
           "TeamAcronym": "Kirchhoff123",
-          "Score": 0,
+          "Score": 9,
           "Colour": "Green"
         }
       ],
       "Completed": false,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752732
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752439
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752377
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752659
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752489
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752467
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5752484
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-10T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
