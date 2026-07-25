@@ -1326,13 +1326,84 @@
     },
     {
       "ID": 52,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "StructureType": 2,
+      "Team1Acronym": "Lexpo",
+      "Team1Score": 5,
+      "Team2Acronym": "waterwater8787",
+      "Team2Score": 0,
+      "TeamSlots": [],
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-01T21:00:00+08:00",
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "Winner": "Red",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "Winner": "Red",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "Winner": "Red",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "Winner": "Red",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776002
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776310
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776317
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5476096
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776213
+        }
+      ],
+      "Current": true,
+      "Date": "2026-07-25T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1800,
