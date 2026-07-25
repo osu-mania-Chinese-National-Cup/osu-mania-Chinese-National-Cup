@@ -1082,13 +1082,59 @@
     {
       "ID": 29,
       "Team1Acronym": "ashurn",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "[GB]fanqiu",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5776317
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776317
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776310
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776143
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776085
+        }
+      ],
+      "Current": true,
       "Date": "2026-08-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
