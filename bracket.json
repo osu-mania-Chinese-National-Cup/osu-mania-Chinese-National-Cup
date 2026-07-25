@@ -1330,13 +1330,64 @@
     {
       "ID": 63,
       "Team1Acronym": "lingR",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "NanLx",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5776112
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5776310
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776002
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776112
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776085
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5476096
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-25T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
