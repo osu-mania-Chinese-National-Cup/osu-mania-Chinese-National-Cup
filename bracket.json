@@ -1431,14 +1431,89 @@
     },
     {
       "ID": 81,
+      "StructureType": 2,
       "Team1Acronym": "HowToPlaySV",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "Arisu Tendou",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 2,
+      "TeamSlots": [],
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "Winner": "Red",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "Winner": "Red",
+          "BeatmapID": 5776002
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "Winner": "Red",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5514626
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "Winner": "Red",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776085
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776112
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776310
+        },
+        {
+          "Team": "Referee",
+          "Type": "Pick",
+          "Winner": "Red",
+          "BeatmapID": 5776213
+        }
+      ],
+      "Current": true,
       "Date": "2026-07-25T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
