@@ -1134,7 +1134,7 @@
           "BeatmapID": 5776085
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1197,7 +1197,7 @@
           "BeatmapID": 5775926
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-22T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1242,13 +1242,13 @@
     {
       "ID": 48,
       "Team1Acronym": "bili_TYL",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "Iroha-",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2026-08-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1293,12 +1293,58 @@
     {
       "ID": 51,
       "Team1Acronym": "Lexpo",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "waterwater8787",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776002
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776310
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5476096
+        }
+      ],
       "Current": false,
       "Date": "2026-07-25T22:00:00+08:00",
       "ConditionalMatches": [],
@@ -1310,10 +1356,10 @@
     {
       "ID": 54,
       "Team1Acronym": "mitsuseann",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "pmt2018",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -1322,92 +1368,6 @@
       "Position": {
         "X": 1610,
         "Y": 950
-      }
-    },
-    {
-      "ID": 52,
-      "StructureType": 2,
-      "Team1Acronym": "Lexpo",
-      "Team1Score": 5,
-      "Team2Acronym": "waterwater8787",
-      "Team2Score": 0,
-      "TeamSlots": [],
-      "Completed": true,
-      "Losers": true,
-      "PicksBans": [
-        {
-          "Team": "Red",
-          "Type": "Protected",
-          "Winner": "Red",
-          "BeatmapID": 5775926
-        },
-        {
-          "Team": "Blue",
-          "Type": "Protected",
-          "Winner": "Red",
-          "BeatmapID": 5776227
-        },
-        {
-          "Team": "Blue",
-          "Type": "Ban",
-          "Winner": "Red",
-          "BeatmapID": 5776159
-        },
-        {
-          "Team": "Red",
-          "Type": "Ban",
-          "Winner": "Red",
-          "BeatmapID": 5776123
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5776002
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5775926
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5776227
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5776310
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5776317
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5476096
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "Winner": "Red",
-          "BeatmapID": 5776213
-        }
-      ],
-      "Current": true,
-      "Date": "2026-07-25T22:00:00+08:00",
-      "ConditionalMatches": [],
-      "Position": {
-        "X": 1800,
-        "Y": 900
       }
     },
     {
@@ -1492,7 +1452,7 @@
           "BeatmapID": 5776213
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-26T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1560,7 +1520,7 @@
           "BeatmapID": 5476096
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-25T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1633,7 +1593,7 @@
           "BeatmapID": 5776123
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-26T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1733,7 +1693,7 @@
           "BeatmapID": 5776213
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-26T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1796,7 +1756,7 @@
           "BeatmapID": 5775926
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-26T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1864,7 +1824,7 @@
           "BeatmapID": 5776310
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-26T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1874,89 +1834,75 @@
     },
     {
       "ID": 81,
-      "StructureType": 2,
       "Team1Acronym": "HowToPlaySV",
       "Team1Score": 5,
       "Team2Acronym": "Arisu Tendou",
       "Team2Score": 2,
-      "TeamSlots": [],
       "Completed": true,
       "Losers": true,
       "PicksBans": [
         {
           "Team": "Blue",
           "Type": "Protected",
-          "Winner": "Red",
           "BeatmapID": 5775926
         },
         {
           "Team": "Blue",
           "Type": "Ban",
-          "Winner": "Red",
           "BeatmapID": 5776002
         },
         {
           "Team": "Red",
           "Type": "Ban",
-          "Winner": "Red",
           "BeatmapID": 5776159
         },
         {
           "Team": "Blue",
           "Type": "Pick",
-          "Winner": "Red",
           "BeatmapID": 5776123
         },
         {
           "Team": "Red",
           "Type": "Pick",
-          "Winner": "Red",
           "BeatmapID": 5514626
         },
         {
           "Team": "Blue",
           "Type": "Pick",
-          "Winner": "Red",
           "BeatmapID": 5775926
         },
         {
           "Team": "Red",
           "Type": "Protected",
-          "Winner": "Red",
           "BeatmapID": 5776227
         },
         {
           "Team": "Red",
           "Type": "Pick",
-          "Winner": "Red",
           "BeatmapID": 5776227
         },
         {
           "Team": "Blue",
           "Type": "Pick",
-          "Winner": "Red",
           "BeatmapID": 5776085
         },
         {
           "Team": "Red",
           "Type": "Pick",
-          "Winner": "Red",
           "BeatmapID": 5776112
         },
         {
           "Team": "Blue",
           "Type": "Pick",
-          "Winner": "Red",
           "BeatmapID": 5776310
         },
         {
           "Team": "Referee",
           "Type": "Pick",
-          "Winner": "Red",
           "BeatmapID": 5776213
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-25T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1984,12 +1930,58 @@
     {
       "ID": 87,
       "Team1Acronym": "[Crz]weweqe",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "-Kurimu-",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5514626
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776310
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776317
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5775926
+        }
+      ],
       "Current": false,
       "Date": "2026-07-26T21:00:00+08:00",
       "ConditionalMatches": [],
@@ -2003,8 +1995,8 @@
       "Team1Acronym": "Ayachinene0721",
       "Team1Score": 0,
       "Team2Acronym": "-Sheena-",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -2018,10 +2010,10 @@
     {
       "ID": 93,
       "Team1Acronym": "KafuuChino",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "Kagari Mimi",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -2092,7 +2084,7 @@
           "BeatmapID": 5776112
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-22T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2103,6 +2095,7 @@
     {
       "ID": 58,
       "Team1Score": null,
+      "Team2Acronym": "26_",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2117,7 +2110,9 @@
     },
     {
       "ID": 64,
+      "Team1Acronym": "lingR",
       "Team1Score": null,
+      "Team2Acronym": "PaperPlane",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2133,6 +2128,7 @@
     {
       "ID": 70,
       "Team1Score": null,
+      "Team2Acronym": "Kirchhoff123",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2147,7 +2143,9 @@
     },
     {
       "ID": 76,
+      "Team1Acronym": "ComboPower",
       "Team1Score": null,
+      "Team2Acronym": "F4ntast1stOwO",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2162,6 +2160,7 @@
     },
     {
       "ID": 82,
+      "Team1Acronym": "HowToPlaySV",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2177,7 +2176,9 @@
     },
     {
       "ID": 88,
+      "Team1Acronym": "[Crz]weweqe",
       "Team1Score": null,
+      "Team2Acronym": "-Sheena-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2192,7 +2193,9 @@
     },
     {
       "ID": 94,
+      "Team1Acronym": "KafuuChino",
       "Team1Score": null,
+      "Team2Acronym": "[GB]Lingyu",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2222,6 +2225,7 @@
     },
     {
       "ID": 59,
+      "Team1Acronym": "Iroha-",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2267,6 +2271,7 @@
     },
     {
       "ID": 77,
+      "Team1Acronym": "verysour",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2282,6 +2287,7 @@
     },
     {
       "ID": 83,
+      "Team1Acronym": "[GB]fanqiu",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2327,6 +2333,7 @@
     },
     {
       "ID": 49,
+      "Team1Acronym": "bili_TYL",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -2357,7 +2364,9 @@
     },
     {
       "ID": 30,
+      "Team1Acronym": "ashurn",
       "Team1Score": null,
+      "Team2Acronym": "[GB]ParasolTree",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -2662,12 +2671,29 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2026-08-15T10:00:00+00:00",
+      "Current": false,
+      "Date": "2026-08-15T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 3360,
         "Y": 350
+      }
+    },
+    {
+      "ID": 52,
+      "Team1Acronym": "Lexpo",
+      "Team1Score": null,
+      "Team2Acronym": "mitsuseann",
+      "Team2Score": null,
+      "Completed": false,
+      "Losers": true,
+      "PicksBans": [],
+      "Current": false,
+      "Date": "2026-07-26T12:00:00+00:00",
+      "ConditionalMatches": [],
+      "Position": {
+        "X": 1800,
+        "Y": 900
       }
     }
   ],
@@ -4517,7 +4543,6 @@
         19,
         51,
         54,
-        52,
         57,
         60,
         63,
@@ -4538,7 +4563,8 @@
         76,
         82,
         88,
-        94
+        94,
+        52
       ]
     },
     {
@@ -4617,7 +4643,7 @@
       "BestOf": 9,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-15T10:00:00+00:00",
+      "StartDate": "2026-08-15T18:00:00+08:00",
       "Matches": [
         42
       ]
@@ -38625,10 +38651,6 @@
       "TargetID": 52
     },
     {
-      "SourceID": 52,
-      "TargetID": 53
-    },
-    {
       "SourceID": 57,
       "TargetID": 58
     },
@@ -38833,6 +38855,10 @@
       "TargetID": 42
     },
     {
+      "SourceID": 52,
+      "TargetID": 53
+    },
+    {
       "SourceID": 9,
       "TargetID": 95,
       "Losers": true
@@ -38870,16 +38896,6 @@
     {
       "SourceID": 19,
       "TargetID": 89,
-      "Losers": true
-    },
-    {
-      "SourceID": 51,
-      "TargetID": 52,
-      "Losers": true
-    },
-    {
-      "SourceID": 54,
-      "TargetID": 52,
       "Losers": true
     },
     {
@@ -38923,8 +38939,8 @@
       "Losers": true
     }
   ],
-  "ChromaKeyWidth": 683,
-  "FrameRate": 240,
+  "ChromaKeyWidth": 1366,
+  "FrameRate": 360,
   "PlayersPerTeam": 1,
   "AutoProgressScreens": true,
   "SplitMapPoolByMods": true,
