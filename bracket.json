@@ -1214,8 +1214,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-01T20:00:00+08:00",
+      "Current": true,
+      "Date": "2026-07-29T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1610,
@@ -1248,7 +1248,7 @@
       "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1373,14 +1373,60 @@
     {
       "ID": 57,
       "Team1Acronym": "Szak_",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "6XvX7",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5476096
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5514626
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776112
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776317
+        }
+      ],
       "Current": false,
-      "Date": "2026-07-25T20:00:00+08:00",
+      "Date": "2026-07-27T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1610,
@@ -1666,7 +1712,7 @@
           "BeatmapID": 5776317
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-07-26T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1971,12 +2017,12 @@
       "Team1Acronym": "ysls19798385",
       "Team1Score": 0,
       "Team2Acronym": "kpmt",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-07-26T23:00:00+08:00",
+      "Date": "2026-07-26T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1610,
@@ -2150,6 +2196,7 @@
     },
     {
       "ID": 58,
+      "Team1Acronym": "Szak_",
       "Team1Score": null,
       "Team2Acronym": "26_",
       "Team2Score": null,
@@ -2183,6 +2230,7 @@
     },
     {
       "ID": 70,
+      "Team1Acronym": "elicccc",
       "Team1Score": null,
       "Team2Acronym": "Kirchhoff123",
       "Team2Score": null,
@@ -2218,6 +2266,7 @@
       "ID": 82,
       "Team1Acronym": "HowToPlaySV",
       "Team1Score": null,
+      "Team2Acronym": "kpmt",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -2745,7 +2794,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-07-26T12:00:00+00:00",
+      "Date": "2026-08-01T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1800,
