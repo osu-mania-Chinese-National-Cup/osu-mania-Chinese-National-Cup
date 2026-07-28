@@ -1065,14 +1065,14 @@
     {
       "ID": 9,
       "Team1Acronym": "WOEM2436",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "[Crz]bubu",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-01T20:00:00+08:00",
+      "Date": "2026-07-28T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1610,
