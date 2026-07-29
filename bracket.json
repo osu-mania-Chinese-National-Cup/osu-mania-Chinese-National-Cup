@@ -1208,14 +1208,70 @@
     {
       "ID": 43,
       "Team1Acronym": "-Veloce-",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "kiwibird01",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5776085
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5775926
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5476096
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776317
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776123
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776112
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776213
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776143
+        }
+      ],
       "Current": true,
-      "Date": "2026-07-29T12:00:00+00:00",
+      "Date": "2026-07-29T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1610,
