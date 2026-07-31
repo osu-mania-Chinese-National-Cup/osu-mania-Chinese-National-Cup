@@ -2321,13 +2321,69 @@
     {
       "ID": 82,
       "Team1Acronym": "HowToPlaySV",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "kpmt",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5776002
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5776159
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5514626
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5476096
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776310
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776002
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776227
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776317
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5776085
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5776213
+        }
+      ],
+      "Current": true,
       "Date": "2026-08-01T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
