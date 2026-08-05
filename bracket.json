@@ -2980,14 +2980,75 @@
     {
       "ID": 95,
       "Team1Acronym": "[Crz]bubu",
-      "Team1Score": 0,
+      "Team1Score": 6,
       "Team2Acronym": "[GB]Lingyu",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5800065
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5800042
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5800041
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5799968
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2959965
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800018
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800144
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800065
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5799923
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5799908
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800042
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5799982
+        }
+      ],
       "Current": true,
-      "Date": "2026-08-05T13:00:00+00:00",
+      "Date": "2026-08-05T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
