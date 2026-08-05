@@ -1343,7 +1343,7 @@
           "BeatmapID": 5776085
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1423,7 +1423,7 @@
           "BeatmapID": 5514626
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-01T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1434,10 +1434,10 @@
     {
       "ID": 19,
       "Team1Acronym": "shadiaojunshi",
-      "Team1Score": 0,
+      "Team1Score": 5,
       "Team2Acronym": "eilander",
       "Team2Score": 0,
-      "Completed": false,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -2495,7 +2495,7 @@
           "BeatmapID": 5776310
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-02T14:30:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2636,7 +2636,7 @@
           "BeatmapID": 5776085
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-01T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2709,7 +2709,7 @@
           "BeatmapID": 5776213
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-01T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2850,7 +2850,7 @@
           "BeatmapID": 5776213
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-01T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -2860,15 +2860,15 @@
     },
     {
       "ID": 53,
-      "Team1Acronym": "Lexpo",
+      "Team1Acronym": "LiangFenFan",
       "Team1Score": null,
-      "Team2Acronym": "LiangFenFan",
+      "Team2Acronym": "Lexpo",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-08T07:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -2885,7 +2885,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-07T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -2894,13 +2894,15 @@
     },
     {
       "ID": 65,
+      "Team1Acronym": "[Crz]anfish1013",
       "Team1Score": null,
+      "Team2Acronym": "lingR",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-08T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -2917,7 +2919,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-08T11:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -2928,12 +2930,13 @@
       "ID": 77,
       "Team1Acronym": "verysour",
       "Team1Score": null,
+      "Team2Acronym": "ComboPower",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-08T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -2944,12 +2947,13 @@
       "ID": 83,
       "Team1Acronym": "[GB]fanqiu",
       "Team1Score": null,
+      "Team2Acronym": "HowToPlaySV",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-07T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -2958,14 +2962,15 @@
     },
     {
       "ID": 89,
-      "Team1Acronym": "[Crz]weweqe",
+      "Team1Acronym": "eilander",
       "Team1Score": null,
+      "Team2Acronym": "[Crz]weweqe",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-08T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -2975,13 +2980,14 @@
     {
       "ID": 95,
       "Team1Acronym": "[Crz]bubu",
-      "Team1Score": null,
-      "Team2Score": null,
+      "Team1Score": 0,
+      "Team2Acronym": "[GB]Lingyu",
+      "Team2Score": 0,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Current": true,
+      "Date": "2026-08-05T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -2998,7 +3004,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-08T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -3009,12 +3015,13 @@
       "ID": 45,
       "Team1Acronym": "-Veloce-",
       "Team1Score": null,
+      "Team2Acronym": "ParadigmaticOwl",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-09T12:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -3031,7 +3038,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-08T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -3042,12 +3049,13 @@
       "ID": 10,
       "Team1Acronym": "WOEM2436",
       "Team1Score": null,
+      "Team2Acronym": "shadiaojunshi",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-11T18:00:00+08:00",
+      "Date": "2026-08-08T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -5276,10 +5284,727 @@
     {
       "Name": "Quarter-Finals",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 11,
       "BanCount": 1,
-      "Beatmaps": [],
-      "StartDate": "2026-08-11T18:00:00+08:00",
+      "Beatmaps": [
+        {
+          "ID": 5800063,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5800063,
+            "DifficultyName": "[4K] Ride-Along Ozzie",
+            "BPM": 173.0,
+            "Length": 135000.0,
+            "StarRating": 4.99932,
+            "EndTimeObjectCount": 7,
+            "TotalObjectCount": 2560,
+            "Metadata": {
+              "Title": "Ashita e no Kodou (Game Ver.)",
+              "title_unicode": "明日への鼓動 (Game Ver.)",
+              "Artist": "Falcom Sound Team jdk feat. Kotera Kanako",
+              "artist_unicode": "Falcom Sound Team jdk feat. 小寺可南子",
+              "Author": {
+                "OnlineID": 18270260,
+                "Username": "Hylotl",
+                "CountryString": "Unknown"
+              },
+              "Source": "英雄伝説 閃の軌跡",
+              "tags": "eiyuu densetsu sen no kiseki the legend of heroes trails of cold steel j.d.k. band thors military academy 1204 オリジナルサウンドトラック ost original soundtrack opening op theme size 神藤由東大 神藤ユキヒロ yukihiro jindo video game japanese rpg jrpg j-rpg pop jpop j-pop female vocals mcnc quarterfinals qf rice rc rc1 stream speed osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596177/covers/cover@2x.jpg?1785679070",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596177/covers/card@2x.jpg?1785679070",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596177/covers/list@2x.jpg?1785679070"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5799968,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5799968,
+            "DifficultyName": "[4K] Farewell 1.05x",
+            "BPM": 273.0,
+            "Length": 134000.0,
+            "StarRating": 5.48613,
+            "TotalObjectCount": 2702,
+            "Metadata": {
+              "Title": "Bomber",
+              "title_unicode": "Bomber",
+              "Artist": "exnoiz",
+              "artist_unicode": "exnoiz",
+              "Author": {
+                "OnlineID": 16509588,
+                "Username": "wIntEr7z",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "lolicore breakcore electronic japanese amenbreak yorushika ヨルシカ bakudanma 爆弾魔 makeinu ni encore wa iranai 負け犬にアンコールはいらない 盗作 plagiarism tousaku a loser doesn't doesnt need an encore compulsive ナブナ n-buna スイsuis mcnc quarterfinals qf rc rice rc2 jumpstream js osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596138/covers/cover@2x.jpg?1785676406",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596138/covers/card@2x.jpg?1785676406",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596138/covers/list@2x.jpg?1785676406"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5799923,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5799923,
+            "DifficultyName": "[4K] Sylphid",
+            "BPM": 254.0,
+            "Length": 204000.0,
+            "StarRating": 5.41719,
+            "TotalObjectCount": 4286,
+            "Metadata": {
+              "Title": "Severe Blow",
+              "title_unicode": "Severe Blow",
+              "Artist": "Falcom Sound Team jdk",
+              "artist_unicode": "Falcom Sound Team jdk",
+              "Author": {
+                "OnlineID": 17146433,
+                "Username": "OxalicAcid",
+                "CountryString": "Unknown"
+              },
+              "Source": "英雄伝説 閃の軌跡II",
+              "tags": "rock metal instrumental eiyuu densetsu viii sen no kiseki 2 the erebonian civil war the legend of heroes trails of cold steel ii オリジナルサウンドトラック ost original soundtrack 宇仁菅孝宏 takahiro unisuga video role playing game japanese rpg jrpg j-rpg mcnc quarterfinals qf rice rc rc3 jumpstream js stamina osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596126/covers/cover@2x.jpg?1785675025",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596126/covers/card@2x.jpg?1785675025",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596126/covers/list@2x.jpg?1785675025"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5800042,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5800042,
+            "DifficultyName": "[4K] Shuwa*Shuwa Fantasy",
+            "BPM": 155.0,
+            "Length": 145000.0,
+            "StarRating": 5.46862,
+            "TotalObjectCount": 3026,
+            "Metadata": {
+              "Title": "Shuwa*Shuwa Parfait (Cut Ver.)",
+              "title_unicode": "Shuwa*Shuwa Parfait (Cut Ver.)",
+              "Artist": "Neko Hacker feat. Nanahira",
+              "artist_unicode": "Neko Hacker feat. ななひら",
+              "Author": {
+                "OnlineID": 11279273,
+                "Username": "[Crz]Alleyne",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "pop japanese j-pop jpop shuwa2parfait 2nd one man live theme テーマ 2ndワンマンライブ confetto iconic cfcd-0029 m3-54 m3 2024秋 autumn mcnc quarterfinals qf rice rc rc4 chordjack jack cj osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 featured artist fa",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596163/covers/cover@2x.jpg?1785678106",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596163/covers/card@2x.jpg?1785678106",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596163/covers/list@2x.jpg?1785678106"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 2959965,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 2959965,
+            "DifficultyName": "[4K] Crystalline (edit)",
+            "BPM": 193.6,
+            "Length": 123000.0,
+            "StarRating": 4.92677,
+            "TotalObjectCount": 1599,
+            "Metadata": {
+              "Title": "Aqua Regia",
+              "title_unicode": "Aqua Regia",
+              "Artist": "KASHIWA Daisuke",
+              "artist_unicode": "柏大輔",
+              "Author": {
+                "OnlineID": 2520707,
+                "Username": "Shoegazer",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "idm breakcore drum and bass electronic instrumental 5 dec noble 柏大輔 wiosna elekton",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1389980/covers/cover@2x.jpg?1621393231",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1389980/covers/card@2x.jpg?1621393231",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1389980/covers/list@2x.jpg?1621393231"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5800144,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5800144,
+            "DifficultyName": "[4K] henry",
+            "BPM": 186.0,
+            "Length": 202000.0,
+            "StarRating": 4.67681,
+            "EndTimeObjectCount": 1,
+            "TotalObjectCount": 3187,
+            "Metadata": {
+              "Title": "Goodbye Mr A",
+              "title_unicode": "Goodbye Mr A",
+              "Artist": "The Hoosiers",
+              "artist_unicode": "The Hoosiers",
+              "Author": {
+                "OnlineID": 39408927,
+                "Username": "CucksonOSU",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "english indie pop rock the trick to life rca records irwin sparkes alan sharland martin skarendahl toby smith mcnc quarterfinals qf rice rc rc6 dump stream tech technical osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596203/covers/cover@2x.jpg?1785681613",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596203/covers/card@2x.jpg?1785681613",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596203/covers/list@2x.jpg?1785681613"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5800070,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5800070,
+            "DifficultyName": "[4K] Perfect Chaos",
+            "BPM": 150.0,
+            "Length": 234000.0,
+            "StarRating": 5.02913,
+            "EndTimeObjectCount": 29,
+            "TotalObjectCount": 4310,
+            "Metadata": {
+              "Title": "Find Your Flame (feat. Kellin Quinn & Tyler Smyth)",
+              "title_unicode": "Find Your Flame (feat. Kellin Quinn & Tyler Smyth)",
+              "Artist": "SEGA SOUND TEAM & Tomoya Ohtani",
+              "artist_unicode": "SEGA SOUND TEAM & Tomoya Ohtani",
+              "Author": {
+                "OnlineID": 2537082,
+                "Username": "Valedict",
+                "CountryString": "Unknown"
+              },
+              "Source": "Sonic Frontiers",
+              "tags": "video game english rock ソニックフロンティア 索尼克 未知边境 sonic frontiers original soundtrack stillness & motion wwce-31544 meg 大谷智哉 julian comeau sleeping with sirens 株式会社セガ sega mcnc quarterfinals qf rc rc7 rice dump mixed osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596182/covers/cover@2x.jpg?1785679463",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596182/covers/card@2x.jpg?1785679463",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596182/covers/list@2x.jpg?1785679463"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5799908,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5799908,
+            "DifficultyName": "[4K] Flourish (Cut Ver.)",
+            "BPM": 256.0,
+            "Length": 168000.0,
+            "StarRating": 6.57383,
+            "EndTimeObjectCount": 1320,
+            "TotalObjectCount": 2849,
+            "Metadata": {
+              "Title": "Touryouka",
+              "title_unicode": "透靈蕐",
+              "Artist": "Camellia feat. Nanahira",
+              "artist_unicode": "かめりあ feat. ななひら",
+              "Author": {
+                "OnlineID": 17527968,
+                "Username": "V1do-",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "toryoka toureika rock japanese ごーいん！ go-in! go in confetto かめるかめりあ×confetto kamelcamellia cametek masaya oya ooya かめるかめりあ かめてく 大箭将也 大箭マサヤ j-rock jrock fa featured artist comiket comic market c96 コミックマーケッ 96 コミケ96 kccd-07 mcnc quarterfinals qf hb hb1 hybrid generic osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.4,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596119/covers/cover@2x.jpg?1785674466",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596119/covers/card@2x.jpg?1785674466",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596119/covers/list@2x.jpg?1785674466"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5799982,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5799982,
+            "DifficultyName": "[4K] A star's silence echoes louder than the crowd's roar",
+            "BPM": 175.0,
+            "Length": 141000.0,
+            "StarRating": 5.75698,
+            "EndTimeObjectCount": 718,
+            "TotalObjectCount": 1477,
+            "Metadata": {
+              "Title": "Vespera Stella",
+              "title_unicode": "Vespera Stella",
+              "Artist": "Akiri",
+              "artist_unicode": "あきり",
+              "Author": {
+                "OnlineID": 10365024,
+                "Username": "Sakura006",
+                "CountryString": "Unknown"
+              },
+              "Source": "Locus 2025",
+              "tags": "instrumental electronic hardcore dreamxiety xiaoraini osu! original fa featured artist mcnc quarterfinals qf hybrid hb hb2 shield jack-main mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 hylotl",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.3,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596142/covers/cover@2x.jpg?1785676838",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596142/covers/card@2x.jpg?1785676838",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596142/covers/list@2x.jpg?1785676838"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5799948,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5799948,
+            "DifficultyName": "[4K] GET STUPID",
+            "BPM": 120.0,
+            "Length": 186000.0,
+            "StarRating": 5.35589,
+            "EndTimeObjectCount": 1012,
+            "TotalObjectCount": 2828,
+            "Metadata": {
+              "Title": "Egodeath",
+              "title_unicode": "Egodeath",
+              "Artist": "Juggernaut.",
+              "artist_unicode": "Juggernaut.",
+              "Author": {
+                "OnlineID": 5066305,
+                "Username": "ImperialTrinity",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "electronic instrumental interdixion juggernoterecords jnr-012 m3-53 m3 2024春 spring dubstep hardcore mcnc quarterfinals qf hb hb3 hybrid technical wildcard osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.2,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596136/covers/cover@2x.jpg?1785676021",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596136/covers/card@2x.jpg?1785676021",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596136/covers/list@2x.jpg?1785676021"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5800065,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5800065,
+            "DifficultyName": "[4K] Alter Ego",
+            "BPM": 256.0,
+            "Length": 219000.0,
+            "StarRating": 5.29972,
+            "EndTimeObjectCount": 2547,
+            "TotalObjectCount": 2645,
+            "Metadata": {
+              "Title": "Original Me",
+              "title_unicode": "原色",
+              "Artist": "San-Z",
+              "artist_unicode": "三Z",
+              "Author": {
+                "OnlineID": 18270260,
+                "Username": "Hylotl",
+                "CountryString": "Unknown"
+              },
+              "Source": "绝区零",
+              "tags": "pop cpop c-pop chinese astra yao videogame vgm video game female vocals 耀嘉音 アストラ・ヤオ 아스트라 야오 stars of lyra+ zzz zenless zone zero hoyo-mix mihoyo mhy hoyoverse cognosphere ゼンレスゾーンゼロ ぜんぜろ ゼンゼロ 三z-studio sānz sanz sān-z 米哈游 jue qu ling 于梓贝 yu zibe 天琴座+ tian qin zuo mcnc quarterfinals qf ln long note ln1 coordination osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 yuiesta yueast 2018",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596179/covers/cover@2x.jpg?1785679099",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596179/covers/card@2x.jpg?1785679099",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596179/covers/list@2x.jpg?1785679099"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5800449,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5800449,
+            "DifficultyName": "[4K] Strato-Interceptor",
+            "BPM": 218.0,
+            "Length": 170000.0,
+            "StarRating": 5.77309,
+            "EndTimeObjectCount": 2504,
+            "TotalObjectCount": 2695,
+            "Metadata": {
+              "Title": "\"Fiddler\"",
+              "title_unicode": "\"Fiddler\"",
+              "Artist": "Lemi",
+              "artist_unicode": "Lemi.",
+              "Author": {
+                "OnlineID": 13953619,
+                "Username": "Yuiesta",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu!mania 4K Chinese National Cup 2026: Rebirth",
+              "tags": "electronic instrumental cyber art 零弥 電子旋律作戦群 tupolev tu-28 tu-128 original mcnc quarterfinals qf ln long note ln2 density osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 panthullu sakura006",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596242/covers/cover@2x.jpg?1785685726",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596242/covers/card@2x.jpg?1785685726",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596242/covers/list@2x.jpg?1785685726"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5800018,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5800018,
+            "DifficultyName": "[4K] Katengetchi",
+            "BPM": 145.22,
+            "Length": 213000.0,
+            "StarRating": 5.25826,
+            "EndTimeObjectCount": 2805,
+            "TotalObjectCount": 3523,
+            "Metadata": {
+              "Title": "Last Tile",
+              "title_unicode": "Last Tile 海底撈月",
+              "Artist": "Kommisar",
+              "artist_unicode": "Kommisar",
+              "Author": {
+                "OnlineID": 17146433,
+                "Username": "OxalicAcid",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "electronic instrumental 8bit 8-bit chip music chiptune gameboy lsdj retro just shapes & beats jsab the lost chapter mercury 天江 衣 amae koromo 咲-saki- 福原 香織 fukuhara kaori mcnc quarterfinals qf long note ln3 tech technical shield ln master osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 featured artist fa",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596151/covers/cover@2x.jpg?1785677266",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596151/covers/card@2x.jpg?1785677266",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596151/covers/list@2x.jpg?1785677266"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5800041,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5800041,
+            "DifficultyName": "[4K] ...their colours, their forms.",
+            "BPM": 200.0,
+            "Length": 184000.0,
+            "StarRating": 6.47149,
+            "EndTimeObjectCount": 2744,
+            "TotalObjectCount": 2902,
+            "Metadata": {
+              "Title": "watercolor / umbrella / june / dryflower",
+              "title_unicode": "スイサイ / アンブレラ / ロクガツ / ドライフラワ",
+              "Artist": "Tsumiki feat. Hatsune Miku",
+              "artist_unicode": "ツミキ feat. 初音ミク",
+              "Author": {
+                "OnlineID": 8781662,
+                "Username": "Xu seventeen",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "electronic japanese rock j-rock jrock guitar nomelon nolemon the voc@loid 超 m@ster 39 超ボーマス39 エモくてオルタナでカッコe.p 5 sakkac craft sme uxcl-252 vocaloid グミ gumi mcnc quarterfinals qf ln long note ln4 dump wildcard osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.2,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596162/covers/cover@2x.jpg?1785677999",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596162/covers/card@2x.jpg?1785677999",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596162/covers/list@2x.jpg?1785677999"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5800038,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 5800038,
+            "DifficultyName": "[4K] To Wander, To Grow, To Become",
+            "BPM": 172.0,
+            "Length": 418000.0,
+            "StarRating": 6.04073,
+            "EndTimeObjectCount": 1925,
+            "TotalObjectCount": 5677,
+            "Metadata": {
+              "Title": "Little Seed, Arrival (Ederak) (Cut Ver.)",
+              "title_unicode": "Little Seed, Arrival (Ederak) (Cut Ver.)",
+              "Artist": "kuatari",
+              "artist_unicode": "kuatari",
+              "Author": {
+                "OnlineID": 5799435,
+                "Username": "XingRen",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "electronic instrumental kairoclerosis jazz fusion drumstep experimental drum & bass dnb d'n'b d&b idm orchestral bozeman mcnc quarterfinals qf tiebreaker tb osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 alptraum hylotl doshowz",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.7,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2596159/covers/cover@2x.jpg?1785677921",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2596159/covers/card@2x.jpg?1785677921",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2596159/covers/list@2x.jpg?1785677921"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        }
+      ],
+      "StartDate": "2026-08-05T10:00:00+00:00",
       "Matches": [
         53,
         59,
@@ -5302,10 +6027,10 @@
     {
       "Name": "Semi-Finals",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 11,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-12T18:00:00+08:00",
+      "StartDate": "2026-08-14T10:00:00+00:00",
       "Matches": [
         56,
         68,
@@ -5320,10 +6045,10 @@
     {
       "Name": "Finals",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 13,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-13T18:00:00+08:00",
+      "StartDate": "2026-08-21T10:00:00+00:00",
       "Matches": [
         62,
         86,
@@ -5334,10 +6059,10 @@
     {
       "Name": "Grand Finals",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 13,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-14T18:00:00+08:00",
+      "StartDate": "2026-08-28T10:00:00+00:00",
       "Matches": [
         74,
         41
@@ -5346,10 +6071,10 @@
     {
       "Name": "Grand Finals (Bracket Reset)",
       "Description": "",
-      "BestOf": 9,
+      "BestOf": 13,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-15T18:00:00+08:00",
+      "StartDate": "2026-08-28T10:00:00+00:00",
       "Matches": [
         42
       ]
