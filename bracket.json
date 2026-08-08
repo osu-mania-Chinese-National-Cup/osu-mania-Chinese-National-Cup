@@ -3161,14 +3161,70 @@
     {
       "ID": 89,
       "Team1Acronym": "eilander",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "[Crz]weweqe",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-08T12:00:00+00:00",
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5799982
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5800042
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5800018
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5799923
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800063
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5799908
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800042
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5799982
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5799968
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5799948
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2959965
+        }
+      ],
+      "Current": true,
+      "Date": "2026-08-08T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
