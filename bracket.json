@@ -3051,14 +3051,85 @@
     {
       "ID": 77,
       "Team1Acronym": "verysour",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "ComboPower",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-08T13:00:00+00:00",
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5799968
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5800065
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5800042
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5800018
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800065
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5799923
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800041
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800063
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800449
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5799968
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5799908
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800070
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5799948
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800038
+        }
+      ],
+      "Current": true,
+      "Date": "2026-08-08T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
