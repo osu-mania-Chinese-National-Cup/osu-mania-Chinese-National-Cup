@@ -2918,7 +2918,7 @@
           "BeatmapID": 5799982
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-08T15:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3006,7 +3006,7 @@
           "BeatmapID": 5800144
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-07T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3074,7 +3074,7 @@
           "BeatmapID": 5799908
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-08T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3085,14 +3085,14 @@
     {
       "ID": 71,
       "Team1Acronym": "kiwibird01",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "elicccc",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-08T11:00:00+00:00",
+      "Date": "2026-08-08T19:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -3179,7 +3179,7 @@
           "BeatmapID": 5800038
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-08T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3272,7 +3272,7 @@
           "BeatmapID": 5800038
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-07T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3345,7 +3345,7 @@
           "BeatmapID": 2959965
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-08T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3423,7 +3423,7 @@
           "BeatmapID": 5799982
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-05T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3516,7 +3516,7 @@
           "BeatmapID": 5800038
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-08T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3534,7 +3534,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-09T12:00:00+00:00",
+      "Date": "2026-08-09T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -3551,7 +3551,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-08T14:00:00+00:00",
+      "Date": "2026-08-08T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1990,
@@ -3618,7 +3618,7 @@
           "BeatmapID": 5799908
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-08T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3628,7 +3628,9 @@
     },
     {
       "ID": 55,
+      "Team1Acronym": "Lexpo",
       "Team1Score": null,
+      "Team2Acronym": "Iroha-",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3643,12 +3645,75 @@
     },
     {
       "ID": 67,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "lingR",
+      "Team1Score": 6,
+      "Team2Acronym": "elicccc",
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5800042
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5800063
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5800065
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5800018
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800041
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2959965
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800449
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800042
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800063
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5799948
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5800144
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5800038
+        }
+      ],
+      "Current": true,
       "Date": "2026-08-11T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3658,7 +3723,9 @@
     },
     {
       "ID": 79,
+      "Team1Acronym": "verysour",
       "Team1Score": null,
+      "Team2Acronym": "HowToPlaySV",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -3746,7 +3813,7 @@
           "BeatmapID": 5799948
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-11T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -3762,7 +3829,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-12T18:00:00+08:00",
+      "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
@@ -3771,13 +3838,15 @@
     },
     {
       "ID": 68,
+      "Team1Acronym": "shadiaojunshi",
       "Team1Score": null,
+      "Team2Acronym": "lingR",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-12T18:00:00+08:00",
+      "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
@@ -3786,13 +3855,14 @@
     },
     {
       "ID": 80,
+      "Team1Acronym": "Vain_",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-12T18:00:00+08:00",
+      "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2410,
@@ -3801,13 +3871,14 @@
     },
     {
       "ID": 92,
+      "Team1Acronym": "eilander",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-12T18:00:00+08:00",
+      "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
@@ -3822,7 +3893,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-12T18:00:00+08:00",
+      "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2560,
@@ -3837,7 +3908,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-12T18:00:00+08:00",
+      "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2560,
@@ -3847,12 +3918,13 @@
     {
       "ID": 47,
       "Team1Score": null,
+      "Team2Acronym": "bili_TYL",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-12T18:00:00+08:00",
+      "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
@@ -3861,13 +3933,14 @@
     },
     {
       "ID": 20,
+      "Team1Acronym": "WOEM2436",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-12T18:00:00+08:00",
+      "Date": "2026-08-14T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
@@ -3882,7 +3955,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-13T18:00:00+08:00",
+      "Date": "2026-08-21T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2750,
@@ -3897,7 +3970,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-13T18:00:00+08:00",
+      "Date": "2026-08-21T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2750,
@@ -3912,7 +3985,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-13T18:00:00+08:00",
+      "Date": "2026-08-21T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2750,
@@ -3927,7 +4000,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-13T18:00:00+08:00",
+      "Date": "2026-08-21T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2940,
@@ -3942,7 +4015,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-14T18:00:00+08:00",
+      "Date": "2026-08-28T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 3130,
@@ -3957,7 +4030,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-14T18:00:00+08:00",
+      "Date": "2026-08-28T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 3130,
@@ -3972,7 +4045,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-15T18:00:00+08:00",
+      "Date": "2026-08-28T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 3360,
@@ -6636,7 +6709,7 @@
           }
         }
       ],
-      "StartDate": "2026-08-05T10:00:00+00:00",
+      "StartDate": "2026-08-05T18:00:00+08:00",
       "Matches": [
         53,
         59,
@@ -6662,7 +6735,7 @@
       "BestOf": 11,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-14T10:00:00+00:00",
+      "StartDate": "2026-08-14T18:00:00+08:00",
       "Matches": [
         56,
         68,
@@ -6680,7 +6753,7 @@
       "BestOf": 13,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-21T10:00:00+00:00",
+      "StartDate": "2026-08-21T18:00:00+08:00",
       "Matches": [
         62,
         86,
@@ -6694,7 +6767,7 @@
       "BestOf": 13,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-28T10:00:00+00:00",
+      "StartDate": "2026-08-28T18:00:00+08:00",
       "Matches": [
         74,
         41
@@ -6706,7 +6779,7 @@
       "BestOf": 13,
       "BanCount": 1,
       "Beatmaps": [],
-      "StartDate": "2026-08-28T10:00:00+00:00",
+      "StartDate": "2026-08-28T18:00:00+08:00",
       "Matches": [
         42
       ]
