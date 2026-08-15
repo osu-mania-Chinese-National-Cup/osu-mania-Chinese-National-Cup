@@ -4022,14 +4022,70 @@
     {
       "ID": 56,
       "Team1Acronym": "ashurn",
-      "Team1Score": null,
+      "Team1Score": 1,
       "Team2Acronym": "Lexpo",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-15T14:00:00+00:00",
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5814615
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5814469
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5814745
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5814794
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814612
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814561
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814615
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814845
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814807
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814839
+        }
+      ],
+      "Current": true,
+      "Date": "2026-08-15T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
