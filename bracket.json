@@ -4095,14 +4095,90 @@
     {
       "ID": 68,
       "Team1Acronym": "shadiaojunshi",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "lingR",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-15T14:00:00+00:00",
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5814804
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5814612
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5814748
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814807
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814845
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814745
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814804
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814615
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814883
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5814794
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814561
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814728
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814839
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814740
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814746
+        }
+      ],
+      "Current": true,
+      "Date": "2026-08-15T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
