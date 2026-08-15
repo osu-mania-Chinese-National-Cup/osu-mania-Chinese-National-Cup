@@ -4120,14 +4120,70 @@
     {
       "ID": 47,
       "Team1Acronym": "-Veloce-",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "bili_TYL",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-15T05:00:00+00:00",
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5814615
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5814728
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5814883
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5814469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814740
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814845
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814748
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814615
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814804
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814807
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814746
+        }
+      ],
+      "Current": true,
+      "Date": "2026-08-15T13:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
