@@ -4193,14 +4193,80 @@
     {
       "ID": 20,
       "Team1Acronym": "WOEM2436",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "[GB]ParasolTree",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5814469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5814612
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5814883
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5814728
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814807
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814612
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814740
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814794
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814748
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814746
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814745
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814804
+        }
+      ],
       "Current": true,
-      "Date": "2026-08-13T12:00:00+00:00",
+      "Date": "2026-08-13T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2370,
