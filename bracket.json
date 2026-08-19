@@ -4344,13 +4344,74 @@
     {
       "ID": 61,
       "Team1Acronym": "Lexpo",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "shadiaojunshi",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5814883
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5814615
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5814794
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5814612
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814883
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814845
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814615
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814561
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814745
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814804
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5814469
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5814740
+        }
+      ],
+      "Current": true,
       "Date": "2026-08-16T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
