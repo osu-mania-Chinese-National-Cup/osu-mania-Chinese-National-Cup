@@ -4646,12 +4646,89 @@
     {
       "ID": 62,
       "Team1Acronym": "bili_TYL",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Score": 7,
+      "Team2Acronym": "Lexpo",
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": false,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5828247
+        },
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5827825
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5828059
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 5827727
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5827823
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5827775
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5827745
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5827796
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5827728
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5827694
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5827825
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5828247
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5828155
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5827771
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5827807
+        }
+      ],
+      "Current": true,
       "Date": "2026-08-21T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
