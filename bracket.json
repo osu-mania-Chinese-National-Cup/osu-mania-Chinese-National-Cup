@@ -4645,6 +4645,7 @@
     },
     {
       "ID": 62,
+      "Team1Acronym": "bili_TYL",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -4660,7 +4661,9 @@
     },
     {
       "ID": 86,
+      "Team1Acronym": "Vain_",
       "Team1Score": null,
+      "Team2Acronym": "[GB]ParasolTree",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -4675,7 +4678,9 @@
     },
     {
       "ID": 40,
+      "Team1Acronym": "WOEM2436",
       "Team1Score": null,
+      "Team2Acronym": "-Veloce-",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -8151,7 +8156,7 @@
           }
         }
       ],
-      "StartDate": "2026-08-13T10:00:00+00:00",
+      "StartDate": "2026-08-13T18:00:00+08:00",
       "Matches": [
         56,
         68,
@@ -8168,8 +8173,822 @@
       "Description": "",
       "BestOf": 13,
       "BanCount": 1,
-      "Beatmaps": [],
-      "StartDate": "2026-08-21T18:00:00+08:00",
+      "Beatmaps": [
+        {
+          "ID": 5827825,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5827825,
+            "DifficultyName": "[4K] L'arc-en-Ciel",
+            "BPM": 193.0,
+            "Length": 155000.0,
+            "StarRating": 5.64483,
+            "EndTimeObjectCount": 8,
+            "TotalObjectCount": 3132,
+            "Metadata": {
+              "Title": "Believer",
+              "title_unicode": "Believer",
+              "Artist": "ReoNa",
+              "artist_unicode": "ReoNa",
+              "Author": {
+                "OnlineID": 18270260,
+                "Username": "Hylotl",
+                "CountryString": "Unknown"
+              },
+              "Source": "月姫 -A piece of blue glass moon-",
+              "tags": "tsukihime arcueid brunestud アルクェイド・ブリュンスタッド neco-arc ネコアルク ciel シエル theme song original soundtrack ost ending ed remake japanese jrock j-rock rock video game visual novel type moon type-moon kegani 毛蟹 nor1n mayuri kohsaka shirahane 夜の虹 yoru no niji rainbow in the night near side mcnc finals fn f rc1 rc rice speed osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604938/covers/cover@2x.jpg?1786976006",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604938/covers/card@2x.jpg?1786976006",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604938/covers/list@2x.jpg?1786976006"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827727,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5827727,
+            "DifficultyName": "[4K] Fateful",
+            "BPM": 296.0,
+            "Length": 123000.0,
+            "StarRating": 5.74157,
+            "EndTimeObjectCount": 36,
+            "TotalObjectCount": 2486,
+            "Metadata": {
+              "Title": "Unmei no Haguruma (Cut Ver.)",
+              "title_unicode": "運命の歯車 (Cut Ver.)",
+              "Artist": "Ariabl'eyeS",
+              "artist_unicode": "Ariabl'eyeS",
+              "Author": {
+                "OnlineID": 10055648,
+                "Username": "Miaurichesu",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "symphonic rock gothic metal japanese jrock j-rock j-metal jmetal female vocals arsmagna ars-027 5th mini album 残響のコフィン zankyou no coffin リゼ lyse rize rena Ｎｏёｌ noël noel -lostfairy- lost fairy lostfairy minato kaz chariots gengah shun mcnc finals fn f rice rc rc2 jumpstream js osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 featured artist fa",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604890/covers/cover@2x.jpg?1786973116",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604890/covers/card@2x.jpg?1786973116",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604890/covers/list@2x.jpg?1786973116"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827694,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5827694,
+            "DifficultyName": "[4K] Recurring Fate 1.05x (277bpm)",
+            "BPM": 277.2,
+            "Length": 240000.0,
+            "StarRating": 5.67939,
+            "EndTimeObjectCount": 100,
+            "TotalObjectCount": 4900,
+            "Metadata": {
+              "Title": "Nocturne",
+              "title_unicode": "Nocturne",
+              "Artist": "-LostFairy- & Ariabl'eyeS",
+              "artist_unicode": "-LostFairy- & Ariabl'eyeS",
+              "Author": {
+                "OnlineID": 20040607,
+                "Username": "[GS]hina",
+                "CountryString": "Unknown"
+              },
+              "Source": "あるすまカフェ",
+              "tags": "japanese rock symphonic gothic j-rock jrock jmetal j-metal metal arsmagna cafe あるすまカフェ アルスマグナ ariableyes lost fairy lostfairy eupe 沙悠 sayu rena luna 夢姫 yumehime noël noel リゼ rize lyse m3-53 m3 2024春 mcnc finals fn f rice rc rc3 general stamina js jumpstream osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 hylotl oxalicacid sorakaru_ tera teradora jrpg chart team xfpsb",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.3,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.1,
+              "ApproachRate": 0.6,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604876/covers/cover@2x.jpg?1786972067",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604876/covers/card@2x.jpg?1786972067",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604876/covers/list@2x.jpg?1786972067"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5828240,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5828240,
+            "DifficultyName": "[4K] Impact",
+            "BPM": 165.0,
+            "Length": 173000.0,
+            "StarRating": 6.01733,
+            "EndTimeObjectCount": 82,
+            "TotalObjectCount": 3422,
+            "Metadata": {
+              "Title": "XIchedelic Nova Trinity",
+              "title_unicode": "XIchedelic Nova Trinity",
+              "Artist": "Gram vs. DJ Genki",
+              "artist_unicode": "Gram vs. DJ Genki",
+              "Author": {
+                "OnlineID": 10365024,
+                "Username": "Sakura006",
+                "CountryString": "Unknown"
+              },
+              "Source": "osu! World Cup 2024",
+              "tags": "electronic instrumental owc 2024 owc2024 psycore mcnc finals f fn rice rc rc4 jack chordjack cj mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 featured artist fa",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2605034/covers/cover@2x.jpg?1786983710",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2605034/covers/card@2x.jpg?1786983710",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2605034/covers/list@2x.jpg?1786983710"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827721,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5827721,
+            "DifficultyName": "[4K] what is libido? (edit 1.05x)",
+            "BPM": 210.0,
+            "Length": 162000.0,
+            "StarRating": 5.39719,
+            "EndTimeObjectCount": 12,
+            "TotalObjectCount": 2451,
+            "Metadata": {
+              "Title": "LIBIDO",
+              "title_unicode": "LIBIDO",
+              "Artist": "onumi",
+              "artist_unicode": "オヌミ",
+              "Author": {
+                "OnlineID": 26496648,
+                "Username": "Alptraum",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "instrumental electronic featured artist fa リビド phase one dubstep bass experimental thing mcnc finals fn f rc5 rice dump burst tech technical osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.4,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604887/covers/cover@2x.jpg?1786973035",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604887/covers/card@2x.jpg?1786973035",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604887/covers/list@2x.jpg?1786973035"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5828155,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5828155,
+            "DifficultyName": "[4K] Hard 1.15x (156bpm)",
+            "BPM": 156.4,
+            "Length": 131000.0,
+            "StarRating": 5.47118,
+            "TotalObjectCount": 2999,
+            "Metadata": {
+              "Title": "FloWarrior - Ams Kvaris - Unleashed",
+              "title_unicode": "FloWarrior - Ams Kvaris - Unleashed",
+              "Artist": "SEGA SOUND TEAM & Kenichi Tokoi",
+              "artist_unicode": "SEGA SOUND TEAM & 床井健一",
+              "Author": {
+                "OnlineID": 4630371,
+                "Username": "DourGent",
+                "CountryString": "Unknown"
+              },
+              "Source": "ファンタシースターオンライン2 ニュージェネシス",
+              "tags": "video game electronic instrumental vgm phantasy star online 2 pso2 new genesis original sound track vol.3 wave master entertainment wwce-31593 株式会社セガ sega mcnc finals f fn rc rc6 rice dump osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 dour samctuary dour samctuary martzi",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2605001/covers/cover@2x.jpg?1786981424",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2605001/covers/card@2x.jpg?1786981424",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2605001/covers/list@2x.jpg?1786981424"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5347209,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5347209,
+            "DifficultyName": "[4K] Insane 1.10x 185bpm",
+            "BPM": 184.8,
+            "Length": 131000.0,
+            "StarRating": 5.58481,
+            "TotalObjectCount": 2650,
+            "Metadata": {
+              "Title": "Sanity Krush",
+              "title_unicode": "SAN値直葬",
+              "Artist": "STEAKA feat. Hatsune Miku",
+              "artist_unicode": "STEAKA feat. 初音ミク",
+              "Author": {
+                "OnlineID": 5799435,
+                "Username": "Doshowz",
+                "CountryString": "Unknown"
+              },
+              "Source": "SAN値直葬",
+              "tags": "steaka hatsune miku sanity krush jacks dump technical osutrainer",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2448912/covers/cover@2x.jpg?1762779635",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2448912/covers/card@2x.jpg?1762779635",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2448912/covers/list@2x.jpg?1762779635"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827728,
+          "Mods": "RC",
+          "BeatmapInfo": {
+            "OnlineID": 5827728,
+            "DifficultyName": "[4K] Trepidus",
+            "BPM": 180.0,
+            "Length": 296000.0,
+            "StarRating": 5.91797,
+            "EndTimeObjectCount": 175,
+            "TotalObjectCount": 6000,
+            "Metadata": {
+              "Title": "stresstest",
+              "title_unicode": "stresstest",
+              "Artist": "yax03",
+              "artist_unicode": "yax03",
+              "Author": {
+                "OnlineID": 20040607,
+                "Username": "[GS]hina",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "yaaa03 stress test under.net underdotnet un.net compilation disc 2.1: euphoria sextrance hypertrance hyper trance hexd edm electronic instrumental 湾岸ミッドナイト maximum tune 3 inexhaustible energy yuzo koshiro 古代祐三 bôa boa duvet serial experiments lain シリアルエクスペリメンツレイン osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 finals rc rice tech stamina rc8 technical dump dumpstream jack chordjack tera teradora",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.3,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604891/covers/cover@2x.jpg?1786973153",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604891/covers/card@2x.jpg?1786973153",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604891/covers/list@2x.jpg?1786973153"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827745,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5827745,
+            "DifficultyName": "[4K] Mirage",
+            "BPM": 287.0,
+            "Length": 129000.0,
+            "StarRating": 7.06224,
+            "EndTimeObjectCount": 1087,
+            "TotalObjectCount": 2541,
+            "Metadata": {
+              "Title": "Ocean's Sahara",
+              "title_unicode": "Ocean's Sahara",
+              "Artist": "yoho",
+              "artist_unicode": "yoho",
+              "Author": {
+                "OnlineID": 8660315,
+                "Username": "gzdongsheng",
+                "CountryString": "Unknown"
+              },
+              "Source": "Shooter's Festival 2020",
+              "tags": "yoho114 sfes2020 k-shoot mania ksm electronic instrumental osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 finals fn f hybrid generic hb hb1",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 10.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604898/covers/cover@2x.jpg?1786973796",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604898/covers/card@2x.jpg?1786973796",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604898/covers/list@2x.jpg?1786973796"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827823,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5827823,
+            "DifficultyName": "[4K] Evanescence (edit)",
+            "BPM": 197.83,
+            "Length": 126000.0,
+            "StarRating": 5.84199,
+            "EndTimeObjectCount": 912,
+            "TotalObjectCount": 2214,
+            "Metadata": {
+              "Title": "Disorder",
+              "title_unicode": "Disorder",
+              "Artist": "HyuN feat. YURI",
+              "artist_unicode": "HyuN feat. YURI",
+              "Author": {
+                "OnlineID": 17146433,
+                "Username": "OxalicAcid",
+                "CountryString": "Unknown"
+              },
+              "Source": "G2R2018 Climax -GO BACK 2 YOUR ROOTS 2018 climax-",
+              "tags": "electronic english instrumental bms muse dash phigros kalpa rotaeno video game vgm cross†soul [d3ip] innocent records depressive team double phase mcnc finals fn f hybrid hb hb2 shield jack-main osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 featured artist fa",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.3,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604937/covers/cover@2x.jpg?1786975941",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604937/covers/card@2x.jpg?1786975941",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604937/covers/list@2x.jpg?1786975941"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827764,
+          "Mods": "HB",
+          "BeatmapInfo": {
+            "OnlineID": 5827764,
+            "DifficultyName": "[4K] Distorted Love",
+            "BPM": 107.0,
+            "Length": 125000.0,
+            "StarRating": 7.07207,
+            "EndTimeObjectCount": 866,
+            "TotalObjectCount": 2009,
+            "Metadata": {
+              "Title": "<3 x <3",
+              "title_unicode": "♥×♥",
+              "Artist": "ProjectG as Kyokushi",
+              "artist_unicode": "ProjectG as 曲師",
+              "Author": {
+                "OnlineID": 9492856,
+                "Username": "chy030_ft_pH5_6",
+                "CountryString": "Unknown"
+              },
+              "Source": "THE BMS OF FIGHTERS : TT -Sonata for the 20th Ceremony-",
+              "tags": "electronic instrumental hardcore j-core rhythm game project-g pr_g projectg twenty surplus team distorted emoji groundbreaking gdbg bof:tt boftt love × times love lovetimeslove ε>×<з mcnc finals fn f hybrid hb hb3 technical wildcard osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604905/covers/cover@2x.jpg?1786974269",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604905/covers/card@2x.jpg?1786974269",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604905/covers/list@2x.jpg?1786974269"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5828247,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5828247,
+            "DifficultyName": "[4K] perseverance",
+            "BPM": 290.0,
+            "Length": 179000.0,
+            "StarRating": 6.19857,
+            "EndTimeObjectCount": 2809,
+            "TotalObjectCount": 2910,
+            "Metadata": {
+              "Title": "Ultra Girl",
+              "title_unicode": "3分ガール",
+              "Artist": "HIMEHINA",
+              "artist_unicode": "HIMEHINA",
+              "Author": {
+                "OnlineID": 8521723,
+                "Username": "MyZterioN-",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "rock pop japanese j-pop jpop j-rock jrock female vocals 2nd album 希織歌 キリカ kiryca hao music haom-3 ヒメヒナ 田中ヒメ tanaka hime 鈴木ヒナ suzuki hina ゴゴ gohgo 大山徹也 tetsuya ohyama 高慶\"co-k\"卓史 kokei”co-k”takafumi 西村奈央 nao nishimura 二家本亮介 ryosuke nikamoto shin 細見 遼太郎 ryotaro hosomi 柳 俊彰 toshiaki yanagi 鈴木 夕香 yuuka suzuki mcnc finals fn f long note ln ln1 coordination osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2605041/covers/cover@2x.jpg?1786983854",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2605041/covers/card@2x.jpg?1786983854",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2605041/covers/list@2x.jpg?1786983854"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827771,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5827771,
+            "DifficultyName": "[4K] 0K 1.0x",
+            "BPM": 250.0,
+            "Length": 216000.0,
+            "StarRating": 6.90228,
+            "EndTimeObjectCount": 3355,
+            "TotalObjectCount": 3460,
+            "Metadata": {
+              "Title": "Frozen (Sunhiausa's 250BPM Bootleg)",
+              "title_unicode": "Frozen (Sunhiausa's 250BPM Bootleg)",
+              "Artist": "Madonna",
+              "artist_unicode": "Madonna",
+              "Author": {
+                "OnlineID": 13094831,
+                "Username": "Blue_Potion",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "instrumental electronic stamina density frenchcore hardcore mcnc finals fn f ln2 ln long note osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.3,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.5,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604908/covers/cover@2x.jpg?1786974579",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604908/covers/card@2x.jpg?1786974579",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604908/covers/list@2x.jpg?1786974579"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827775,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5827775,
+            "DifficultyName": "[4K] Spiral",
+            "BPM": 186.0,
+            "Length": 131000.0,
+            "StarRating": 6.95644,
+            "EndTimeObjectCount": 1546,
+            "TotalObjectCount": 2248,
+            "Metadata": {
+              "Title": "TETRATONE ALTiSSiMO",
+              "title_unicode": "TETRΛTONE ΛLTiSSiMO",
+              "Artist": "Trina Lydia",
+              "artist_unicode": "Trina Lydia",
+              "Author": {
+                "OnlineID": 17527968,
+                "Username": "V1do-",
+                "CountryString": "Unknown"
+              },
+              "Source": "1K Dan Course",
+              "tags": "electronic instrumental hardcore schranz edm breaks artcore future bass ep!c discoveries mcnc finals fn f long note ln ln3 tech shield osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 featured artist fa",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.3,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604910/covers/cover@2x.jpg?1786974513",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604910/covers/card@2x.jpg?1786974513",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604910/covers/list@2x.jpg?1786974513"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5828059,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5828059,
+            "DifficultyName": "[4K] Wings from a fallen tune.",
+            "BPM": 194.0,
+            "Length": 207000.0,
+            "StarRating": 7.2476,
+            "EndTimeObjectCount": 1702,
+            "TotalObjectCount": 1989,
+            "Metadata": {
+              "Title": "Angelstar",
+              "title_unicode": "Angelstar",
+              "Artist": "lexycat",
+              "artist_unicode": "lexycat",
+              "Author": {
+                "OnlineID": 11734610,
+                "Username": "Nepijin",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "electronic instrumental millexica digicore drum n bass dnb d&b d'n'b indietronica plunderphonics nocturnal underground dark blossom spikechain records from flowers 花火 secretstar demo jasmine my melody spidergirl jane remover kodak moment vivid stasis vivid/stasis v/s boundary shatter mcnc finals fn f long note ln ln4 dump wildcard osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯 featured artist fa foxgirls elexire",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.4,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604972/covers/cover@2x.jpg?1786979332",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604972/covers/card@2x.jpg?1786979332",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604972/covers/list@2x.jpg?1786979332"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827796,
+          "Mods": "LN",
+          "BeatmapInfo": {
+            "OnlineID": 5827796,
+            "DifficultyName": "[4K] Mission Success (MCNC Edit)",
+            "BPM": 182.0,
+            "Length": 264000.0,
+            "StarRating": 8.0932,
+            "EndTimeObjectCount": 3230,
+            "TotalObjectCount": 4591,
+            "Metadata": {
+              "Title": "Speedrun",
+              "title_unicode": "Speedrun",
+              "Artist": "Camellia",
+              "artist_unicode": "かめりあ",
+              "Author": {
+                "OnlineID": 9705896,
+                "Username": "Muses",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ln longnote long note dubcore cametek kamelcamellia kamel electro edm edp presents ravemania speed exit tunes dance party qwce-90008 chiptune featured artist",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 7.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.1,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2455607/covers/cover@2x.jpg?1786975306",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2455607/covers/card@2x.jpg?1786975306",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2455607/covers/list@2x.jpg?1786975306"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        },
+        {
+          "ID": 5827807,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 5827807,
+            "DifficultyName": "[4K] Hyakkiyagyo",
+            "BPM": 256.0,
+            "Length": 312000.0,
+            "StarRating": 8.17781,
+            "EndTimeObjectCount": 2366,
+            "TotalObjectCount": 5362,
+            "Metadata": {
+              "Title": "Oukaranman",
+              "title_unicode": "櫻華爛熳",
+              "Artist": "TBN & ZhuLin",
+              "artist_unicode": "TBN & 竹林",
+              "Author": {
+                "OnlineID": 11724295,
+                "Username": "FlappiBakuse",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "electronic instrumental edm oriental 7/4 breakcore artcore kimagure potential kasokuki:collective kskkcd-002 加速器コレクティブ 気まぐれポテンシャル m3-55 m3 2025春 spring 擬似レーベル aono kou 碧音コウ 青野コウ koukondaikon hybrid mcnc finals fn f tb tiebreaker osu!mania 4k chinese national cup 2026 rebirth mcnc2026 mcnc4k2026 中国国家杯",
+              "UserTags": [],
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 8.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.2,
+              "ApproachRate": 5.0,
+              "SliderMultiplier": 1.4,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/2604926/covers/cover@2x.jpg?1786975466",
+              "card@2x": "https://assets.ppy.sh/beatmaps/2604926/covers/card@2x.jpg?1786975466",
+              "list@2x": "https://assets.ppy.sh/beatmaps/2604926/covers/list@2x.jpg?1786975466"
+            },
+            "Ruleset": {
+              "OnlineID": 3,
+              "Name": "APIRuleset (ID: 3)",
+              "InstantiationInfo": ""
+            }
+          }
+        }
+      ],
+      "StartDate": "2026-08-19T10:00:00+00:00",
       "Matches": [
         62,
         86,
