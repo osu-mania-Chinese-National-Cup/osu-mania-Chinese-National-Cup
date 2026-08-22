@@ -4084,7 +4084,7 @@
           "BeatmapID": 5814839
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-15T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4177,7 +4177,7 @@
           "BeatmapID": 5814746
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-15T22:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4245,7 +4245,7 @@
           "BeatmapID": 5814469
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-15T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4333,7 +4333,7 @@
           "BeatmapID": 5814746
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-15T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4411,7 +4411,7 @@
           "BeatmapID": 5814740
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-16T21:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4479,7 +4479,7 @@
           "BeatmapID": 5814807
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-16T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4552,7 +4552,7 @@
           "BeatmapID": 5814746
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-15T13:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4635,7 +4635,7 @@
           "BeatmapID": 5814804
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-13T20:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4728,7 +4728,7 @@
           "BeatmapID": 5827807
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2026-08-21T18:00:00+08:00",
       "ConditionalMatches": [],
       "Position": {
@@ -4738,15 +4738,15 @@
     },
     {
       "ID": 86,
-      "Team1Acronym": "Vain_",
+      "Team1Acronym": "[GB]ParasolTree",
       "Team1Score": null,
-      "Team2Acronym": "[GB]ParasolTree",
+      "Team2Acronym": "Vain_",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-21T18:00:00+08:00",
+      "Date": "2026-08-22T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2750,
@@ -4762,8 +4762,8 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2026-08-21T18:00:00+08:00",
+      "Current": true,
+      "Date": "2026-08-22T06:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2750,
@@ -4772,13 +4772,14 @@
     },
     {
       "ID": 73,
+      "Team1Acronym": "bili_TYL",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2026-08-21T18:00:00+08:00",
+      "Date": "2026-08-23T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2940,
@@ -8569,6 +8570,7 @@
               "DrainRate": 8.0,
               "CircleSize": 4.0,
               "OverallDifficulty": 8.0,
+              "ApproachRate": 5.0,
               "SliderMultiplier": 1.4,
               "SliderTickRate": 1.0
             },
@@ -9065,7 +9067,7 @@
           }
         }
       ],
-      "StartDate": "2026-08-19T10:00:00+00:00",
+      "StartDate": "2026-08-19T18:00:00+08:00",
       "Matches": [
         62,
         86,
