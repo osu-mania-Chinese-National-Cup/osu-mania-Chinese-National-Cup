@@ -4932,12 +4932,98 @@
     {
       "ID": 74,
       "Team1Acronym": "-Veloce-",
-      "Team1Score": 0,
+      "Team1Score": 6,
       "Team2Acronym": "bili_TYL",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 7,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Protected",
+          "BeatmapID": 5842979
+        },
+        {
+          "Team": "Red",
+          "Type": "Protected",
+          "BeatmapID": 5843043
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3927148
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 5842869
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5843043
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5842979
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5842947
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5842881
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5842901
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5843044
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5843004
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5843035
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5842867
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5842868
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5843263
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5842943
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 5843040
+        }
+      ],
       "Current": true,
       "Date": "2026-08-27T20:30:00+08:00",
       "ConditionalMatches": [],
